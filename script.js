@@ -161,10 +161,13 @@ searchInput.addEventListener("input", () => {
   if (!term) return;
 
   // Solo muestra personajes filtrados por Canon/filtro activo
-  const matches = filtrarPorCanon(personajes).filter(p =>
+  /*const matches = filtrarPorCanon(personajes).filter(p =>
     !personajesUsados.includes(p[nombreKey]) &&
     p[nombreKey]?.toLowerCase().includes(term)
-  );
+  );*/
+  const matches = filtrarPorCanon(personajes)
+  .filter(p => !personajesUsados.includes(p[nombreKey]) && p[nombreKey]?.toLowerCase().includes(term))
+  .slice(0, 10); // solo los primeros 10
 
    // Crea y muestra cada sugerencia
   matches.forEach(p => {
