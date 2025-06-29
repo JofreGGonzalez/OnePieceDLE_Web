@@ -220,6 +220,7 @@ function procesarIntento(p) {
     const tdImg = document.createElement("td");
     const img = document.createElement("img");
     img.src = p[fotoKey];
+    img.crossOrigin = "anonymous";
     img.alt = p[nombreKey];
     img.style.width = "100%";
     img.style.height = "100%";
