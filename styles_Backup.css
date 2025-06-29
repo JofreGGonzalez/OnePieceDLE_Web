@@ -1,0 +1,438 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  background-image: url('images/wallpaper/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  margin: 0;
+}
+.container {
+  width: 100%;
+  /*padding: 20px 10%;*/
+  padding-top: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+#suggestions {
+  border: 1px solid #ccc;
+  background: #fff;
+  position: absolute;
+  width: calc(100% - 40px);
+}
+.suggestion {
+  padding: 8px;
+  cursor: pointer;
+}
+.suggestion:hover {
+  background: #eee;
+}
+#card {
+  border: 1px solid #ccc;
+  margin-top: 20px;
+  padding: 16px;
+  background: #fff;
+}
+#card img {
+  max-width: 100px;
+}
+#card-info div {
+  margin: 4px 0;
+}
+.correct {
+  color: green;
+}
+.wrong {
+  color: red;
+}
+.hidden {
+  display: none;
+}
+#reveal {
+  margin-top: 16px;
+}
+
+#suggestions {
+  border: 1px solid #ccc;
+  background: #fff;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 10;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.suggestion {
+  display: flex;
+  align-items: center;
+  max-height: 50px;
+  overflow: hidden;
+}
+
+/*.suggestion img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 10px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}*/
+
+#answer-log {
+  margin-top: 40px;
+}
+
+.attempt {
+  border: 1px solid #ccc;
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.attempt img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.attempt-info {
+  flex: 1;
+  text-align: left;
+}
+
+.correct {
+  color: green;
+  font-weight: bold;
+}
+
+.wrong {
+  color: red;
+}
+
+#result-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+#result-table td {
+  padding: 6px;
+  text-align: center;
+  min-width: 70px;
+  max-width: 150px;
+  height: 70px;
+
+  -webkit-line-clamp: 2;        /* 👈 permitir máximo 2 líneas */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-break: break-word;
+
+  border: 2px solid #261a11;
+  border-radius: 10px; /* bordes redondeados */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* efecto de "flotación" */
+
+  font-size: 20px;
+}
+
+#result-table th {
+  padding: 6px;
+  text-align: center;
+  min-width: 70px;
+  max-width: 90px;
+  height: 70px;
+
+  -webkit-line-clamp: 2;        /* 👈 permitir máximo 2 líneas */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+  word-break: break-word;
+
+  font-size: 17px;
+}
+
+
+#result-table th {
+  color: white;
+  text-shadow:
+    /* 1px contorno */
+    -1px -1px 0 black,  0 -1px 0 black,  1px -1px 0 black,
+    -1px  0px 0 black,               1px  0px 0 black,
+    -1px  1px 0 black,  0  1px 0 black,  1px  1px 0 black,
+
+    /* 2px contorno */
+    -2px -2px 0 black,  0 -2px 0 black,  2px -2px 0 black,
+    -2px  0px 0 black,               2px  0px 0 black,
+    -2px  2px 0 black,  0  2px 0 black,  2px  2px 0 black,
+
+    /* 3px contorno */
+    -3px -3px 0 black,  0 -3px 0 black,  3px -3px 0 black,
+    -3px  0px 0 black,               3px  0px 0 black,
+    -3px  3px 0 black,  0  3px 0 black,  3px  3px 0 black;
+}
+
+#result-table td,
+.pista-texto {
+  color: white;
+  text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+
+.correct-cell {
+  background-color: #48ca4d;
+}
+
+.wrong-cell {
+  background-color: #d44755;
+}
+
+.invisible-cell {
+  opacity: 0;
+  transform: translateY(5px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.reveal {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.table-wrapper {
+  margin: 0 8%;
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 20px;
+}
+
+#result-table {
+  min-width: 600px; /* opcional: fuerza el scroll si es necesario */
+  width: 100%;
+  border-collapse: separate;
+  table-layout: auto;
+  border-spacing: 5px;
+}
+
+#search {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+.search-group {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.flecha-arriba {
+  background-image: url('images/icons/arrowUp3.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.flecha-abajo {
+  background-image: url('images/icons/arrowDown3.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90% 90%;
+}
+
+.mini-foto{
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  margin-right: 10px;
+  border-radius: 4px;
+  flex-shrink: 0;
+  display: block;
+}
+
+#result-table {
+  width: max-content; /* 👈 permite crecer según contenido */
+}
+
+.scroll-mirror {
+  overflow-x: auto;
+  height: 16px;
+  margin: 0 10%;
+}
+
+.scroll-content {
+  width: fit-content;
+  height: 1px;
+}
+
+.scroll-mirror::before {
+  content: '';
+  display: block;
+  width: fit-content;
+  min-width: 100%;
+  height: 1px;
+}
+
+.haki-icons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-items: center;
+  align-items: center;
+  gap: 2px;
+  padding: 4px 0;
+}
+
+.haki-icons img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+.pistas-container {
+  display: flex;
+  flex-direction: column; /* Ahora columna */
+  align-items: center;
+  gap: 10px;
+  background-image: url('images/wallpaper/Wall02.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  width: 550px;
+  padding: 10px 0;
+  margin: 0 auto 70px;
+  border: 3px solid #28251d;
+  border-radius: 8px;
+}
+
+.pista-btn {
+  background-image: url('images/wallpaper/Wall.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+
+  border: 3px solid #28251d;
+  border-radius: 8px;
+  height: 50px;
+  margin: auto;
+
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.pista-btn:enabled { opacity: 1; }
+
+.pista-btn img {
+  width: 35px;
+  height: 35px;
+}
+
+.pistas-botones {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+
+  text-align: center;
+  font-size: 18px;
+  margin-top: 5px;
+  color: white;
+}
+
+
+.pista-texto {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+#canon-filter-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: rgba(255,255,255,0.9);
+  padding: 8px 12px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  font-size: 14px;
+  z-index: 20;
+}
+
+h1{
+  font-size: 3em;
+
+  color: white;
+  text-shadow:
+    /* 1px contorno */
+    -1px -1px 0 black,  0 -1px 0 black,  1px -1px 0 black,
+    -1px  0px 0 black,               1px  0px 0 black,
+    -1px  1px 0 black,  0  1px 0 black,  1px  1px 0 black,
+
+    /* 2px contorno */
+    -2px -2px 0 black,  0 -2px 0 black,  2px -2px 0 black,
+    -2px  0px 0 black,               2px  0px 0 black,
+    -2px  2px 0 black,  0  2px 0 black,  2px  2px 0 black,
+
+    /* 3px contorno */
+    -3px -3px 0 black,  0 -3px 0 black,  3px -3px 0 black,
+    -3px  0px 0 black,               3px  0px 0 black,
+    -3px  3px 0 black,  0  3px 0 black,  3px  3px 0 black,
+    
+    /* 4px contorno */
+    -4px -4px 0 black,  0 -4px 0 black,  4px -4px 0 black,
+    -4px  0px 0 black,               4px  0px 0 black,
+    -4px  4px 0 black,  0  4px 0 black,  4px  4px 0 black,
+    
+    /* 5px contorno */
+    -5px -5px 0 black,  0 -5px 0 black,  5px -5px 0 black,
+    -5px  0px 0 black,               5px  0px 0 black,
+    -5px  5px 0 black,  0  5px 0 black,  5px  5px 0 black,
+    
+    /* 6px contorno */
+    -6px -6px 0 black,  0 -6px 0 black,  6px -6px 0 black,
+    -6px  0px 0 black,               6px  0px 0 black,
+    -6px  5px 0 black,  0  6px 0 black,  6px  6px 0 black;
+}
+
+#canon-filter-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+  z-index: 20;
+}
+
+#canon-filter-container div {
+  display: flex;
+  flex-direction: column;
+}
+
+#canon-filter-container select {
+  min-width: 100px;
+}

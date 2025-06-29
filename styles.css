@@ -1,0 +1,376 @@
+/* Base global y fondo fijo */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f0f0f0 url('images/wallpaper/background.jpg') center center no-repeat fixed;
+  background-size: cover;
+}
+
+/* Contenedor principal */
+.container {
+  width: 100%;
+  padding-top: 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* Buscador y sugerencias */
+.search-group {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+
+#search {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  border: 1px solid #ccc;
+  background: #fff;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 10;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.suggestion {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggestion:hover {
+  background: #eee;
+}
+
+.mini-foto {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  margin-right: 10px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+/* Resultados de intentos: tabla y filas */
+.table-wrapper {
+  margin: 0 8%;
+  overflow-x: auto;
+  padding-bottom: 20px;
+}
+
+#result-table {
+  border-spacing: 5px;
+  border-collapse: separate;
+  width: max-content;
+  min-width: 600px;
+}
+
+#result-table th,
+#result-table td {
+  padding: 6px;
+  text-align: center;
+  min-width: 70px;
+  max-width: 150px;
+  height: 70px;
+  overflow: hidden;
+  word-break: break-word;
+  font-size: 20px;
+}
+
+#result-table td{
+  border: 2px solid #261a11;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+#result-table th {
+  font-size: 17px;
+  color: white;
+  /* Texto con contorno negro grueso */
+  text-shadow:
+    -1px -1px 0 black, 0 -1px 0 black, 1px -1px 0 black,
+    -1px 0 0 black,               1px 0 0 black,
+    -1px 1px 0 black, 0 1px 0 black, 1px 1px 0 black,
+    /* Repetir capas para grosor adicional */
+    -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black,
+    -2px 0 0 black,               2px 0 0 black,
+    -2px 2px 0 black, 0 2px 0 black, 2px 2px 0 black,
+    -3px -3px 0 black, 0 -3px 0 black, 3px -3px 0 black,
+    -3px 0px 0 black,             3px 0 0 black,
+    -3px 3px 0 black, 0 3px 0 black, 3px 3px 0 black,
+    -4px -4px 0 black, 0 -4px 0 black, 4px -4px 0 black,
+    -4px 0 0 black,               4px 0 0 black,
+    -4px 4px 0 black, 0 4px 0 black, 4px 4px 0 black,
+    -5px -5px 0 black, 0 -5px 0 black, 5px -5px 0 black,
+    -5px 0 0 black,               5px 0 0 black,
+    -5px 5px 0 black, 0 5px 0 black, 5px 5px 0 black;
+}
+
+#result-table td,
+.pista-texto {
+  color: white;
+  /* Sombra suave para resaltar el texto */
+  text-shadow:
+    -1px -1px 0 black,
+     1px -1px 0 black,
+    -1px  1px 0 black,
+     1px  1px 0 black;
+}
+
+/* Estados de celda */
+.correct-cell { background-color: #48ca4d; }
+.wrong-cell   { background-color: #d44755; }
+
+/* Transición de aparición */
+.invisible-cell {
+  opacity: 0;
+  transform: translateY(5px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+.reveal {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Flechas de fondo */
+.flecha-arriba,
+.flecha-abajo {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.flecha-arriba { background-image: url('images/icons/arrowUp3.png'); }
+.flecha-abajo { background-image: url('images/icons/arrowDown3.png'); }
+
+/* Mini fotos en tabla */
+td img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Iconos de Haki */
+.haki-icons {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-items: center;
+  align-items: center;
+  gap: 2px;
+  padding: 4px 0;
+}
+
+.haki-icons img {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
+/* Pistas: botones e interfaz */
+.pistas-container {
+  width: 550px;
+  margin: 0 auto 70px;
+  padding: 10px 0;
+  background: url('images/wallpaper/Wall02.jpg') top/cover no-repeat;
+  border: 3px solid #28251d;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Contenedor de botones */
+.pistas-botones {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+
+/* Botones de pista */
+.pista-btn {
+  background-image: url('images/wallpaper/Wall.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+
+  border: 3px solid #28251d;
+  border-radius: 8px;
+  height: 50px;
+  margin: auto;
+
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.pista-btn:enabled {
+  opacity: 1;
+}
+.pista-btn img {
+  width: 35px;
+  height: 35px;
+}
+
+/* Texto de pista */
+.pista-texto {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* Ocultar elementos */
+.hidden {
+  display: none;
+}
+
+/* Selector Canon + Idioma (parte superior derecha) */
+#canon-filter-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 20;
+  background: rgba(255,255,255,0.9);
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+#canon-filter-container div {
+  display: flex;
+  flex-direction: column;
+}
+
+#canon-filter-container select {
+  min-width: 100px;
+}
+
+/* Encabezado principal */
+h1 {
+  font-size: 3em;
+  color: white;
+  text-shadow:
+    -1px -1px 0 black, 1px -1px 0 black,
+    -1px  1px 0 black, 1px  1px 0 black,
+    /* Capas para mayor grosor */
+    -2px -2px 0 black, 2px 2px 0 black,
+    -3px -3px 0 black, 3px 3px 0 black,
+    -4px -4px 0 black, 4px 4px 0 black,
+    -5px -5px 0 black, 5px 5px 0 black;
+}
+
+/* Ocultar repetidos de #result-table */
+.scroll-mirror,
+.scroll-content {
+  overflow-x: auto;
+}
+
+@media only screen and (max-width: 960px) {
+  /* Ajuste general del contenedor principal */
+  .container {
+    padding-top: 10px;
+  }
+
+  /* Ajustes para el título */
+  h1 {
+    font-size: 1.8em;
+  }
+
+  /* Buscador más compacto */
+  .search-group,
+  #search {
+    max-width: 90%;
+    font-size: 14px;
+  }
+
+  /* Sugerencias más legibles */
+  .suggestion {
+    padding: 6px;
+    font-size: 14px;
+  }
+
+  .mini-foto {
+    width: 30px;
+    height: 30px;
+    margin-right: 6px;
+  }
+
+  /* Contenedor de pistas */
+  .pistas-container {
+    width: 95%;
+    margin: 0 auto 40px;
+    padding: 10px;
+  }
+
+  .pista-btn img {
+    width: 28px;
+    height: 28px;
+  }
+
+  .pista-texto {
+    font-size: 16px;
+  }
+
+  /* Selector canon/idioma más pequeño */
+  #canon-filter-container {
+    top: 10px;
+    right: 10px;
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  #canon-filter-container select {
+    min-width: auto;
+    width: 100%;
+  }
+
+  /* Tabla responsiva */
+  .table-wrapper {
+    margin: 0 4%;
+  }
+
+  #result-table {
+    font-size: 14px;
+    min-width: 500px;
+  }
+
+  #result-table td,
+  #result-table th {
+    font-size: 14px;
+    min-width: 60px;
+    max-width: 120px;
+    height: 60px;
+  }
+
+  .haki-icons img {
+    width: 16px;
+    height: 16px;
+  }
+}

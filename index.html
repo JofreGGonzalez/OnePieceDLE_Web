@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>One Piece DLE Classic Clone</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div id="canon-filter-container">
+        <div>
+            <label for="canon-filter">Canon:</label>
+            <select id="canon-filter">
+                <option value="1" selected>Sí</option>
+                <option value="0">No</option>
+                <option value="ambos">Ambos</option>
+            </select>
+        </div>
+        <div>
+            <select id="lang-select">
+                <option value="es">Español</option>
+                <option value="en">English</option>
+                <option value="fr">Français</option>
+                <option value="jp">日本語</option>
+            </select>
+        </div>
+    </div>
+
+    
+
+    <div class="container">
+        <h1>Adivina el personaje de One Piece</h1>
+
+        <div id="pistas" class="pistas-container">
+            <div class="pistas-botones">
+                <button class="pista-btn" data-key="Año de Aparición" disabled><img src="images/icons/Año.png" alt="Año"></button>
+                <button class="pista-btn" data-key="Ocupación" disabled><img src="images/icons/Ocupation.png" alt="Ocupación"></button>
+                <button class="pista-btn" data-key="Afiliación" disabled><img src="images/icons/Crew.png" alt="Afiliación"></button>
+                <button class="pista-btn" data-key="Nombre Fruta" disabled><img src="images/icons/DFIconRecreation.webp" alt="Fruta"></button>
+                <button class="pista-btn" data-key="Significado Fruta" disabled><img src="images/icons/Significado.png" alt="Significado"></button>
+                <button class="pista-btn" data-key="Episodio de Aparición" disabled><img src="images/icons/Episodeo.png" alt="Episodio"></button>
+                <button class="pista-btn" data-key="letraInicial" disabled><img src="images/icons/Letter.png" alt="Letra"></button>
+            </div>
+
+            <div id="pista-texto" class="pista-texto hidden"></div>
+        </div>
+
+        <!--<div id="pista-texto" class="pista-texto hidden"></div>-->
+
+        <div class="search-group">
+            <input id="search" type="text" placeholder="Empieza a escribir...">
+            <div id="suggestions"></div>
+        </div>
+
+        <div id="answer-log">
+            <div class="table-wrapper">
+                <table id="result-table" class="hidden">
+                    <thead id="table-head"></thead>
+                    <tbody id="table-body"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
