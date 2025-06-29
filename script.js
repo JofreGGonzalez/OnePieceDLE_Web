@@ -161,13 +161,15 @@ searchInput.addEventListener("input", () => {
   if (!term) return;
 
   // Solo muestra personajes filtrados por Canon/filtro activo
-  /*const matches = filtrarPorCanon(personajes).filter(p =>
+  const matches = filtrarPorCanon(personajes).filter(p =>
     !personajesUsados.includes(p[nombreKey]) &&
     p[nombreKey]?.toLowerCase().includes(term)
-  );*/
-  const matches = filtrarPorCanon(personajes)
+  );
+
+  //para mostrar solo los 10 primeros
+  /*const matches = filtrarPorCanon(personajes)
   .filter(p => !personajesUsados.includes(p[nombreKey]) && p[nombreKey]?.toLowerCase().includes(term))
-  .slice(0, 10); // solo los primeros 10
+  .slice(0, 10); // solo los primeros 10*/
 
    // Crea y muestra cada sugerencia
   matches.forEach(p => {
@@ -175,7 +177,11 @@ searchInput.addEventListener("input", () => {
     div.classList.add("suggestion");
 
     const img = document.createElement("img");
-    img.src = p[fotoKey] || "https://via.placeholder.com/40";
+    //img.src = p[fotoKey] || "https://via.placeholder.com/40";
+    const rawURL = p[fotoKey];
+    img.src = rawURL?.includes("/revision/latest")
+      ? rawURL.replace("/revision/latest", "/revision/latest/scale-to-width-down/60")
+      : rawURL || "https://via.placeholder.com/40";
     img.alt = p[nombreKey];
     img.classList.add("mini-foto");
 
@@ -223,7 +229,11 @@ function procesarIntento(p) {
     const tdImg = document.createElement("td");
     const img = document.createElement("img");
     img.loading = "lazy";
-    img.src = p[fotoKey];
+    //img.src = p[fotoKey];
+    const rawURL = p[fotoKey];
+    img.src = rawURL?.includes("/revision/latest")
+      ? rawURL.replace("/revision/latest", "/revision/latest/scale-to-width-down/60")
+      : rawURL;
     img.crossOrigin = "anonymous";
     img.alt = p[nombreKey];
     img.style.width = "100%";
