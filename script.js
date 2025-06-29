@@ -219,6 +219,7 @@ function procesarIntento(p) {
     // Añadir imagen del personaje
     const tdImg = document.createElement("td");
     const img = document.createElement("img");
+    img.loading = "lazy";
     img.src = p[fotoKey];
     img.crossOrigin = "anonymous";
     img.alt = p[nombreKey];
