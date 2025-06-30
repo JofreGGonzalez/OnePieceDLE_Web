@@ -177,11 +177,7 @@ searchInput.addEventListener("input", () => {
     div.classList.add("suggestion");
 
     const img = document.createElement("img");
-    //img.src = p[fotoKey] || "https://via.placeholder.com/40";
-    const rawURL = p[fotoKey];
-    img.src = rawURL?.includes("/revision/latest")
-      ? rawURL.replace("/revision/latest", "/revision/latest/scale-to-width-down/60")
-      : rawURL || "https://via.placeholder.com/40";
+    img.src = p[fotoKey] || "https://via.placeholder.com/40";
     img.alt = p[nombreKey];
     img.classList.add("mini-foto");
 
@@ -229,12 +225,7 @@ function procesarIntento(p) {
     const tdImg = document.createElement("td");
     const img = document.createElement("img");
     img.loading = "lazy";
-    //img.src = p[fotoKey];
-    const rawURL = p[fotoKey];
-    img.src = rawURL?.includes("/revision/latest")
-      ? rawURL.replace("/revision/latest", "/revision/latest/scale-to-width-down/60")
-      : rawURL;
-    img.crossOrigin = "anonymous";
+    img.src = p[fotoKey];
     img.alt = p[nombreKey];
     img.style.width = "100%";
     img.style.height = "100%";
