@@ -526,9 +526,18 @@ canonFilter.addEventListener("change", () => {
 // Calcula el número de slot (cada 12h)
 function getCurrentSlot() {
   const msPerSlot = 12 * 60 * 60 * 1000;
-  const base = new Date("2025-01-01T00:00:00Z").getTime();
+  const base = Date.UTC(2025, 0, 1, 0, 0, 0);  // Enero = 0
   const now = Date.now();
-  return Math.floor((now - base) / msPerSlot);
+  const utcNow = Date.UTC(
+    new Date().getUTCFullYear(),
+    new Date().getUTCMonth(),
+    new Date().getUTCDate(),
+    new Date().getUTCHours(),
+    new Date().getUTCMinutes(),
+    new Date().getUTCSeconds(),
+    new Date().getUTCMilliseconds()
+  );
+  return Math.floor((utcNow - base) / msPerSlot);
 }
 
 // Calcula y devuelve un personaje objetivo único por slot + filtro
