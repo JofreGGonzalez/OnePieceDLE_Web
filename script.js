@@ -674,12 +674,42 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.style.backgroundPosition = "center top";
 
     try {
-      const colorThief = new ColorThief();
-      const [r, g, b] = colorThief.getColor(img);
+      //const colorThief = new ColorThief();
+      //const [r, g, b] = colorThief.getColor(img);
+      const [r, g, b] = getAverageRGB(img);
       document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
-      //console.log('Color detectado:', r, g, b);
     } catch (err) {
       console.error('ColorThief error:', err);
     }
   });
 });
+
+
+//Promedio
+function getAverageRGB(imgEl) {
+  const canvas = document.createElement('canvas');
+  const context = canvas.getContext('2d');
+  const width = canvas.width = imgEl.naturalWidth;
+  const height = canvas.height = imgEl.naturalHeight;
+
+  context.drawImage(imgEl, 0, 0, width, height);
+
+  const imageData = context.getImageData(0, 0, width, height);
+  const data = imageData.data;
+
+  let r = 0, g = 0, b = 0;
+  let count = 0;
+
+  for (let i = 0; i < data.length; i += 4) {
+    r += data[i];
+    g += data[i + 1];
+    b += data[i + 2];
+    count++;
+  }
+
+  r = Math.floor(r / count);
+  g = Math.floor(g / count);
+  b = Math.floor(b / count);
+
+  return [r, g, b];
+}
