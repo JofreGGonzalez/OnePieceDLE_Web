@@ -73,10 +73,10 @@ const personajesUsados = [];
 const pistasOrdenadas = [
   "Año de Aparición",
   "Ocupación",
-  "Afiliación",
+  "Capitulo de Aparición",
   "Nombre Fruta",
   "Significado Fruta",
-  "Capitulo de Aparición",
+  "Afiliación",
   "letraInicial"
 ];
 const umbrales = [3, 6, 9, 12, 15, 18, 21];
@@ -150,6 +150,10 @@ seleccionarTargetAleatorio();
 //Estado de inicialización para evitar dobles cabeceras
 let tableInitialized = false;
 
+//Desplegable con dificultad
+const difficultyFilter = document.getElementById("difficulty-filter");
+actualizarVisibilidadDificultad();
+
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
 --------------------------- */
@@ -157,44 +161,11 @@ let tableInitialized = false;
 
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
-  suggestions.innerHTML = "";
-  if (!term) return;
-
-  // Solo muestra personajes filtrados por Canon/filtro activo
-  const matches = filtrarPorCanon(personajes).filter(p =>
-    !personajesUsados.includes(p[nombreKey]) &&
-    p[nombreKey]?.toLowerCase().includes(term)
-  );
-
-  //para mostrar solo los 10 primeros
-  /*const matches = filtrarPorCanon(personajes)
-  .filter(p => !personajesUsados.includes(p[nombreKey]) && p[nombreKey]?.toLowerCase().includes(term))
-  .slice(0, 10); // solo los primeros 10*/
-
-   // Crea y muestra cada sugerencia
-  matches.forEach(p => {
-    const div = document.createElement("div");
-    div.classList.add("suggestion");
-
-    const img = document.createElement("img");
-    img.src = p[fotoKey] || "https://via.placeholder.com/40";
-    img.alt = p[nombreKey];
-    img.classList.add("mini-foto");
-
-    const name = document.createElement("span");
-    name.textContent = p[nombreKey];
-
-    div.appendChild(img);
-    div.appendChild(name);
-
-    div.onclick = () => {
-      searchInput.value = "";
-      suggestions.innerHTML = "";
-      procesarIntento(p);
-    };
-
-    suggestions.appendChild(div);
-  });
+  if (!term) {
+    suggestions.innerHTML = "";
+    return;
+  }
+  populateSuggestions(term);
 });
 
 // Permite usar ENTER para seleccionar la primera sugerencia
@@ -410,6 +381,10 @@ function procesarIntento(p) {
         registrarFallosYActualizarPistas();
     }
 
+    const currentTerm = searchInput.value.trim().toLowerCase();
+    if (currentTerm) populateSuggestions(currentTerm);
+    else suggestions.innerHTML = "";
+
     personajesUsados.push(p[nombreKey]);
 }
 
@@ -485,7 +460,11 @@ function registrarFallosYActualizarPistas() {
     if (fallos >= umbral) {
       const key = pistasOrdenadas[idx];
       const btn = document.querySelector(`.pista-btn[data-key="${key}"]`);
-      btn.disabled = false;
+      if (btn) {
+        btn.disabled = false;
+      } else {
+        console.warn(`No se encontró botón con data-key="${key}"`);
+      }
     }
   });
 }
@@ -494,10 +473,71 @@ function registrarFallosYActualizarPistas() {
    FILTROS CANON Y SELECCIÓN OBJETIVO
 --------------------------- */
 // Filtra personajes según filtro Canon/No/Ambos
-function filtrarPorCanon(personajes) {
+/*function filtrarPorCanon(personajes) {
   const valor = canonFilter.value;
   if (valor === "ambos") return personajes;
   return personajes.filter(p => p["Canon"] === valor);
+}*/
+
+function filtrarPorCanon(lista) {
+  const canonVal = canonFilter.value;
+  const dificultad = document.getElementById("difficulty-filter")?.value || "dificil";
+
+  // Si canon es "ambos" o "0" (No), devolvemos sin aplicar dificultad
+  if (canonVal !== "1") return lista.filter(p => p["Canon"] === canonVal || canonVal === "ambos");
+
+  // Canon es "1", filtramos por dificultad
+  let filtrados = lista.filter(p => p["Canon"] === "1");
+
+  if (dificultad === "facil") {
+    filtrados = filtrados.filter(p =>
+      p["Origen"]?.trim() &&
+      p["Afiliación"]?.trim()
+    );
+  } else if (dificultad === "medio") {
+    filtrados = filtrados.filter(p =>
+      p["Capitulo de Aparición"] !== "Unknown" &&
+      p["Afiliación"]?.trim() &&
+      p["Ocupación"]?.trim() &&
+      p["Género"] !== "Unknown"
+    );
+  }
+  // dificultad === "dificil": no filtramos más
+
+  return filtrados;
+}
+
+function populateSuggestions(term) {
+  suggestions.innerHTML = "";
+  const matches = filtrarPorCanon(personajes)
+  .filter(p =>
+    !personajesUsados.includes(p[nombreKey]) &&
+    p[nombreKey]?.toLowerCase().includes(term)
+  );
+
+  matches.forEach(p => {
+    const div = document.createElement("div");
+    div.classList.add("suggestion");
+
+    const img = document.createElement("img");
+    img.src = p[fotoKey] || "https://via.placeholder.com/40";
+    img.alt = p[nombreKey];
+    img.classList.add("mini-foto");
+
+    const name = document.createElement("span");
+    name.textContent = p[nombreKey];
+
+    div.appendChild(img);
+    div.appendChild(name);
+
+    div.onclick = () => {
+      searchInput.value = "";
+      suggestions.innerHTML = "";
+      procesarIntento(p);
+    };
+
+    suggestions.appendChild(div);
+  });
 }
 
 // Selecciona personaje objetivo para slot actual
@@ -507,12 +547,17 @@ function seleccionarTargetAleatorio() {
 
 // Al cambiar filtro reinicia estado y selecciona nuevo objetivo
 canonFilter.addEventListener("change", () => {
+  actualizarVisibilidadDificultad();
+  
   seleccionarTargetAleatorio();         // Nuevo target filtrado
   tableBody.innerHTML = "";             // Borrar tabla
   personajesUsados.length = 0;          // Reiniciar usados
   pistaTexto.classList.add("hidden");   // Ocultar texto de pistas
   pistaTexto.textContent = "";
   fallos = 0;                            // Reiniciar fallos
+
+  searchInput.disabled = false;
+  searchInput.placeholder = "Busca un personaje...";
 
   // Reiniciar botones de pistas
   document.querySelectorAll(".pista-btn").forEach(btn => {
@@ -597,4 +642,44 @@ document.getElementById("lang-select").addEventListener("change", (e) => {
     tableHead.innerHTML = "";
     generarCabecera();
   }
+});
+
+// Mostrar u ocultar el selector de dificultad según Canon
+function actualizarVisibilidadDificultad() {
+  difficultyFilter.parentElement.style.display = canonFilter.value === "1" ? "block" : "none";
+}
+
+// Fuerza recarga de la tabla igual que se hace al cambiar el desplegable de Canon
+difficultyFilter.addEventListener("change", () => {
+  canonFilter.dispatchEvent(new Event("change"));
+});
+
+
+/* Poner fondo pantalla aleatorio */
+document.addEventListener("DOMContentLoaded", () => {
+  const maxFondos = 195;
+  const numero = Math.floor(Math.random() * (maxFondos + 1));
+  const url = `images/wallpaper/ColorSpread_${numero}.webp`;
+
+  const img = new Image();
+  img.crossOrigin = "anonymous"; // Necesario para evitar el canvas taint
+  img.src = url;
+  img.style.display = "none"; 
+  document.body.appendChild(img); 
+
+  img.addEventListener("load", () => {
+    document.body.style.backgroundImage = `url('${url}')`;
+    document.body.style.backgroundSize = "contain";
+    document.body.style.backgroundRepeat = "no-repeat";
+    document.body.style.backgroundPosition = "center top";
+
+    try {
+      const colorThief = new ColorThief();
+      const [r, g, b] = colorThief.getColor(img);
+      document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
+      console.log('Color detectado:', r, g, b);
+    } catch (err) {
+      console.error('ColorThief error:', err);
+    }
+  });
 });

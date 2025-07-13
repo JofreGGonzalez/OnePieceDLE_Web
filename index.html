@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <title>One Piece DLE Classic Clone</title>
   <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 </head>
 <body>
@@ -14,6 +15,13 @@
                 <option value="1" selected>Sí</option>
                 <option value="0">No</option>
                 <option value="ambos">Ambos</option>
+            </select>
+        </div>
+        <div>
+            <select id="difficulty-filter">
+                <option value="facil" selected>Fácil</option>
+                <option value="medio">Medio</option>
+                <option value="dificil">Difícil</option>
             </select>
         </div>
         <div>
@@ -33,13 +41,13 @@
 
         <div id="pistas" class="pistas-container">
             <div class="pistas-botones">
-                <button class="pista-btn" data-key="Año de Aparición" disabled><img src="images/icons/Año.png" alt="Año"></button>
-                <button class="pista-btn" data-key="Ocupación" disabled><img src="images/icons/Ocupation.png" alt="Ocupación"></button>
-                <button class="pista-btn" data-key="Afiliación" disabled><img src="images/icons/Crew.png" alt="Afiliación"></button>
-                <button class="pista-btn" data-key="Nombre Fruta" disabled><img src="images/icons/DFIconRecreation.webp" alt="Fruta"></button>
-                <button class="pista-btn" data-key="Significado Fruta" disabled><img src="images/icons/Significado.png" alt="Significado"></button>
-                <button class="pista-btn" data-key="Episodio de Aparición" disabled><img src="images/icons/Episodeo.png" alt="Episodio"></button>
-                <button class="pista-btn" data-key="letraInicial" disabled><img src="images/icons/Letter.png" alt="Letra"></button>
+                <button class="pista-btn" data-key="Año de Aparición" disabled><img src="images/icons/Año.png" alt="Año" title="Año"></button>
+                <button class="pista-btn" data-key="Ocupación" disabled><img src="images/icons/Ocupation.png" alt="Ocupación" title="Ocupación"></button>
+                <button class="pista-btn" data-key="Capitulo de Aparición" disabled><img src="images/icons/Episodeo.png" alt="Episodio" title="Capítulo de aparición"></button>
+                <button class="pista-btn" data-key="Nombre Fruta" disabled><img src="images/icons/DFIconRecreation.webp" alt="Fruta" title="Nombre de la fruta"></button>
+                <button class="pista-btn" data-key="Significado Fruta" disabled><img src="images/icons/Significado.png" alt="Significado" title="Significado de la fruta"></button>
+                <button class="pista-btn" data-key="Afiliación" disabled><img src="images/icons/Crew.png" alt="Afiliación" title="Afiliación"></button>
+                <button class="pista-btn" data-key="letraInicial" disabled><img src="images/icons/Letter.png" alt="Letra" title="Letra inicial"></button>
             </div>
 
             <div id="pista-texto" class="pista-texto hidden"></div>

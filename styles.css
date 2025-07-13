@@ -2,8 +2,10 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background: #f0f0f0 url('images/wallpaper/background.jpg') center center no-repeat fixed;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
 }
 
 /* Contenedor principal */
