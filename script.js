@@ -679,11 +679,17 @@ document.addEventListener("DOMContentLoaded", () => {
       //const [r, g, b] = colorThief.getColor(img);
 
       //Para el mejor color de la paleta de colores
-      const palette = colorThief.getPalette(img, 6);
-      const [r, g, b] = getMostVividColor(palette);
+      //const palette = colorThief.getPalette(img, 6);
+      //const [r, g, b] = getMostVividColor(palette);
 
       //Para media de colores
       //const [r, g, b] = getAverageRGB(img);
+
+      //Por color dominante (no es lo mismo que el predominante)
+      const palette = colorThief.getPalette(img, 16);
+      const dominant = getDominantHueColor(palette);
+
+      const [r, g, b] = dominant;
 
       document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
     } catch (err) {
@@ -760,6 +766,79 @@ function rgbToHsl(r, g, b) {
     const d = max - min;
     s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
     switch(max){
+      case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+      case g: h = (b - r) / d + 2; break;
+      case b: h = (r - g) / d + 4; break;
+    }
+    h /= 6;
+  }
+
+  return { h, s, l };
+}
+
+//Color dominante
+function getDominantHueColor(palette) {
+  const hueBuckets = {};
+
+  for (const [r, g, b] of palette) {
+    const { h, s, l } = rgbToHsl(r, g, b);
+
+    if (s < 0.15 || l < 0.15 || l > 0.9) continue; // descartamos apagados o extremos
+
+    const hueDeg = Math.round(h * 360);
+    const bucket = Math.floor(hueDeg / 30); // agrupamos por bloques de 30°
+
+    if (!hueBuckets[bucket]) {
+      hueBuckets[bucket] = { colors: [], total: 0 };
+    }
+
+    hueBuckets[bucket].colors.push([r, g, b]);
+    hueBuckets[bucket].total += 1;
+  }
+
+  // Encontrar el grupo (bucket) con más colores
+  let bestBucket = null;
+  let max = 0;
+
+  for (const bucket in hueBuckets) {
+    if (hueBuckets[bucket].total > max) {
+      bestBucket = hueBuckets[bucket];
+      max = hueBuckets[bucket].total;
+    }
+  }
+
+  if (!bestBucket) return null;
+
+  // Promediar colores del bucket dominante
+  const avg = [0, 0, 0];
+  for (const [r, g, b] of bestBucket.colors) {
+    avg[0] += r;
+    avg[1] += g;
+    avg[2] += b;
+  }
+
+  avg[0] = Math.round(avg[0] / bestBucket.colors.length);
+  avg[1] = Math.round(avg[1] / bestBucket.colors.length);
+  avg[2] = Math.round(avg[2] / bestBucket.colors.length);
+
+  return avg;
+}
+
+function rgbToHsl(r, g, b) {
+  r /= 255;
+  g /= 255;
+  b /= 255;
+
+  const max = Math.max(r, g, b),
+        min = Math.min(r, g, b);
+  let h = 0, s = 0, l = (max + min) / 2;
+
+  if (max !== min) {
+    const d = max - min;
+    s = l > 0.5
+      ? d / (2 - max - min)
+      : d / (max + min);
+    switch (max) {
       case r: h = (g - b) / d + (g < b ? 6 : 0); break;
       case g: h = (b - r) / d + 2; break;
       case b: h = (r - g) / d + 4; break;
