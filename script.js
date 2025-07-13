@@ -662,36 +662,24 @@ document.addEventListener("DOMContentLoaded", () => {
   const url = `images/wallpaper/ColorSpread_${numero}.webp`;
 
   const img = new Image();
-  img.crossOrigin = "anonymous";
+  img.crossOrigin = "anonymous"; // Necesario para evitar el canvas taint
   img.src = url;
-  img.style.display = "none";
-  document.body.appendChild(img);
+  img.style.display = "none"; 
+  document.body.appendChild(img); 
 
   img.addEventListener("load", () => {
+    document.body.style.backgroundImage = `url('${url}')`;
+    document.body.style.backgroundSize = "contain";
+    document.body.style.backgroundRepeat = "no-repeat";
+    document.body.style.backgroundPosition = "center top";
+
     try {
       const colorThief = new ColorThief();
       const [r, g, b] = colorThief.getColor(img);
-      const rgb = `rgb(${r}, ${g}, ${b})`;
-
-      // 1. Establecer fondo degradado en body::before
-      const styleTag = document.createElement('style');
-      styleTag.innerHTML = `
-        body::before {
-          background: radial-gradient(circle at center, ${rgb} 0%, white 100%);
-        }
-      `;
-      document.head.appendChild(styleTag);
-
-      // 2. Establecer imagen centrada
-      document.body.style.backgroundImage = `url('${url}')`;
-      document.body.style.backgroundSize = "contain";
-      document.body.style.backgroundRepeat = "no-repeat";
-      document.body.style.backgroundPosition = "center top";
-
-      console.log("Color predominante:", rgb);
+      document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
+      //console.log('Color detectado:', r, g, b);
     } catch (err) {
-      console.error("ColorThief error:", err);
-      document.body.style.background = "#fff";
+      console.error('ColorThief error:', err);
     }
   });
 });

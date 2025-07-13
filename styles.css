@@ -8,6 +8,14 @@ body {
   background-attachment: fixed;
 }
 
+body::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -2;
+  background: white; /* fallback */
+}
+
 /* Contenedor principal */
 .container {
   width: 100%;
