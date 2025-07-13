@@ -674,9 +674,17 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.style.backgroundPosition = "center top";
 
     try {
+      //Para color predominante
       //const colorThief = new ColorThief();
       //const [r, g, b] = colorThief.getColor(img);
-      const [r, g, b] = getAverageRGB(img);
+
+      //Para el mejor color de la paleta de colores
+      const palette = colorThief.getPalette(img, 6);
+      const [r, g, b] = getMostVividColor(palette);
+
+      //Para media de colores
+      //const [r, g, b] = getAverageRGB(img);
+
       document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
     } catch (err) {
       console.error('ColorThief error:', err);
@@ -685,7 +693,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-//Promedio
+//Promedio de color en una imagen
 function getAverageRGB(imgEl) {
   const canvas = document.createElement('canvas');
   const context = canvas.getContext('2d');
@@ -712,4 +720,52 @@ function getAverageRGB(imgEl) {
   b = Math.floor(b / count);
 
   return [r, g, b];
+}
+
+//Para escoger el mejor color de una paleta
+function getMostVividColor(palette) {
+  let bestColor = null;
+  let bestScore = -Infinity;
+
+  for (const [r, g, b] of palette) {
+    // Convertimos a HSL para evaluar saturación y brillo
+    const { h, s, l } = rgbToHsl(r, g, b);
+
+    const saturationWeight = 1.5;
+    const lightnessPenalty = Math.abs(l - 0.5); // penaliza extremos
+
+    const score = s * saturationWeight - lightnessPenalty;
+
+    if (score > bestScore) {
+      bestScore = score;
+      bestColor = [r, g, b];
+    }
+  }
+
+  return bestColor;
+}
+
+function rgbToHsl(r, g, b) {
+  r /= 255;
+  g /= 255;
+  b /= 255;
+
+  const max = Math.max(r, g, b),
+        min = Math.min(r, g, b);
+  let h, s, l = (max + min) / 2;
+
+  if (max === min) {
+    h = s = 0; // gris
+  } else {
+    const d = max - min;
+    s = l > 0.5 ? d / (2 - max - min) : d / (max + min);
+    switch(max){
+      case r: h = (g - b) / d + (g < b ? 6 : 0); break;
+      case g: h = (b - r) / d + 2; break;
+      case b: h = (r - g) / d + 4; break;
+    }
+    h /= 6;
+  }
+
+  return { h, s, l };
 }
