@@ -46,7 +46,7 @@ body {
   border: 1px solid #ccc;
   background: #fff;
   max-height: 200px;
-  overflow-y: auto;
+  overflow-y: hidden;
   z-index: 10;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
@@ -74,7 +74,7 @@ body {
 /* Resultados de intentos: tabla y filas */
 .table-wrapper {
   margin: 0 8%;
-  overflow-x: auto;
+  overflow-x: hidden;
   padding-bottom: 20px;
   position: relative;
 }
@@ -333,13 +333,13 @@ h1 {
 /* Ocultar repetidos de #result-table */
 .scroll-mirror,
 .scroll-content {
-  overflow-x: auto;
+  overflow-x: hidden;
 }
 
 /*Contenedor tabla y degradado*/
 /* Degradado izquierda */
 .table-wrapper {
-  overflow-x: auto;
+  overflow-x: hidden;
   position: relative;
 
   -webkit-mask-image: linear-gradient(to right,
@@ -434,6 +434,8 @@ h1 {
   #result-table {
     font-size: 14px;
     min-width: 500px;
+    cursor: default;
+    user-select: none;
   }
 
   #result-table td,
