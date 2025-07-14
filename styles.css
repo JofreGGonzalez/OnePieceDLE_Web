@@ -333,35 +333,27 @@ h1 {
 
 /*Contenedor tabla y degradado*/
 /* Degradado izquierda */
-
-.table-wrapper::before,
-.table-wrapper::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  width: 40px;
-  height: 100%;
-  pointer-events: none;
-  z-index: 10;
-  transition: opacity 0.3s;
-}
-
-.table-wrapper::before {
-  left: 0;
-  background: linear-gradient(to right, rgba(0,0,0,0.4), transparent);
-  opacity: 0;
-}
-.table-wrapper::after {
-  right: 0;
-  background: linear-gradient(to left, rgba(0,0,0,0.4), transparent);
-  opacity: 0;
-}
-
-.table-wrapper.fade-left::before {
-  opacity: 1;
-}
-.table-wrapper.fade-right::after {
-  opacity: 1;
+.table-wrapper {
+  overflow-x: auto;
+  position: relative;
+  /* Aplica máscaras en ambos lados para el indicador de scroll */
+  -webkit-mask-image: linear-gradient(to right,
+      transparent 0%,
+      black 5%,
+      black 95%,
+      transparent 100%);
+  mask-image: linear-gradient(to right,
+      transparent 0%,
+      black 5%,
+      black 95%,
+      transparent 100%);
+  mask-size: 100% 100%;
+  mask-repeat: no-repeat;
+  /* Estas propiedades permiten animar (solo en Chrome/Edge con --webkit-) */
+  --mask-offset: 0%;
+  -webkit-mask-position-x: var(--mask-offset);
+  mask-position-x: var(--mask-offset);
+  transition: mask-position-x 0.3s, -webkit-mask-position-x 0.3s;
 }
 
 

@@ -191,11 +191,6 @@ function procesarIntento(p) {
         generarCabecera();
         table.classList.remove("hidden");
         tableInitialized = true;
-
-        setTimeout(() => {
-          updateFadeGradients(document.querySelector(".table-wrapper"));
-        }, 50);
-
     }
 
     const fila = document.createElement("tr");
@@ -730,12 +725,9 @@ function getAverageRGB(imgEl) {
 
 
 /* CONTROL DEGRADADO TABLA */
-function updateFadeGradients(wrapper) {
+wrapper.addEventListener('scroll', () => {
   const scrollLeft = wrapper.scrollLeft;
-  const maxScroll = wrapper.scrollWidth - wrapper.clientWidth;
-
-  wrapper.classList.toggle("fade-left", scrollLeft > 5);
-  wrapper.classList.toggle("fade-right", scrollLeft < maxScroll - 5);
-}
-
-wrapper.addEventListener("scroll", () => updateFadeGradients(wrapper));
+  const max = wrapper.scrollWidth - wrapper.clientWidth;
+  const pct = max ? (scrollLeft / max) * 100 : 0;
+  wrapper.style.setProperty('--mask-offset', `${pct}%`);
+});
