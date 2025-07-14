@@ -330,6 +330,37 @@ h1 {
   overflow-x: auto;
 }
 
+/*Contenedor tabla y degradado*/
+.table-container {
+  position: relative;
+  overflow: hidden;
+}
+.table-wrapper {
+  position: relative;
+}
+
+.fade-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 40px; /* ancho del degradado */
+  pointer-events: none;
+  transition: opacity 0.3s;
+}
+
+.fade-overlay.left {
+  left: 0;
+  background: linear-gradient(to right, rgba(240,240,240,1), rgba(240,240,240,0));
+  opacity: 0;
+}
+
+.fade-overlay.right {
+  right: 0;
+  background: linear-gradient(to left, rgba(240,240,240,1), rgba(240,240,240,0));
+  opacity: 1;
+}
+
+
 @media only screen and (max-width: 960px) {
   body{
     background-size: cover !important;
