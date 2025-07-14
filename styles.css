@@ -355,6 +355,13 @@ h1 {
   background: linear-gradient(to left, rgba(240,240,240,1), rgba(240,240,240,0));
 }
 
+.table-wrapper.scroll-left::before {
+  opacity: 1;
+}
+.table-wrapper.scroll-right::after {
+  opacity: 1;
+}
+
 
 @media only screen and (max-width: 960px) {
   body{
