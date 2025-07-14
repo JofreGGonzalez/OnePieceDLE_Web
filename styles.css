@@ -153,6 +153,10 @@ body {
      1px  1px 0 black;
 }
 
+.suggestion.highlighted {
+  background-color: #ddd;
+}
+
 /* Estados de celda */
 .correct-cell { 
   background: radial-gradient(circle, rgb(63,251,104) 15%, rgb(53,150,36) 100%);

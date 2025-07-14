@@ -161,6 +161,9 @@ let isDown = false;
 let startX;
 let scrollLeft;
 
+//Para moverse en el buscador
+let highlightedIndex = -1;
+
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
 --------------------------- */
@@ -168,20 +171,65 @@ let scrollLeft;
 
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
-  if (!term) {
-    suggestions.innerHTML = "";
-    return;
-  }
-  populateSuggestions(term);
+  suggestions.innerHTML = "";
+  highlightedIndex = -1; // reset al escribir
+
+  if (!term) return;
+
+  const matches = filtrarPorCanon(personajes).filter(p =>
+    !personajesUsados.includes(p[nombreKey]) &&
+    p[nombreKey]?.toLowerCase().includes(term)
+  );
+
+  matches.forEach((p, i) => {
+    const div = document.createElement("div");
+    div.classList.add("suggestion");
+
+    const img = document.createElement("img");
+    img.src = p[fotoKey] || "https://via.placeholder.com/40";
+    img.alt = p[nombreKey];
+    img.classList.add("mini-foto");
+
+    const name = document.createElement("span");
+    name.textContent = p[nombreKey];
+
+    div.appendChild(img);
+    div.appendChild(name);
+
+    div.onclick = () => {
+      searchInput.value = "";
+      suggestions.innerHTML = "";
+      procesarIntento(p);
+    };
+
+    suggestions.appendChild(div);
+  });
 });
 
 // Permite usar ENTER para seleccionar la primera sugerencia
 searchInput.addEventListener("keydown", (e) => {
-  if (e.key === "Enter") {
-    const primer = suggestions.querySelector(".suggestion");
-    if (primer) primer.click();
+  const items = suggestions.querySelectorAll(".suggestion");
+
+  if (e.key === "ArrowDown") {
+    e.preventDefault();
+    highlightedIndex = (highlightedIndex + 1) % items.length;
+    updateHighlighted(items);
+  } else if (e.key === "ArrowUp") {
+    e.preventDefault();
+    highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+    updateHighlighted(items);
+  } else if (e.key === "Enter") {
+    if (highlightedIndex >= 0 && items[highlightedIndex]) {
+      items[highlightedIndex].click();
+    }
   }
 });
+
+function updateHighlighted(items) {
+  items.forEach((item, i) => {
+    item.classList.toggle("highlighted", i === highlightedIndex);
+  });
+}
 
 /* ---------------------------
    PROCESAMIENTO DE INTENTOS
