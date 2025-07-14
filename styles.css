@@ -163,7 +163,7 @@ body {
   transform: translateY(0);
 }
 
-/* Flechas de fondo */
+/* Flechas de fondo 
 .flecha-arriba,
 .flecha-abajo {
   background-repeat: no-repeat;
@@ -171,15 +171,30 @@ body {
   background-size: contain;
 }
 
-.wrong-cell.flecha-arriba { 
-  background: 
-    radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
-    url('images/icons/arrowUp3.png') center center / contain no-repeat;
+.flecha-arriba { 
+  background-image: url('images/icons/arrowUp3.png'); 
 }
-.wrong-cell.flecha-abajo { 
-  background: 
+.flecha-abajo { 
+  background-image: url('images/icons/arrowDown3.png'); 
+}
+*/
+/* Gradiente + flechas para celdas con error y dirección */
+td.wrong-cell.flecha-arriba {
+  background-image:
     radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
-    url('images/icons/arrowDown3.png') center center / contain no-repeat;
+    url('images/icons/arrowUp3.png');
+  background-repeat: no-repeat, no-repeat;
+  background-position: center center, center center;
+  background-size: 100% 100%, 50% auto;
+}
+
+td.wrong-cell.flecha-abajo {
+  background-image:
+    radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
+    url('images/icons/arrowDown3.png');
+  background-repeat: no-repeat, no-repeat;
+  background-position: center center, center center;
+  background-size: 100% 100%, 50% auto;
 }
 
 /* Mini fotos en tabla */
