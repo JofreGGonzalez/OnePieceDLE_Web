@@ -101,14 +101,17 @@ body {
   /*font-size: 20px;*/
 }
 
-#result-table td{
+#result-table td,
+#result-table th {
   border: 2px solid #261a11;
   border-radius: 10px;
   /*box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);*/
 
   box-shadow: rgb(62 51 22 / 99%) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 8px 0px;
 }
-
+#result-table th {
+  height: 40px;
+}
 
 #result-table th {
   font-size: 17px;
