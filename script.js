@@ -155,9 +155,9 @@ const difficultyFilter = document.getElementById("difficulty-filter");
 actualizarVisibilidadDificultad();
 
 // Variables Degradado tabla
-const tableWrapper = document.querySelector('.table-wrapper');
-const fadeL = document.querySelector('.fade-overlay.left');
-const fadeR = document.querySelector('.fade-overlay.right');
+const wrapper = document.querySelector('.fade-container');
+const fadeLeft = wrapper.querySelector('.fade-overlay.left');
+const fadeRight = wrapper.querySelector('.fade-overlay.right');
 
 
 /* ---------------------------
@@ -728,16 +728,14 @@ function getAverageRGB(imgEl) {
 
 /* CONTROL DEGRADADO TABLA */
 
-function updateFade() {
-  const scrollLeft = tableWrapper.scrollLeft;
-  const maxScroll = tableWrapper.scrollWidth - tableWrapper.clientWidth;
-  fadeL.style.opacity = scrollLeft > 10 ? '1' : '0';
-  fadeR.style.opacity = scrollLeft < maxScroll - 10 ? '1' : '0';
+function updateFadeShadows() {
+  const scrollLeft = wrapper.scrollLeft;
+  const scrollMax = wrapper.scrollWidth - wrapper.clientWidth;
+
+  fadeLeft.style.opacity = scrollLeft > 5 ? '1' : '0';
+  fadeRight.style.opacity = scrollLeft < scrollMax - 5 ? '1' : '0';
 }
 
-// Ejecutar al mover la barra
-tableWrapper.addEventListener('scroll', updateFade);
-
-// También al cargar o redimensionar
-window.addEventListener('load', updateFade);
-window.addEventListener('resize', updateFade);
+wrapper.addEventListener('scroll', updateFadeShadows);
+window.addEventListener('resize', updateFadeShadows);
+window.addEventListener('load', updateFadeShadows);

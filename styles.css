@@ -338,14 +338,19 @@ h1 {
 .table-wrapper {
   position: relative;
 }
+.fade-container {
+  position: relative;
+  overflow-x: auto;
+}
 
 .fade-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
-  width: 40px; /* ancho del degradado */
+  width: 40px;
   pointer-events: none;
-  transition: opacity 0.3s;
+  z-index: 5; /* por encima de la tabla */
+  transition: opacity 0.3s ease;
 }
 
 .fade-overlay.left {
