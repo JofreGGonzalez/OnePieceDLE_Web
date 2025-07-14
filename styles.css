@@ -336,7 +336,7 @@ h1 {
 .table-wrapper {
   overflow-x: auto;
   position: relative;
-  /* Aplica máscaras en ambos lados para el indicador de scroll */
+
   -webkit-mask-image: linear-gradient(to right,
       transparent 0%,
       black 5%,
@@ -349,13 +349,15 @@ h1 {
       transparent 100%);
   mask-size: 100% 100%;
   mask-repeat: no-repeat;
-  /* Estas propiedades permiten animar (solo en Chrome/Edge con --webkit-) */
+
+  --mask-opacity: 1;
   --mask-offset: 0%;
   -webkit-mask-position-x: var(--mask-offset);
   mask-position-x: var(--mask-offset);
-  transition: mask-position-x 0.3s, -webkit-mask-position-x 0.3s;
+  -webkit-mask-composite: destination-in;
+  mask-composite: intersect;
+  transition: -webkit-mask-position-x 1.2s, mask-position-x 1.2s, --mask-opacity 1.2s;
 }
-
 
 @media only screen and (max-width: 960px) {
   body{
