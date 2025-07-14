@@ -145,13 +145,12 @@ body {
 }
 
 /* Estados de celda */
-/*
 .correct-cell { 
   background: radial-gradient(circle, rgb(63,251,104) 15%, rgb(53,150,36) 100%);
 }
 .wrong-cell   { 
   background: radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%);
-}*/
+}
 
 /* Transición de aparición */
 .invisible-cell {
@@ -164,14 +163,14 @@ body {
   transform: translateY(0);
 }
 
-/* Flechas de fondo 
+/* Flechas de fondo */
 .flecha-arriba,
 .flecha-abajo {
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
 }
-
+/*
 .flecha-arriba { 
   background-image: url('images/icons/arrowUp3.png'); 
 }
@@ -182,20 +181,14 @@ body {
 /* Gradiente + flechas para celdas con error y dirección */
 td.wrong-cell.flecha-arriba {
   background-image:
-    radial-gradient(circle at center, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
-    url('images/icons/arrowUp3.png');
-  background-repeat: no-repeat, no-repeat;
-  background-position: center center, center center;
-  background-size: cover, 40%;
+    url('images/icons/arrowUp3.png'),
+    radial-gradient(circle at center, rgb(255,82,82) 15%, rgb(150,36,36) 100%);
 }
 
 td.wrong-cell.flecha-abajo {
   background-image:
-    radial-gradient(circle at center, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
-    url('images/icons/arrowDown3.png');
-  background-repeat: no-repeat, no-repeat;
-  background-position: center center, center center;
-  background-size: cover, 40%;
+    url('images/icons/arrowDown3.png'),
+    radial-gradient(circle at center, rgb(255,82,82) 15%, rgb(150,36,36) 100%);
 }
 
 /* Mini fotos en tabla */
