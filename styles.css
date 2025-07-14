@@ -326,6 +326,8 @@ h1 {
     -3px -3px 0 black, 3px 3px 0 black,
     -4px -4px 0 black, 4px 4px 0 black,
     -5px -5px 0 black, 5px 5px 0 black;
+
+    backdrop-filter: invert(100%);
 }
 
 /* Ocultar repetidos de #result-table */
