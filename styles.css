@@ -79,7 +79,8 @@ body {
 }
 
 #result-table {
-  border-spacing: 5px;
+  /*border-spacing: 5px;*/
+  border-spacing: 5px 1rem;
   border-collapse: separate;
   width: max-content;
   min-width: 600px;
@@ -91,10 +92,12 @@ body {
   text-align: center;
   min-width: 70px;
   max-width: 150px;
-  height: 70px;
+  height: 60px;
+  /*height: 70px;*/
   overflow: hidden;
   word-break: break-word;
-  font-size: 20px;
+  font-size: 15px;
+  /*font-size: 20px;*/
 }
 
 #result-table td{
