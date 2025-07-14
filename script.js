@@ -725,9 +725,43 @@ function getAverageRGB(imgEl) {
 
 
 /* CONTROL DEGRADADO TABLA */
-wrapper.addEventListener('scroll', () => {
+function updateGradientMask() {
   const scrollLeft = wrapper.scrollLeft;
-  const max = wrapper.scrollWidth - wrapper.clientWidth;
-  const pct = max ? (scrollLeft / max) * 100 : 0;
-  wrapper.style.setProperty('--mask-offset', `${pct}%`);
-});
+  const maxScroll = wrapper.scrollWidth - wrapper.clientWidth;
+
+  const atStart = scrollLeft < 2;
+  const atEnd = scrollLeft >= maxScroll - 2;
+
+  let offset = 0;
+  if (!atStart && !atEnd) {
+    offset = (scrollLeft / maxScroll) * 100;
+  }
+
+  wrapper.style.setProperty('--mask-offset', `${offset}%`);
+
+  if (atStart) {
+    wrapper.style.webkitMaskImage = `linear-gradient(to right,
+      black 0%,
+      black 95%,
+      transparent 100%)`;
+  } else if (atEnd) {
+    wrapper.style.webkitMaskImage = `linear-gradient(to right,
+      transparent 0%,
+      black 5%,
+      black 100%)`;
+  } else {
+    wrapper.style.webkitMaskImage = `linear-gradient(to right,
+      transparent 0%,
+      black 5%,
+      black 95%,
+      transparent 100%)`;
+  }
+
+  // Para otros navegadores
+  wrapper.style.maskImage = wrapper.style.webkitMaskImage;
+}
+
+wrapper.addEventListener('scroll', updateGradientMask);
+
+// También llamar cuando se muestre la tabla por primera vez
+setTimeout(updateGradientMask, 100);
