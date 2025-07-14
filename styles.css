@@ -356,7 +356,7 @@ h1 {
   mask-position-x: var(--mask-offset);
   -webkit-mask-composite: destination-in;
   mask-composite: intersect;
-  transition: -webkit-mask-position-x 1.2s, mask-position-x 1.2s, --mask-opacity 1.2s;
+  transition: -webkit-mask-position-x 1s ease-in-out, mask-position-x 1s ease-in-out, --mask-opacity 1s ease-in-out;
 }
 
 @media only screen and (max-width: 960px) {
