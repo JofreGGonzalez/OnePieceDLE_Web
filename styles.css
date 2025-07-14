@@ -85,6 +85,8 @@ body {
   border-collapse: separate;
   width: max-content;
   min-width: 600px;
+  cursor: default;
+  user-select: none;
 }
 
 #result-table th,
@@ -434,8 +436,6 @@ h1 {
   #result-table {
     font-size: 14px;
     min-width: 500px;
-    cursor: default;
-    user-select: none;
   }
 
   #result-table td,
