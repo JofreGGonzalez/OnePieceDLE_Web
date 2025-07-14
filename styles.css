@@ -171,12 +171,12 @@ body {
   background-size: contain;
 }
 
-.flecha-arriba { 
+.wrong-cell.flecha-arriba { 
   background: 
     radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
     url('images/icons/arrowUp3.png') center center / contain no-repeat;
 }
-.flecha-abajo { 
+.wrong-cell.flecha-abajo { 
   background: 
     radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
     url('images/icons/arrowDown3.png') center center / contain no-repeat;
