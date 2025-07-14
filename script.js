@@ -268,7 +268,7 @@ function procesarIntento(p) {
         if (iguales) {
             hakiTD.classList.add("correct-cell");
         } else if (esParcial) {
-            hakiTD.style.backgroundColor = "orange";
+            hakiTD.style.backgroundColor = "radial-gradient(circle, rgb(255,190,82) 15%, rgb(150,102,36) 100%)";
         } else {
             hakiTD.classList.add("wrong-cell");
         }

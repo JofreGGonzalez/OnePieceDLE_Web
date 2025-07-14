@@ -145,8 +145,12 @@ body {
 }
 
 /* Estados de celda */
-.correct-cell { background-color: #48ca4d; }
-.wrong-cell   { background-color: #d44755; }
+.correct-cell { 
+  background: radial-gradient(circle, rgb(63,251,104) 15%, rgb(53,150,36) 100%);
+}
+.wrong-cell   { 
+  background: radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%);
+}
 
 /* Transición de aparición */
 .invisible-cell {
@@ -167,8 +171,16 @@ body {
   background-size: contain;
 }
 
-.flecha-arriba { background-image: url('images/icons/arrowUp3.png'); }
-.flecha-abajo { background-image: url('images/icons/arrowDown3.png'); }
+.flecha-arriba { 
+  background: 
+    radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
+    url('images/icons/arrowUp3.png') center center / contain no-repeat;
+}
+.flecha-abajo { 
+  background: 
+    radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%),
+    url('images/icons/arrowDown3.png') center center / contain no-repeat;
+}
 
 /* Mini fotos en tabla */
 td img {
@@ -308,7 +320,7 @@ h1 {
 
 @media only screen and (max-width: 960px) {
   body{
-    background-size: cover;
+    background-size: cover !important;
   }
   /* Ajuste general del contenedor principal */
   .container {
