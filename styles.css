@@ -160,6 +160,7 @@ body {
     text-decoration: underline overline;
     text-underline-offset: 6px;
 
+    background: linear-gradient(311deg, rgba(2, 0, 36, 0) 33%, rgba(255, 255, 255, 0.68) 53%, rgba(0, 0, 0, 0) 76%);
 }
 
 #result-table td,
@@ -468,6 +469,10 @@ h1 {
     min-width: 60px;
     max-width: 120px;
     height: 60px;
+  }
+
+  #result-table th {
+    height: 40px;
   }
 
   .haki-icons img {
