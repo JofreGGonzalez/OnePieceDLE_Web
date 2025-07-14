@@ -725,15 +725,16 @@ function getAverageRGB(imgEl) {
 
 
 /* CONTROL DEGRADADO TABLA */
-function actualizarGradientesScroll() {
-  const scrollLeft = wrapper.scrollLeft;
-  const scrollMax = wrapper.scrollWidth - wrapper.clientWidth;
+function updateFade() {
+  const maxScroll = wrapper.scrollWidth - wrapper.clientWidth;
+  const atLeft = wrapper.scrollLeft <= 5;
+  const atRight = wrapper.scrollLeft >= maxScroll - 5;
 
-  wrapper.classList.toggle('scroll-left', scrollLeft > 5);
-  wrapper.classList.toggle('scroll-right', scrollLeft < scrollMax - 5);
+  wrapper.classList.toggle('can-scroll-left', !atLeft);
+  wrapper.classList.toggle('can-scroll-right', !atRight);
 }
 
-// Mostrar gradientes solo si hay scroll
-wrapper.addEventListener('scroll', actualizarGradientesScroll);
-window.addEventListener('resize', actualizarGradientesScroll);
-window.addEventListener('load', actualizarGradientesScroll);
+// evento scroll, resize y carga
+wrapper.addEventListener('scroll', updateFade);
+window.addEventListener('resize', updateFade);
+window.addEventListener('DOMContentLoaded', updateFade); // se inicia al cargar
