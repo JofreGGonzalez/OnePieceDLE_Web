@@ -155,9 +155,7 @@ const difficultyFilter = document.getElementById("difficulty-filter");
 actualizarVisibilidadDificultad();
 
 // Variables Degradado tabla
-const wrapper = document.querySelector('.fade-container');
-const fadeLeft = wrapper.querySelector('.fade-overlay.left');
-const fadeRight = wrapper.querySelector('.fade-overlay.right');
+const wrapper = document.querySelector('.table-wrapper');
 
 
 /* ---------------------------
@@ -727,15 +725,15 @@ function getAverageRGB(imgEl) {
 
 
 /* CONTROL DEGRADADO TABLA */
-
-function updateFadeShadows() {
+function actualizarGradientesScroll() {
   const scrollLeft = wrapper.scrollLeft;
   const scrollMax = wrapper.scrollWidth - wrapper.clientWidth;
 
-  fadeLeft.style.opacity = scrollLeft > 5 ? '1' : '0';
-  fadeRight.style.opacity = scrollLeft < scrollMax - 5 ? '1' : '0';
+  wrapper.classList.toggle('scroll-left', scrollLeft > 5);
+  wrapper.classList.toggle('scroll-right', scrollLeft < scrollMax - 5);
 }
 
-wrapper.addEventListener('scroll', updateFadeShadows);
-window.addEventListener('resize', updateFadeShadows);
-window.addEventListener('load', updateFadeShadows);
+// Mostrar gradientes solo si hay scroll
+wrapper.addEventListener('scroll', actualizarGradientesScroll);
+window.addEventListener('resize', actualizarGradientesScroll);
+window.addEventListener('load', actualizarGradientesScroll);

@@ -331,38 +331,28 @@ h1 {
 }
 
 /*Contenedor tabla y degradado*/
-.table-container {
-  position: relative;
-  overflow: hidden;
-}
-.table-wrapper {
-  position: relative;
-}
-.fade-container {
-  position: relative;
-  overflow-x: auto;
-}
-
-.fade-overlay {
+/* Degradado izquierda */
+.table-wrapper::before,
+.table-wrapper::after {
+  content: "";
   position: absolute;
   top: 0;
   bottom: 0;
-  width: 40px;
+  width: 30px;
   pointer-events: none;
-  z-index: 5; /* por encima de la tabla */
+  z-index: 20;
   transition: opacity 0.3s ease;
-}
-
-.fade-overlay.left {
-  left: 0;
-  background: linear-gradient(to right, rgba(240,240,240,1), rgba(240,240,240,0));
   opacity: 0;
 }
 
-.fade-overlay.right {
+.table-wrapper::before {
+  left: 0;
+  background: linear-gradient(to right, rgba(240,240,240,1), rgba(240,240,240,0));
+}
+
+.table-wrapper::after {
   right: 0;
   background: linear-gradient(to left, rgba(240,240,240,1), rgba(240,240,240,0));
-  opacity: 1;
 }
 
 
