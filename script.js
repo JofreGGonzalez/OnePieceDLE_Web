@@ -157,6 +157,9 @@ actualizarVisibilidadDificultad();
 // Variables Degradado tabla
 const wrapper = document.querySelector('.table-wrapper');
 
+let isDown = false;
+let startX;
+let scrollLeft;
 
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
@@ -765,3 +768,30 @@ wrapper.addEventListener('scroll', updateGradientMask);
 
 // También llamar cuando se muestre la tabla por primera vez
 setTimeout(updateGradientMask, 100);
+
+
+/* para mover el scroll de la tabla con el mouse */
+wrapper.addEventListener('mousedown', (e) => {
+  isDown = true;
+  wrapper.classList.add('dragging');
+  startX = e.pageX - wrapper.offsetLeft;
+  scrollLeft = wrapper.scrollLeft;
+});
+
+wrapper.addEventListener('mouseleave', () => {
+  isDown = false;
+  wrapper.classList.remove('dragging');
+});
+
+wrapper.addEventListener('mouseup', () => {
+  isDown = false;
+  wrapper.classList.remove('dragging');
+});
+
+wrapper.addEventListener('mousemove', (e) => {
+  if (!isDown) return;
+  e.preventDefault();
+  const x = e.pageX - wrapper.offsetLeft;
+  const walk = (x - startX) * 1.5; // velocidad de desplazamiento
+  wrapper.scrollLeft = scrollLeft - walk;
+});
