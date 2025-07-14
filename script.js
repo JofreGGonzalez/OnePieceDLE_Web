@@ -191,6 +191,11 @@ function procesarIntento(p) {
         generarCabecera();
         table.classList.remove("hidden");
         tableInitialized = true;
+
+        setTimeout(() => {
+          updateFadeGradients(document.querySelector(".table-wrapper"));
+        }, 50);
+
     }
 
     const fila = document.createElement("tr");
@@ -725,16 +730,12 @@ function getAverageRGB(imgEl) {
 
 
 /* CONTROL DEGRADADO TABLA */
-function updateFade() {
+function updateFadeGradients(wrapper) {
+  const scrollLeft = wrapper.scrollLeft;
   const maxScroll = wrapper.scrollWidth - wrapper.clientWidth;
-  const atLeft = wrapper.scrollLeft <= 5;
-  const atRight = wrapper.scrollLeft >= maxScroll - 5;
 
-  wrapper.classList.toggle('can-scroll-left', !atLeft);
-  wrapper.classList.toggle('can-scroll-right', !atRight);
+  wrapper.classList.toggle("fade-left", scrollLeft > 5);
+  wrapper.classList.toggle("fade-right", scrollLeft < maxScroll - 5);
 }
 
-// evento scroll, resize y carga
-wrapper.addEventListener('scroll', updateFade);
-window.addEventListener('resize', updateFade);
-window.addEventListener('DOMContentLoaded', updateFade); // se inicia al cargar
+wrapper.addEventListener("scroll", () => updateFadeGradients(wrapper));
