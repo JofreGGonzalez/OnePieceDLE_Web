@@ -172,7 +172,7 @@ let highlightedIndex = -1;
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
   suggestions.innerHTML = "";
-  highlightedIndex = -1; // reset al escribir
+  highlightedIndex = -1;
 
   if (!term) return;
 
@@ -181,7 +181,11 @@ searchInput.addEventListener("input", () => {
     p[nombreKey]?.toLowerCase().includes(term)
   );
 
-  matches.forEach((p, i) => {
+  if (matches.length > 0) {
+    highlightedIndex = 0;
+  }
+
+  matches.forEach((p) => {
     const div = document.createElement("div");
     div.classList.add("suggestion");
 
@@ -204,6 +208,9 @@ searchInput.addEventListener("input", () => {
 
     suggestions.appendChild(div);
   });
+
+  // ✅ Aplica resaltado visual y scroll al ítem activo
+  updateHighlighted(suggestions.querySelectorAll(".suggestion"));
 });
 
 // Permite usar ENTER para seleccionar la primera sugerencia
@@ -212,13 +219,18 @@ searchInput.addEventListener("keydown", (e) => {
 
   if (e.key === "ArrowDown") {
     e.preventDefault();
-    highlightedIndex = (highlightedIndex + 1) % items.length;
-    updateHighlighted(items);
+    if (items.length > 0) {
+      highlightedIndex = (highlightedIndex + 1) % items.length;
+      updateHighlighted(items);
+    }
   } else if (e.key === "ArrowUp") {
     e.preventDefault();
-    highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
-    updateHighlighted(items);
+    if (items.length > 0) {
+      highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+      updateHighlighted(items);
+    }
   } else if (e.key === "Enter") {
+    e.preventDefault();
     if (highlightedIndex >= 0 && items[highlightedIndex]) {
       items[highlightedIndex].click();
     }
@@ -228,6 +240,9 @@ searchInput.addEventListener("keydown", (e) => {
 function updateHighlighted(items) {
   items.forEach((item, i) => {
     item.classList.toggle("highlighted", i === highlightedIndex);
+    if (i === highlightedIndex) {
+      item.scrollIntoView({ block: "nearest" });
+    }
   });
 }
 
