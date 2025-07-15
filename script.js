@@ -205,7 +205,7 @@ searchInput.addEventListener("input", () => {
   });
 
   if (matches.length > 0) {
-    highlightedIndex = 0;
+    highlightedIndex = getFirstVisibleIndex();
     updateHighlighted(suggestions.querySelectorAll(".suggestion"));
   }
 });
@@ -236,9 +236,30 @@ function updateHighlighted(items) {
   items.forEach((item, i) => {
     item.classList.toggle("highlighted", i === highlightedIndex);
     if (i === highlightedIndex) {
-      item.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      const rect = item.getBoundingClientRect();
+      const containerRect = suggestions.getBoundingClientRect();
+
+      if (rect.top < containerRect.top || rect.bottom > containerRect.bottom) {
+        item.scrollIntoView({ block: "nearest", behavior: "smooth" });
+      }
     }
   });
+}
+
+function getFirstVisibleIndex() {
+  const items = suggestions.querySelectorAll(".suggestion");
+  const containerTop = suggestions.scrollTop;
+  const containerBottom = containerTop + suggestions.clientHeight;
+
+  for (let i = 0; i < items.length; i++) {
+    const itemTop = items[i].offsetTop;
+    const itemBottom = itemTop + items[i].offsetHeight;
+    if (itemTop >= containerTop && itemBottom <= containerBottom) {
+      return i;
+    }
+  }
+
+  return 0; // fallback
 }
 
 /* ---------------------------
