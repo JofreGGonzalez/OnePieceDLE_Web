@@ -599,6 +599,14 @@ function populateSuggestions(term) {
   });
 }
 
+document.addEventListener("click", (e) => {
+  // Si el clic ocurre fuera del input o de las sugerencias
+  if (!searchInput.contains(e.target) && !suggestions.contains(e.target)) {
+    searchInput.value = "";
+    suggestions.innerHTML = "";
+  }
+});
+
 // Selecciona personaje objetivo para slot actual
 function seleccionarTargetAleatorio() {
   target = seleccionarTarget();
