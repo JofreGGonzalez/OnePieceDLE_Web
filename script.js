@@ -163,24 +163,11 @@ let scrollLeft;
 
 //Para moverse en el buscador
 let highlightedIndex = -1;
-let userScrollingSuggestions = false;
-let userScrollingSuggestionsTimeout
 
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
 --------------------------- */
 // Al escribir en el buscador, filtra sugerencias
-suggestions.addEventListener("wheel", () => {
-  console.log("Usuario scroll manual detectado");
-  userScrollingSuggestions = true;
-  clearTimeout(userScrollingSuggestionsTimeout);
-  userScrollingSuggestionsTimeout = setTimeout(() => {
-    userScrollingSuggestions = false;
-    console.log("Scroll manual detenido");
-  }, 500);
-});
-
-
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
   suggestions.innerHTML = "";
@@ -193,11 +180,7 @@ searchInput.addEventListener("input", () => {
     p[nombreKey]?.toLowerCase().includes(term)
   );
 
-  if (matches.length > 0) {
-    highlightedIndex = 0;
-  }
-
-  matches.forEach((p) => {
+  matches.forEach((p, i) => {
     const div = document.createElement("div");
     div.classList.add("suggestion");
 
@@ -221,36 +204,39 @@ searchInput.addEventListener("input", () => {
     suggestions.appendChild(div);
   });
 
-  // Aplica resaltado visual y scroll al ítem activo
-  updateHighlighted(suggestions.querySelectorAll(".suggestion"));
+  if (matches.length > 0) {
+    highlightedIndex = 0;
+    updateHighlighted(suggestions.querySelectorAll(".suggestion"));
+  }
 });
 
-// Permite usar ENTER para seleccionar la primera sugerencia
+// Navegación con teclado
 searchInput.addEventListener("keydown", (e) => {
   const items = suggestions.querySelectorAll(".suggestion");
   if (!items.length) return;
 
-  if (e.key === "ArrowDown" || e.key === "ArrowUp" || e.key === "Enter") {
+  if (e.key === "ArrowDown") {
     e.preventDefault();
-    // Flechas:
-    if (e.key === "ArrowDown") highlightedIndex = (highlightedIndex + 1) % items.length;
-    if (e.key === "ArrowUp") highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
-    if (e.key === "Enter" && highlightedIndex >= 0) items[highlightedIndex].click();
-
+    highlightedIndex = (highlightedIndex + 1) % items.length;
     updateHighlighted(items);
+  } else if (e.key === "ArrowUp") {
+    e.preventDefault();
+    highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+    updateHighlighted(items);
+  } else if (e.key === "Enter") {
+    e.preventDefault();
+    if (highlightedIndex >= 0) {
+      items[highlightedIndex].click();
+    }
   }
 });
 
-
-
+// Aplica el resaltado visual y scroll si necesario
 function updateHighlighted(items) {
   items.forEach((item, i) => {
     item.classList.toggle("highlighted", i === highlightedIndex);
     if (i === highlightedIndex) {
-      console.log("HighlightedIndex:", i, "userScrolling?", userScrollingSuggestions);
-      if (!userScrollingSuggestions) {
-        item.scrollIntoView({ block: "nearest" });
-      }
+      item.scrollIntoView({ block: "nearest", behavior: "smooth" });
     }
   });
 }
