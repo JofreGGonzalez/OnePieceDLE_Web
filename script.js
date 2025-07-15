@@ -193,11 +193,18 @@ searchInput.addEventListener("input", () => {
 });
 
 // 2. Scroll: detecta el primer visible
+let scrollTimeout;
+
 suggestions.addEventListener("scroll", () => {
   clearTimeout(scrollTimeout);
 
   scrollTimeout = setTimeout(() => {
     const items = suggestions.querySelectorAll(".suggestion");
+
+    if (items.length === 0) return;
+
+    // Desactiva todos los elementos previamente destacados
+    items.forEach(item => item.classList.remove("highlighted"));
 
     let bestIndex = -1;
     let minDistance = Infinity;
@@ -217,8 +224,9 @@ suggestions.addEventListener("scroll", () => {
       highlightedIndex = bestIndex;
       updateHighlighted(items);
     }
-  }, 150); // Espera 150ms después del scroll para actuar
+  }, 150);
 });
+
 
 // 3. Key navigation
 searchInput.addEventListener("keydown", (e) => {
