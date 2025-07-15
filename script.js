@@ -194,11 +194,30 @@ searchInput.addEventListener("input", () => {
 
 // 2. Scroll: detecta el primer visible
 suggestions.addEventListener("scroll", () => {
-  if (highlightedIndex !== -1) return; // solo si no has navegado con flechas
-  const items = suggestions.querySelectorAll(".suggestion");
-  const st = suggestions.scrollTop;
-  highlightedIndex = [...items].findIndex(item => item.offsetTop >= st);
-  updateHighlighted(items);
+  clearTimeout(scrollTimeout);
+
+  scrollTimeout = setTimeout(() => {
+    const items = suggestions.querySelectorAll(".suggestion");
+
+    let bestIndex = -1;
+    let minDistance = Infinity;
+
+    items.forEach((item, i) => {
+      const rect = item.getBoundingClientRect();
+      const containerRect = suggestions.getBoundingClientRect();
+      const distance = Math.abs((rect.top + rect.bottom) / 2 - (containerRect.top + containerRect.bottom) / 2);
+
+      if (distance < minDistance) {
+        minDistance = distance;
+        bestIndex = i;
+      }
+    });
+
+    if (bestIndex !== -1) {
+      highlightedIndex = bestIndex;
+      updateHighlighted(items);
+    }
+  }, 150); // Espera 150ms después del scroll para actuar
 });
 
 // 3. Key navigation
