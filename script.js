@@ -212,19 +212,37 @@ searchInput.addEventListener("input", () => {
 // Navegación con teclado
 searchInput.addEventListener("keydown", (e) => {
   const items = suggestions.querySelectorAll(".suggestion");
-  if (!items.length) return;
 
-  if (e.key === "ArrowDown") {
+  if (["ArrowDown", "ArrowUp"].includes(e.key)) {
     e.preventDefault();
-    highlightedIndex = (highlightedIndex + 1) % items.length;
-    updateHighlighted(items);
-  } else if (e.key === "ArrowUp") {
-    e.preventDefault();
-    highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+
+    if (items.length === 0) return;
+
+    // 🔍 Si no hay selección previa, arrancamos desde el primer visible
+    if (highlightedIndex === -1) {
+      const scrollTop = suggestions.scrollTop;
+      for (let i = 0; i < items.length; i++) {
+        const itemTop = items[i].offsetTop;
+        const itemBottom = itemTop + items[i].offsetHeight;
+
+        if (itemTop >= scrollTop) {
+          highlightedIndex = i;
+          break;
+        }
+      }
+    } else {
+      // ⬇️ Navegación normal
+      if (e.key === "ArrowDown") {
+        highlightedIndex = (highlightedIndex + 1) % items.length;
+      } else if (e.key === "ArrowUp") {
+        highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+      }
+    }
+
     updateHighlighted(items);
   } else if (e.key === "Enter") {
     e.preventDefault();
-    if (highlightedIndex >= 0) {
+    if (highlightedIndex >= 0 && items[highlightedIndex]) {
       items[highlightedIndex].click();
     }
   }
