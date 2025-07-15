@@ -228,24 +228,16 @@ searchInput.addEventListener("input", () => {
 // Permite usar ENTER para seleccionar la primera sugerencia
 searchInput.addEventListener("keydown", (e) => {
   const items = suggestions.querySelectorAll(".suggestion");
+  if (!items.length) return;
 
-  if (e.key === "ArrowDown") {
+  if (e.key === "ArrowDown" || e.key === "ArrowUp" || e.key === "Enter") {
     e.preventDefault();
-    if (items.length > 0) {
-      highlightedIndex = (highlightedIndex + 1) % items.length;
-      updateHighlighted(items);
-    }
-  } else if (e.key === "ArrowUp") {
-    e.preventDefault();
-    if (items.length > 0) {
-      highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
-      updateHighlighted(items);
-    }
-  } else if (e.key === "Enter") {
-    e.preventDefault();
-    if (highlightedIndex >= 0 && items[highlightedIndex]) {
-      items[highlightedIndex].click();
-    }
+    // Flechas:
+    if (e.key === "ArrowDown") highlightedIndex = (highlightedIndex + 1) % items.length;
+    if (e.key === "ArrowUp") highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+    if (e.key === "Enter" && highlightedIndex >= 0) items[highlightedIndex].click();
+
+    updateHighlighted(items);
   }
 });
 
