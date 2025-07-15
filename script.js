@@ -164,11 +164,22 @@ let scrollLeft;
 //Para moverse en el buscador
 let highlightedIndex = -1;
 let userScrollingSuggestions = false;
+let userScrollingSuggestionsTimeout
 
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
 --------------------------- */
 // Al escribir en el buscador, filtra sugerencias
+suggestions.addEventListener("wheel", () => {
+  console.log("Usuario scroll manual detectado");
+  userScrollingSuggestions = true;
+  clearTimeout(userScrollingSuggestionsTimeout);
+  userScrollingSuggestionsTimeout = setTimeout(() => {
+    userScrollingSuggestions = false;
+    console.log("Scroll manual detenido");
+  }, 500);
+});
+
 
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
@@ -210,7 +221,7 @@ searchInput.addEventListener("input", () => {
     suggestions.appendChild(div);
   });
 
-  // ✅ Aplica resaltado visual y scroll al ítem activo
+  // Aplica resaltado visual y scroll al ítem activo
   updateHighlighted(suggestions.querySelectorAll(".suggestion"));
 });
 
@@ -238,23 +249,16 @@ searchInput.addEventListener("keydown", (e) => {
   }
 });
 
-suggestions.addEventListener("wheel", () => {
-  userScrollingSuggestions = true;
 
-  // Evita que se quede en "true" para siempre
-  clearTimeout(userScrollingSuggestionsTimeout);
-  userScrollingSuggestionsTimeout = setTimeout(() => {
-    userScrollingSuggestions = false;
-  }, 500);
-});
-
-let userScrollingSuggestionsTimeout
 
 function updateHighlighted(items) {
   items.forEach((item, i) => {
     item.classList.toggle("highlighted", i === highlightedIndex);
-    if (i === highlightedIndex && !userScrollingSuggestions) {
-      item.scrollIntoView({ block: "nearest" });
+    if (i === highlightedIndex) {
+      console.log("HighlightedIndex:", i, "userScrolling?", userScrollingSuggestions);
+      if (!userScrollingSuggestions) {
+        item.scrollIntoView({ block: "nearest" });
+      }
     }
   });
 }
