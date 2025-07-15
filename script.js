@@ -167,122 +167,72 @@ let highlightedIndex = -1;
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
 --------------------------- */
-// Al escribir en el buscador, filtra sugerencias
+// 1. Input: no cambia highlightedIndex
 searchInput.addEventListener("input", () => {
   const term = searchInput.value.trim().toLowerCase();
   suggestions.innerHTML = "";
   highlightedIndex = -1;
-
   if (!term) return;
-
   const matches = filtrarPorCanon(personajes).filter(p =>
     !personajesUsados.includes(p[nombreKey]) &&
     p[nombreKey]?.toLowerCase().includes(term)
   );
-
-  matches.forEach((p, i) => {
+  matches.forEach(p => {
     const div = document.createElement("div");
     div.classList.add("suggestion");
-
     const img = document.createElement("img");
     img.src = p[fotoKey] || "https://via.placeholder.com/40";
     img.alt = p[nombreKey];
     img.classList.add("mini-foto");
-
     const name = document.createElement("span");
     name.textContent = p[nombreKey];
-
-    div.appendChild(img);
-    div.appendChild(name);
-
-    div.onclick = () => {
-      searchInput.value = "";
-      suggestions.innerHTML = "";
-      procesarIntento(p);
-    };
-
-    suggestions.appendChild(div);
+    div.append(img, name);
+    div.onclick = () => { searchInput.value = ""; suggestions.innerHTML = ""; procesarIntento(p); };
+    suggestions.append(div);
   });
-
-  if (matches.length > 0) {
-    highlightedIndex = 0;
-  }
 });
 
-// Navegación con teclado
+// 2. Scroll: detecta el primer visible
+suggestions.addEventListener("scroll", () => {
+  if (highlightedIndex !== -1) return; // solo si no has navegado con flechas
+  const items = suggestions.querySelectorAll(".suggestion");
+  const st = suggestions.scrollTop;
+  highlightedIndex = [...items].findIndex(item => item.offsetTop >= st);
+  updateHighlighted(items);
+});
+
+// 3. Key navigation
 searchInput.addEventListener("keydown", (e) => {
   const items = suggestions.querySelectorAll(".suggestion");
+  if (items.length === 0) return;
 
-  if (["ArrowDown", "ArrowUp"].includes(e.key)) {
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
     e.preventDefault();
-
-    if (items.length === 0) return;
-
-    // 🔍 Si no hay selección previa, arrancamos desde el primer visible
     if (highlightedIndex === -1) {
-      const scrollTop = suggestions.scrollTop;
-      for (let i = 0; i < items.length; i++) {
-        const itemTop = items[i].offsetTop;
-        const itemBottom = itemTop + items[i].offsetHeight;
-
-        if (itemTop >= scrollTop) {
-          highlightedIndex = i;
-          break;
-        }
-      }
+      // comenzamos desde lo visible actualmente
+      const st = suggestions.scrollTop;
+      highlightedIndex = [...items].findIndex(item => item.offsetTop >= st);
+      if (highlightedIndex === -1) highlightedIndex = 0;
     } else {
-      // ⬇️ Navegación normal
-      if (e.key === "ArrowDown") {
-        highlightedIndex = (highlightedIndex + 1) % items.length;
-      } else if (e.key === "ArrowUp") {
-        highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
-      }
+      highlightedIndex = e.key === "ArrowDown"
+        ? Math.min(highlightedIndex + 1, items.length - 1)
+        : Math.max(highlightedIndex - 1, 0);
     }
-
     updateHighlighted(items);
   } else if (e.key === "Enter") {
     e.preventDefault();
+    const items = suggestions.querySelectorAll(".suggestion");
     if (highlightedIndex >= 0 && items[highlightedIndex]) {
       items[highlightedIndex].click();
     }
   }
 });
 
-// Aplica el resaltado visual y scroll si necesario
+// Colorea y auto-scroll al resaltado
 function updateHighlighted(items) {
-  items.forEach((item, i) => {
-    item.classList.toggle("highlighted", i === highlightedIndex);
-  });
-
-  if (highlightedIndex >= 0 && items[highlightedIndex]) {
-    const selected = items[highlightedIndex];
-    const containerTop = suggestions.scrollTop;
-    const containerBottom = containerTop + suggestions.clientHeight;
-    const itemTop = selected.offsetTop;
-    const itemBottom = itemTop + selected.offsetHeight;
-
-    if (itemTop < containerTop) {
-      suggestions.scrollTop = itemTop;
-    } else if (itemBottom > containerBottom) {
-      suggestions.scrollTop = itemBottom - suggestions.clientHeight;
-    }
-  }
-}
-
-function getFirstVisibleIndex() {
-  const items = suggestions.querySelectorAll(".suggestion");
-  const containerTop = suggestions.scrollTop;
-  const containerBottom = containerTop + suggestions.clientHeight;
-
-  for (let i = 0; i < items.length; i++) {
-    const itemTop = items[i].offsetTop;
-    const itemBottom = itemTop + items[i].offsetHeight;
-    if (itemTop >= containerTop && itemBottom <= containerBottom) {
-      return i;
-    }
-  }
-
-  return 0; // fallback
+  items.forEach((item, i) => item.classList.toggle("highlighted", i === highlightedIndex));
+  const current = items[highlightedIndex];
+  if (current) current.scrollIntoView({ block: "nearest" });
 }
 
 /* ---------------------------
