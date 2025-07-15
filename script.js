@@ -194,36 +194,36 @@ searchInput.addEventListener("input", () => {
 
 // 2. Scroll: detecta el primer visible
 let scrollTimeout;
+let isManualScroll = false;
+
+suggestions.addEventListener("wheel", () => {
+  isManualScroll = true;
+});
 
 suggestions.addEventListener("scroll", () => {
+  if (!isManualScroll) return;
   clearTimeout(scrollTimeout);
-
   scrollTimeout = setTimeout(() => {
     const items = suggestions.querySelectorAll(".suggestion");
-
     if (items.length === 0) return;
 
-    // Desactiva todos los elementos previamente destacados
     items.forEach(item => item.classList.remove("highlighted"));
 
-    let bestIndex = -1;
-    let minDistance = Infinity;
+    let best = -1, minDist = Infinity;
+    const contRect = suggestions.getBoundingClientRect();
 
     items.forEach((item, i) => {
       const rect = item.getBoundingClientRect();
-      const containerRect = suggestions.getBoundingClientRect();
-      const distance = Math.abs((rect.top + rect.bottom) / 2 - (containerRect.top + containerRect.bottom) / 2);
-
-      if (distance < minDistance) {
-        minDistance = distance;
-        bestIndex = i;
-      }
+      const dist = Math.abs((rect.top + rect.bottom)/2 - (contRect.top + contRect.bottom)/2);
+      if (dist < minDist) { minDist = dist; best = i; }
     });
 
-    if (bestIndex !== -1) {
-      highlightedIndex = bestIndex;
+    if (best !== -1) {
+      highlightedIndex = best;
       updateHighlighted(items);
     }
+
+    isManualScroll = false;
   }, 150);
 });
 
