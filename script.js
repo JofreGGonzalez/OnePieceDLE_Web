@@ -163,6 +163,7 @@ let scrollLeft;
 
 //Para moverse en el buscador
 let highlightedIndex = -1;
+let userScrollingSuggestions = false;
 
 /* ---------------------------
    GESTIÓN DEL BUSCADOR
@@ -215,38 +216,44 @@ searchInput.addEventListener("input", () => {
 
 // Permite usar ENTER para seleccionar la primera sugerencia
 searchInput.addEventListener("keydown", (e) => {
-  const suggestionItems = suggestions.querySelectorAll(".suggestion");
-  if (!suggestionItems.length) return;
+  const items = suggestions.querySelectorAll(".suggestion");
 
   if (e.key === "ArrowDown") {
-    activeIndex = (activeIndex + 1) % suggestionItems.length;
-    updateActiveSuggestion();
     e.preventDefault();
+    if (items.length > 0) {
+      highlightedIndex = (highlightedIndex + 1) % items.length;
+      updateHighlighted(items);
+    }
   } else if (e.key === "ArrowUp") {
-    activeIndex = (activeIndex - 1 + suggestionItems.length) % suggestionItems.length;
-    updateActiveSuggestion();
     e.preventDefault();
+    if (items.length > 0) {
+      highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
+      updateHighlighted(items);
+    }
   } else if (e.key === "Enter") {
-    if (activeIndex >= 0 && activeIndex < suggestionItems.length) {
-      suggestionItems[activeIndex].click();
+    e.preventDefault();
+    if (highlightedIndex >= 0 && items[highlightedIndex]) {
+      items[highlightedIndex].click();
     }
   }
 });
 
-function updateActiveSuggestion() {
-  const suggestionItems = suggestions.querySelectorAll(".suggestion");
-  suggestionItems.forEach((item) => item.classList.remove("active"));
-  if (activeIndex >= 0 && activeIndex < suggestionItems.length) {
-    const activeItem = suggestionItems[activeIndex];
-    activeItem.classList.add("active");
-    activeItem.scrollIntoView({ block: "nearest" }); // 👈 Esto es lo que asegura el scroll
-  }
-}
+suggestions.addEventListener("wheel", () => {
+  userScrollingSuggestions = true;
+
+  // Evita que se quede en "true" para siempre
+  clearTimeout(userScrollingSuggestionsTimeout);
+  userScrollingSuggestionsTimeout = setTimeout(() => {
+    userScrollingSuggestions = false;
+  }, 500);
+});
+
+let userScrollingSuggestionsTimeout
 
 function updateHighlighted(items) {
   items.forEach((item, i) => {
     item.classList.toggle("highlighted", i === highlightedIndex);
-    if (i === highlightedIndex) {
+    if (i === highlightedIndex && !userScrollingSuggestions) {
       item.scrollIntoView({ block: "nearest" });
     }
   });
