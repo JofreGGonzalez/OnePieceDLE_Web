@@ -205,8 +205,7 @@ searchInput.addEventListener("input", () => {
   });
 
   if (matches.length > 0) {
-    highlightedIndex = getFirstVisibleIndex();
-    updateHighlighted(suggestions.querySelectorAll(".suggestion"));
+    highlightedIndex = 0;
   }
 });
 
@@ -235,15 +234,21 @@ searchInput.addEventListener("keydown", (e) => {
 function updateHighlighted(items) {
   items.forEach((item, i) => {
     item.classList.toggle("highlighted", i === highlightedIndex);
-    if (i === highlightedIndex) {
-      const rect = item.getBoundingClientRect();
-      const containerRect = suggestions.getBoundingClientRect();
-
-      if (rect.top < containerRect.top || rect.bottom > containerRect.bottom) {
-        item.scrollIntoView({ block: "nearest", behavior: "smooth" });
-      }
-    }
   });
+
+  if (highlightedIndex >= 0 && items[highlightedIndex]) {
+    const selected = items[highlightedIndex];
+    const containerTop = suggestions.scrollTop;
+    const containerBottom = containerTop + suggestions.clientHeight;
+    const itemTop = selected.offsetTop;
+    const itemBottom = itemTop + selected.offsetHeight;
+
+    if (itemTop < containerTop) {
+      suggestions.scrollTop = itemTop;
+    } else if (itemBottom > containerBottom) {
+      suggestions.scrollTop = itemBottom - suggestions.clientHeight;
+    }
+  }
 }
 
 function getFirstVisibleIndex() {
