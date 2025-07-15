@@ -215,27 +215,33 @@ searchInput.addEventListener("input", () => {
 
 // Permite usar ENTER para seleccionar la primera sugerencia
 searchInput.addEventListener("keydown", (e) => {
-  const items = suggestions.querySelectorAll(".suggestion");
+  const suggestionItems = suggestions.querySelectorAll(".suggestion");
+  if (!suggestionItems.length) return;
 
   if (e.key === "ArrowDown") {
+    activeIndex = (activeIndex + 1) % suggestionItems.length;
+    updateActiveSuggestion();
     e.preventDefault();
-    if (items.length > 0) {
-      highlightedIndex = (highlightedIndex + 1) % items.length;
-      updateHighlighted(items);
-    }
   } else if (e.key === "ArrowUp") {
+    activeIndex = (activeIndex - 1 + suggestionItems.length) % suggestionItems.length;
+    updateActiveSuggestion();
     e.preventDefault();
-    if (items.length > 0) {
-      highlightedIndex = (highlightedIndex - 1 + items.length) % items.length;
-      updateHighlighted(items);
-    }
   } else if (e.key === "Enter") {
-    e.preventDefault();
-    if (highlightedIndex >= 0 && items[highlightedIndex]) {
-      items[highlightedIndex].click();
+    if (activeIndex >= 0 && activeIndex < suggestionItems.length) {
+      suggestionItems[activeIndex].click();
     }
   }
 });
+
+function updateActiveSuggestion() {
+  const suggestionItems = suggestions.querySelectorAll(".suggestion");
+  suggestionItems.forEach((item) => item.classList.remove("active"));
+  if (activeIndex >= 0 && activeIndex < suggestionItems.length) {
+    const activeItem = suggestionItems[activeIndex];
+    activeItem.classList.add("active");
+    activeItem.scrollIntoView({ block: "nearest" }); // 👈 Esto es lo que asegura el scroll
+  }
+}
 
 function updateHighlighted(items) {
   items.forEach((item, i) => {
