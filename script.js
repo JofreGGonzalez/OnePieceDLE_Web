@@ -249,14 +249,9 @@ searchInput.addEventListener("keydown", (e) => {
   } else if (e.key === "Enter") {
     e.preventDefault();
     const items = suggestions.querySelectorAll(".suggestion");
-    if (items.length === 0) return;
-
-    // Si no había selección, tomar la primera
-    if (highlightedIndex < 0) {
-      highlightedIndex = 0;
-      updateHighlighted(items);
+    if (highlightedIndex >= 0 && items[highlightedIndex]) {
+      items[highlightedIndex].click();
     }
-    if (items[highlightedIndex]) items[highlightedIndex].click();
   }
 });
 
@@ -687,7 +682,7 @@ function getCurrentSlot() {
 // Calcula y devuelve un personaje objetivo único por slot + filtro
 function seleccionarTarget() {
   const slot = getCurrentSlot(); // cambia cada 12h
-  const filtro = canonFilter.value + "_" + difficultyFilter.value;
+  const filtro = canonFilter.value;
 
   const candidatos = filtrarPorCanon(personajes);
   if (candidatos.length === 0) return null;
@@ -750,16 +745,7 @@ function actualizarVisibilidadDificultad() {
 
 // Fuerza recarga de la tabla igual que se hace al cambiar el desplegable de Canon
 difficultyFilter.addEventListener("change", () => {
-  //canonFilter.dispatchEvent(new Event("change"));
-  seleccionarTargetAleatorio();
-  tableBody.innerHTML = "";
-  personajesUsados.length = 0;
-  pistaTexto.classList.add("hidden");
-  pistaTexto.textContent = "";
-  fallos = 0;
-  searchInput.disabled = false;
-  searchInput.placeholder = "Busca un personaje...";
-  document.querySelectorAll(".pista-btn").forEach(btn => btn.disabled = true);
+  canonFilter.dispatchEvent(new Event("change"));
 });
 
 
