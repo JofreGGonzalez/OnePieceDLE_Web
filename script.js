@@ -689,7 +689,8 @@ function seleccionarTarget() {
 
   // Crear semilla única para slot + filtro
   const seed = `${slot}_${filtro}`;
-  const hash = [...seed].reduce((acc, char) => acc + char.charCodeAt(0), 0);
+  //const hash = [...seed].reduce((acc, char) => acc + char.charCodeAt(0), 0);
+  const hash = simpleHash(seed);
 
   // Evitar repeticiones recientes:
   const recent = getRecentHistory(slot, filtro, candidatos);
@@ -702,6 +703,15 @@ function seleccionarTarget() {
 
   saveToHistory(slot, filtro, elegido[nombreKey]);
   return elegido;
+}
+
+function simpleHash(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    hash = ((hash << 5) - hash) + str.charCodeAt(i);
+    hash |= 0;
+  }
+  return Math.abs(hash);
 }
 
 // Recupera los últimos 14 slots para evitar repetición semanal
