@@ -249,7 +249,10 @@ searchInput.addEventListener("keydown", (e) => {
   } else if (e.key === "Enter") {
     e.preventDefault();
     const items = suggestions.querySelectorAll(".suggestion");
-    if (highlightedIndex >= 0 && items[highlightedIndex]) {
+    if (highlightedIndex === -1 && items.length > 0) {
+      highlightedIndex = 0;
+      items[0].click();
+    }else if (highlightedIndex >= 0 && items[highlightedIndex]) {
       items[highlightedIndex].click();
     }
   }
