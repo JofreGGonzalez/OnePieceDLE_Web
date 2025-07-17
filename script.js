@@ -685,7 +685,8 @@ function getCurrentSlot() {
 // Calcula y devuelve un personaje objetivo único por slot + filtro
 function seleccionarTarget() {
   const slot = getCurrentSlot(); // cambia cada 12h
-  const filtro = canonFilter.value + "_" + difficultyFilter.value;
+  const dificultadEl = document.getElementById("difficulty-filter");
+  const filtro = canonFilter.value + (dificultadEl ? "_" + dificultadEl.value : "");
 
   const candidatos = filtrarPorCanon(personajes);
   if (candidatos.length === 0) return null;
