@@ -30,7 +30,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Abdullah",
@@ -63,7 +64,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Absalom",
@@ -96,7 +98,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Acilia",
@@ -129,7 +132,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Adele",
@@ -162,7 +166,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ageha Woman",
@@ -195,7 +200,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aggie 68",
@@ -228,7 +234,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Agotogi",
@@ -261,7 +268,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Agsilly",
@@ -294,7 +302,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Agyo",
@@ -327,7 +336,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ahho Desunen IX",
@@ -360,7 +370,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ahho Zurako",
@@ -393,7 +404,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ahiru",
@@ -426,7 +438,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aisa",
@@ -459,7 +472,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Akehende",
@@ -492,7 +506,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Akudai Kanzaburo",
@@ -525,7 +540,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Akumai",
@@ -558,7 +574,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aladine",
@@ -591,7 +608,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Albion",
@@ -624,7 +642,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Alice",
@@ -657,7 +676,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ally",
@@ -690,7 +710,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Alpacaman",
@@ -723,7 +744,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Alpha",
@@ -756,7 +778,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Alvida",
@@ -789,7 +812,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Amadob",
@@ -822,7 +846,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Amazon",
@@ -855,7 +880,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "An Zengaiina",
@@ -888,7 +914,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Anba",
@@ -921,7 +948,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "And",
@@ -954,7 +982,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Andre",
@@ -987,7 +1016,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ange",
@@ -1020,7 +1050,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Anjo",
@@ -1053,7 +1084,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ankoro",
@@ -1086,7 +1118,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Antonio",
@@ -1119,7 +1152,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aphelandra",
@@ -1152,7 +1186,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aramaki",
@@ -1185,7 +1220,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aremo Ganmi",
@@ -1218,7 +1254,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Arlong",
@@ -1251,7 +1288,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Arrow",
@@ -1284,7 +1322,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Arthur",
@@ -1317,7 +1356,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aruyutayan V",
@@ -1350,7 +1390,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Asahija",
@@ -1383,7 +1424,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Asashichi",
@@ -1416,7 +1458,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ashura Doji",
@@ -1449,7 +1492,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Aswa",
@@ -1482,7 +1526,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Atagoyama",
@@ -1515,7 +1560,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Atlas",
@@ -1548,7 +1594,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Atmos",
@@ -1581,7 +1628,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Attach",
@@ -1614,7 +1662,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Avalo Pizarro",
@@ -1647,7 +1696,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ayesé Mar",
@@ -1680,7 +1730,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Azuki",
@@ -1713,7 +1764,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Babanuki",
@@ -1746,7 +1798,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Babe",
@@ -1779,7 +1832,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Baburu",
@@ -1812,7 +1866,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Baby 5",
@@ -1845,7 +1900,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bacura",
@@ -1878,7 +1934,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Baggaley",
@@ -1911,7 +1968,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bakezo",
@@ -1944,7 +2002,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ban Dedessinée",
@@ -1960,7 +2019,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Ban_Dedessin%C3%A9e",
-    "Enlace Foto": "images/Webp/Ban_Dedessin%C3%A9e_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ban_Dedessin.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -1977,7 +2036,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Banchi",
@@ -2010,7 +2070,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Banchina",
@@ -2043,7 +2104,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bankuro",
@@ -2076,7 +2138,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Banshee",
@@ -2109,7 +2172,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Banzaburo",
@@ -2142,7 +2206,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bao",
@@ -2158,7 +2223,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Gyoro,_Nin,_and_Bao",
-    "Enlace Foto": "images/Webp/Gyoro%2C_Nin%2C_and_Bao_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Gyoro_Nin_and_Bao.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -2175,7 +2240,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bao Huang",
@@ -2208,7 +2274,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bariete",
@@ -2241,7 +2308,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Barrel",
@@ -2274,7 +2342,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Barry",
@@ -2307,7 +2376,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bartholomew Kuma",
@@ -2340,7 +2410,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bartolomeo",
@@ -2373,7 +2444,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bas",
@@ -2406,7 +2478,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Basil Hawkins",
@@ -2439,7 +2512,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Basilisk",
@@ -2472,7 +2546,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bastille",
@@ -2505,7 +2580,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Batchee",
@@ -2538,7 +2614,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Batman",
@@ -2571,7 +2648,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Battaman",
@@ -2604,7 +2682,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Baxcon",
@@ -2637,7 +2716,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Beak Remark",
@@ -2670,7 +2750,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Beegirl",
@@ -2703,7 +2784,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Beer VI",
@@ -2736,7 +2818,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Beetleman",
@@ -2769,7 +2852,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bekori",
@@ -2802,7 +2886,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Belo Betty",
@@ -2835,7 +2920,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Belladonna",
@@ -2868,7 +2954,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bellamy",
@@ -2901,7 +2988,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bellett",
@@ -2934,7 +3022,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bell-mère",
@@ -2950,7 +3039,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "1999",
     "Enlace": "/wiki/Bell-m%C3%A8re",
-    "Enlace Foto": "images/Webp/Bell-m%C3%A8re_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Bell-Mere.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -2967,7 +3056,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Benn Beckman",
@@ -3000,7 +3090,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bentham",
@@ -3033,7 +3124,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bepo",
@@ -3066,7 +3158,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bian",
@@ -3099,7 +3192,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Biblo",
@@ -3132,7 +3226,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Big Pan",
@@ -3165,7 +3260,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Billy",
@@ -3198,7 +3294,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bimine",
@@ -3231,7 +3328,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bingo",
@@ -3264,7 +3362,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bishamon",
@@ -3297,7 +3396,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bishonure-Onna",
@@ -3330,7 +3430,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bisley",
@@ -3363,7 +3464,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Biyo",
@@ -3396,7 +3498,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bizarre",
@@ -3429,7 +3532,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bjorn",
@@ -3445,7 +3549,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2024",
     "Enlace": "/wiki/Bjorn",
-    "Enlace Foto": "images/Webp/Giant_Warrior_Pirates%27_Jolly_Roger.webp",
+    "Enlace Foto": "images/Webp/Giant_Warrior_Pirates_Jolly_Roger.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -3462,7 +3566,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Black Maria",
@@ -3495,7 +3600,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blackback",
@@ -3528,7 +3634,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blakey",
@@ -3561,7 +3668,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blamenco",
@@ -3594,7 +3702,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blenheim",
@@ -3627,7 +3736,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blondie",
@@ -3660,7 +3770,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blue Fan",
@@ -3693,7 +3804,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blue Gilly",
@@ -3726,7 +3838,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bluegrass",
@@ -3759,7 +3872,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bluejam",
@@ -3792,7 +3906,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blueno",
@@ -3825,7 +3940,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Blumarine",
@@ -3858,7 +3974,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Boa Hancock",
@@ -3891,7 +4008,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Boa Marigold",
@@ -3924,7 +4042,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Boa Sandersonia",
@@ -3957,7 +4076,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bobbin",
@@ -3990,7 +4110,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bobby Funk",
@@ -4023,7 +4144,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bobomba",
@@ -4056,7 +4178,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bogard",
@@ -4089,7 +4212,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bomba",
@@ -4105,7 +4229,7 @@ const personajes = [
     "Saga Episodeo Numero": "8",
     "Año de Aparición": "2012",
     "Enlace": "/wiki/Bomba_(Marine)",
-    "Enlace Foto": "images/Webp/Bomba_%28Marine%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Bomba_Marine.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -4122,7 +4246,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bomba (Tontata)",
@@ -4155,7 +4280,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bongo",
@@ -4188,7 +4314,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bonk Punch",
@@ -4221,7 +4348,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Boo",
@@ -4254,7 +4382,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Boodle",
@@ -4287,7 +4416,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Boogie",
@@ -4320,7 +4450,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Borsalino",
@@ -4353,7 +4484,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bourbon Jr.",
@@ -4386,7 +4518,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Braham",
@@ -4419,7 +4552,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brahm",
@@ -4452,7 +4586,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brannew",
@@ -4485,7 +4620,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brew",
@@ -4518,7 +4654,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Briscola",
@@ -4551,7 +4688,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brocca",
@@ -4584,7 +4722,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brogy",
@@ -4617,7 +4756,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brontosaurus",
@@ -4650,7 +4790,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Brook",
@@ -4683,7 +4824,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bubblegum",
@@ -4716,7 +4858,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Buche",
@@ -4749,7 +4892,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Buchi",
@@ -4782,7 +4926,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Buckingham Stussy",
@@ -4815,7 +4960,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Buffalo",
@@ -4848,7 +4994,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Buggy",
@@ -4881,7 +5028,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Buhichuck",
@@ -4914,7 +5062,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Building Snake",
@@ -4947,7 +5096,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bulldog",
@@ -4980,7 +5130,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bunbuku",
@@ -5013,7 +5164,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bungo",
@@ -5046,7 +5198,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bunny Joe",
@@ -5079,7 +5232,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Bushon",
@@ -5112,7 +5266,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Busshiri",
@@ -5145,7 +5300,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Byron",
@@ -5178,7 +5334,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cabaji",
@@ -5211,7 +5368,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Caesar Clown",
@@ -5244,7 +5402,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Caimanlady",
@@ -5277,7 +5436,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Camie",
@@ -5310,7 +5470,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Camel",
@@ -5343,7 +5504,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cancer",
@@ -5376,7 +5538,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Candre",
@@ -5409,7 +5572,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cands",
@@ -5442,7 +5606,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Candy",
@@ -5475,7 +5640,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Capone Bege",
@@ -5508,7 +5674,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Capone Pez",
@@ -5541,7 +5708,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Capote",
@@ -5574,7 +5742,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Caribou",
@@ -5607,7 +5776,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Carmel",
@@ -5640,7 +5810,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Carne",
@@ -5673,7 +5844,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Carrot",
@@ -5706,7 +5878,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Catacombo",
@@ -5739,7 +5912,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Catarina Devon",
@@ -5772,7 +5946,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Caucasusman",
@@ -5805,7 +5980,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cavendish",
@@ -5838,7 +6014,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "CB Gallant",
@@ -5871,7 +6048,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cerberus",
@@ -5904,7 +6082,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cezar",
@@ -5937,7 +6116,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chabo",
@@ -5970,7 +6150,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chadros Higelyges",
@@ -6003,7 +6184,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chaka",
@@ -6036,7 +6218,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chao",
@@ -6069,7 +6252,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chap",
@@ -6102,7 +6286,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chappe",
@@ -6135,7 +6320,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlos",
@@ -6168,7 +6354,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Akimeg",
@@ -6201,7 +6388,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Allmeg",
@@ -6234,7 +6422,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Amande",
@@ -6267,7 +6456,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Anana",
@@ -6300,7 +6490,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Angel",
@@ -6333,7 +6524,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Anglais",
@@ -6366,7 +6558,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Basans",
@@ -6399,7 +6592,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Basskarte",
@@ -6432,7 +6626,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Bavarois",
@@ -6465,7 +6660,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Brownie",
@@ -6498,7 +6694,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Broyé",
@@ -6514,7 +6711,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2017",
     "Enlace": "/wiki/Charlotte_Broy%C3%A9",
-    "Enlace Foto": "images/Webp/Charlotte_Broy%C3%A9_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Broy.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -6531,7 +6728,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Brûlée",
@@ -6547,7 +6745,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Charlotte_Br%C3%BBl%C3%A9e",
-    "Enlace Foto": "images/Webp/Charlotte_Br%C3%BBl%C3%A9e_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Brule.webp",
     "Nombre Fruta": "Mira Mira no Mi",
     "Significado Fruta": "Mirror",
     "Tipo Fruta": "Paramecia",
@@ -6564,7 +6762,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Cabaletta",
@@ -6597,7 +6796,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Cadenza",
@@ -6630,7 +6830,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Chiboust",
@@ -6663,7 +6864,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Chiffon",
@@ -6696,7 +6898,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Cinnamon",
@@ -6729,7 +6932,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Citron",
@@ -6762,7 +6966,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Compo",
@@ -6795,7 +7000,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Compote",
@@ -6828,7 +7034,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Cornstarch",
@@ -6861,7 +7068,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Counter",
@@ -6894,7 +7102,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Cracker",
@@ -6927,7 +7136,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Custard",
@@ -6960,7 +7170,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Dacquoise",
@@ -6993,7 +7204,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Daifuku",
@@ -7026,7 +7238,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte De-Chat",
@@ -7059,7 +7272,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Dolce",
@@ -7075,7 +7289,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Charlotte_Dolce_and_Drag%C3%A9e",
-    "Enlace Foto": "images/Webp/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Dolce_and_Drag.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -7092,7 +7306,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Dosmarche",
@@ -7125,7 +7340,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Dragée",
@@ -7141,7 +7357,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Charlotte_Dolce_and_Drag%C3%A9e",
-    "Enlace Foto": "images/Webp/Charlotte_Dolce_and_Drag%C3%A9e_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Dolce_and_Drag.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -7158,7 +7374,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Effilée",
@@ -7174,7 +7391,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2017",
     "Enlace": "/wiki/Charlotte_Effil%C3%A9e",
-    "Enlace Foto": "images/Webp/Charlotte_Effil%C3%A9e_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Effil.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -7191,7 +7408,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Flampe",
@@ -7224,7 +7442,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Fuyumeg",
@@ -7257,7 +7476,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Gala",
@@ -7290,7 +7510,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Galette",
@@ -7323,7 +7544,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Hachée",
@@ -7339,7 +7561,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2017",
     "Enlace": "/wiki/Charlotte_Hach%C3%A9e",
-    "Enlace Foto": "images/Webp/Charlotte_Hach%C3%A9e_Manga_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Hach.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -7356,7 +7578,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Harumeg",
@@ -7389,7 +7612,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte High-Fat",
@@ -7422,7 +7646,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Joconde",
@@ -7455,7 +7680,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Joscarpone",
@@ -7488,7 +7714,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Kanten",
@@ -7521,7 +7748,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Katakuri",
@@ -7554,7 +7782,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Kato",
@@ -7587,7 +7816,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Laurin",
@@ -7620,7 +7850,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Linlin",
@@ -7653,7 +7884,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Lola",
@@ -7686,7 +7918,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Maple",
@@ -7719,7 +7952,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Marble",
@@ -7752,7 +7986,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Marnier",
@@ -7785,7 +8020,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Mascarpone",
@@ -7818,7 +8054,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Mash",
@@ -7851,7 +8088,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Melise",
@@ -7884,7 +8122,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Mobile",
@@ -7917,7 +8156,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Mondée",
@@ -7933,7 +8173,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2017",
     "Enlace": "/wiki/Charlotte_Mond%C3%A9e",
-    "Enlace Foto": "images/Webp/Charlotte_Mond%C3%A9e_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Mond.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -7950,7 +8190,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Mont-d'Or",
@@ -7966,7 +8207,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Charlotte_Mont-d%27Or",
-    "Enlace Foto": "images/Webp/Charlotte_Mont-d%27Or_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Charlotte_Mont-Or.webp",
     "Nombre Fruta": "Buku Buku no Mi",
     "Significado Fruta": "Book",
     "Tipo Fruta": "Paramecia",
@@ -7983,7 +8224,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Montb",
@@ -8016,7 +8258,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Moscato",
@@ -8049,7 +8292,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Mozart",
@@ -8082,7 +8326,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Myukuru",
@@ -8115,7 +8360,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Newgo",
@@ -8148,7 +8394,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Newichi",
@@ -8181,7 +8428,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Newji",
@@ -8214,7 +8462,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Newsan",
@@ -8247,7 +8496,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Newshi",
@@ -8280,7 +8530,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Noisette",
@@ -8313,7 +8564,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Normande",
@@ -8346,7 +8598,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Nougat",
@@ -8379,7 +8632,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Nusstorte",
@@ -8412,7 +8666,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Nutmeg",
@@ -8445,7 +8700,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Opera",
@@ -8478,7 +8734,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Oven",
@@ -8511,7 +8768,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Panna",
@@ -8544,7 +8802,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Perospero",
@@ -8577,7 +8836,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Poire",
@@ -8610,7 +8870,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Praline",
@@ -8643,7 +8904,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Prim",
@@ -8676,7 +8938,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Pudding",
@@ -8709,7 +8972,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Raisin",
@@ -8742,7 +9006,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Saint-Marc",
@@ -8775,7 +9040,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Smoothie",
@@ -8808,7 +9074,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Snack",
@@ -8841,7 +9108,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Tablet",
@@ -8874,7 +9142,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Wafers",
@@ -8907,7 +9176,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Wiro",
@@ -8940,7 +9210,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Yuen",
@@ -8973,7 +9244,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Charlotte Zuccotto",
@@ -9006,7 +9278,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chess",
@@ -9039,7 +9312,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chesskippa",
@@ -9072,7 +9346,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chessmarimo",
@@ -9105,7 +9380,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chew",
@@ -9138,7 +9414,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chichilisia",
@@ -9171,7 +9448,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chicken",
@@ -9204,7 +9482,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chicory",
@@ -9237,7 +9516,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chimney",
@@ -9270,7 +9550,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chinjao",
@@ -9303,7 +9584,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chihaya",
@@ -9336,7 +9618,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chiya",
@@ -9369,7 +9652,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cho",
@@ -9402,7 +9686,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chochinman",
@@ -9435,7 +9720,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chocho",
@@ -9468,7 +9754,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Choco Police",
@@ -9501,7 +9788,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chocolat",
@@ -9534,7 +9822,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Choi",
@@ -9567,7 +9856,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chokyumei-no Chosuke",
@@ -9600,7 +9890,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chome",
@@ -9633,7 +9924,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chouchou",
@@ -9666,7 +9958,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chuchun",
@@ -9699,7 +9992,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Chuji",
@@ -9732,7 +10026,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Clapp",
@@ -9765,7 +10060,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Clione",
@@ -9798,7 +10094,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Clou D. Clover",
@@ -9831,7 +10128,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Coburn",
@@ -9864,7 +10162,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cocoa",
@@ -9897,7 +10196,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cocox",
@@ -9930,7 +10230,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Colon",
@@ -9963,7 +10264,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Colscon",
@@ -9996,7 +10298,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Columbus",
@@ -10029,7 +10332,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Comil",
@@ -10062,7 +10366,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Compo",
@@ -10095,7 +10400,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Concelot",
@@ -10128,7 +10434,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Conis",
@@ -10161,7 +10468,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Conney",
@@ -10194,7 +10502,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Corgi",
@@ -10227,7 +10536,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Coribou",
@@ -10260,7 +10570,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cornelia",
@@ -10293,7 +10604,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cosette",
@@ -10326,7 +10638,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cosmo",
@@ -10359,7 +10672,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cosmos",
@@ -10392,7 +10706,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cotton",
@@ -10425,7 +10740,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Couran",
@@ -10458,7 +10774,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cowboy",
@@ -10491,7 +10808,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Crocodile",
@@ -10524,7 +10842,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Crocus",
@@ -10557,7 +10876,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Curiel",
@@ -10590,7 +10910,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Curly Dadan",
@@ -10623,7 +10944,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Cyrano",
@@ -10656,7 +10978,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "D.R.",
@@ -10689,7 +11012,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dachoman",
@@ -10722,7 +11046,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daddy Dee",
@@ -10755,7 +11080,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dagama",
@@ -10788,7 +11114,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dago",
@@ -10821,7 +11148,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daidalos",
@@ -10854,7 +11182,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daifugo",
@@ -10887,7 +11216,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daigin",
@@ -10920,7 +11250,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daikoku",
@@ -10953,7 +11284,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daikon",
@@ -10986,7 +11318,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daisy",
@@ -11019,7 +11352,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dalmatian",
@@ -11052,7 +11386,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dalton",
@@ -11085,7 +11420,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Damask",
@@ -11118,7 +11454,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daruma",
@@ -11151,7 +11488,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dashiteyaro",
@@ -11184,7 +11522,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Daz Bonez",
@@ -11217,7 +11556,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Decalvan Brothers",
@@ -11250,7 +11590,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Deigoro",
@@ -11283,7 +11624,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Delacuaji",
@@ -11316,7 +11658,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dellinger",
@@ -11349,7 +11692,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Demalo Black",
@@ -11382,7 +11726,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Demoni Aiyo",
@@ -11415,7 +11760,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Den",
@@ -11448,7 +11794,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Denjiro",
@@ -11481,7 +11828,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Devil Dias",
@@ -11514,7 +11862,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Diamante",
@@ -11547,7 +11896,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Didit",
@@ -11580,7 +11930,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Diesel",
@@ -11613,7 +11964,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Diez Barrels",
@@ -11646,7 +11998,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dirt Boss",
@@ -11679,7 +12032,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Disc J",
@@ -11712,7 +12066,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Disco",
@@ -11745,7 +12100,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dive",
@@ -11778,7 +12134,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dobby Ibadonbo",
@@ -11811,7 +12168,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doberman",
@@ -11844,7 +12202,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dobon",
@@ -11877,7 +12236,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doc Q",
@@ -11910,7 +12270,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dogra",
@@ -11943,7 +12304,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dogya",
@@ -11976,7 +12338,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doha Ittanka II",
@@ -12009,7 +12372,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doll",
@@ -12042,7 +12406,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doma",
@@ -12075,7 +12440,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Domino",
@@ -12108,7 +12474,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Domo-kun",
@@ -12141,7 +12508,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donannoyo",
@@ -12174,7 +12542,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donovan",
@@ -12207,7 +12576,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donquino",
@@ -12240,7 +12610,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donquixote Doflamingo",
@@ -12273,7 +12644,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donquixote Homing",
@@ -12306,7 +12678,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donquixote Mjosgard",
@@ -12339,7 +12712,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donquixote Rosinante",
@@ -12372,7 +12746,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Donquixote Shivercalero",
@@ -12405,7 +12780,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doran (Children)",
@@ -12438,7 +12814,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doringo",
@@ -12471,7 +12848,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dorry",
@@ -12504,7 +12882,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dosun",
@@ -12537,7 +12916,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dotaku",
@@ -12570,7 +12950,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Doubt Brothers",
@@ -12603,7 +12984,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dracule Mihawk",
@@ -12636,7 +13018,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dragon Number Thirteen",
@@ -12669,7 +13052,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Dragon Number Twenty-One",
@@ -12702,7 +13086,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Draw",
@@ -12735,7 +13120,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Drip",
@@ -12768,7 +13154,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Drophy",
@@ -12801,7 +13188,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Drug Peclo",
@@ -12834,7 +13222,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ducky Bree",
@@ -12867,7 +13256,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Duval",
@@ -12900,7 +13290,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Eddy",
@@ -12933,7 +13324,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Edison",
@@ -12966,7 +13358,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Edward Newgate",
@@ -12999,7 +13392,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Edward Weevil",
@@ -13032,7 +13426,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Eiri",
@@ -13065,7 +13460,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Egana",
@@ -13098,7 +13494,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Eggplant Soldier",
@@ -13131,7 +13528,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Eikon",
@@ -13164,7 +13562,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Elizabello II",
@@ -13197,7 +13596,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Elmy",
@@ -13230,7 +13630,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Emet",
@@ -13263,7 +13664,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Emma",
@@ -13296,7 +13698,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Emporio Ivankov",
@@ -13329,7 +13732,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Enel",
@@ -13362,7 +13766,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Enishida",
@@ -13395,7 +13800,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Epoida",
@@ -13428,7 +13834,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Époni",
@@ -13444,7 +13851,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/%C3%89poni",
-    "Enlace Foto": "images/Webp/%C3%89poni_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Eponi.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -13461,7 +13868,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Erik",
@@ -13494,7 +13902,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Erio",
@@ -13527,7 +13936,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Esta",
@@ -13560,7 +13970,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ethanbaron V. Nusjuro",
@@ -13593,7 +14004,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ettara Chaunkai",
@@ -13626,7 +14038,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Eustass Kid",
@@ -13659,7 +14072,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Farafra",
@@ -13692,7 +14106,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Farul",
@@ -13725,7 +14140,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Faust",
@@ -13758,7 +14174,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fen Bock",
@@ -13791,7 +14208,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Figarland Garling",
@@ -13824,7 +14242,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Figarland Shamrock",
@@ -13857,7 +14276,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Finamore",
@@ -13890,7 +14310,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fillonce",
@@ -13923,7 +14344,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fishbonen",
@@ -13956,7 +14378,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fisher Tiger",
@@ -13989,7 +14412,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Flapper",
@@ -14022,7 +14446,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Flare",
@@ -14055,7 +14480,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Footbianco",
@@ -14088,7 +14514,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Forest Boss",
@@ -14121,7 +14548,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Forliewbs",
@@ -14154,7 +14582,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fossa",
@@ -14187,7 +14616,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fourtricks",
@@ -14220,7 +14650,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Foxy",
@@ -14253,7 +14684,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Francois",
@@ -14286,7 +14718,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Franky",
@@ -14319,7 +14752,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fuga",
@@ -14352,7 +14786,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fugar",
@@ -14385,7 +14820,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fugetsu Kisaburo",
@@ -14418,7 +14854,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fugetsu Omusubi",
@@ -14451,7 +14888,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fujin",
@@ -14484,7 +14922,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fukaboshi",
@@ -14517,7 +14956,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fukumi",
@@ -14550,7 +14990,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fukurokuju",
@@ -14583,7 +15024,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fukurou",
@@ -14616,7 +15058,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fullbody",
@@ -14649,7 +15092,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Funkfreed",
@@ -14682,7 +15126,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Furika",
@@ -14715,7 +15160,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Furrari",
@@ -14748,7 +15194,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Fuza",
@@ -14781,7 +15228,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gab",
@@ -14814,7 +15262,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gaburu",
@@ -14847,7 +15296,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gaikotsu Yukichi",
@@ -14880,7 +15330,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gaimon",
@@ -14913,7 +15364,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gal",
@@ -14946,7 +15398,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Galaxy",
@@ -14979,7 +15432,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Galdino",
@@ -15012,7 +15466,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gally",
@@ -15045,7 +15500,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gama Pyonnosuke",
@@ -15078,7 +15534,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gambia",
@@ -15111,7 +15568,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gambo",
@@ -15144,7 +15602,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gan Fall",
@@ -15177,7 +15636,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gancho",
@@ -15210,7 +15670,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gangaru",
@@ -15243,7 +15704,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ganryu",
@@ -15276,7 +15738,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ganryu (Roger)",
@@ -15292,7 +15755,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2020",
     "Enlace": "/wiki/Ganryu_(Roger_Pirates)",
-    "Enlace Foto": "images/Webp/Ganryu_%28Roger_Pirates%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ganryu_Roger_Pirates.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -15309,7 +15772,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Garudan",
@@ -15342,7 +15806,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gatherine",
@@ -15375,7 +15840,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gattenshochinosukeo",
@@ -15408,7 +15874,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gatz",
@@ -15441,7 +15908,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gazelleman",
@@ -15474,7 +15942,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gecko Moria",
@@ -15507,7 +15976,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gedatsu",
@@ -15540,7 +16010,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gem",
@@ -15573,7 +16044,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Genbo",
@@ -15606,7 +16078,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Genrin",
@@ -15639,7 +16112,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Genzo",
@@ -15672,7 +16146,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "George Black",
@@ -15705,7 +16180,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "George Mach",
@@ -15738,7 +16214,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gerd",
@@ -15771,7 +16248,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gerotini",
@@ -15804,7 +16282,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Giberson",
@@ -15837,7 +16316,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gig",
@@ -15870,7 +16350,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gimlet",
@@ -15903,7 +16384,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gin",
@@ -15936,7 +16418,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gina",
@@ -15969,7 +16452,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ginko",
@@ -16002,7 +16486,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ginnosuke",
@@ -16035,7 +16520,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ginny",
@@ -16068,7 +16554,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ginrummy",
@@ -16101,7 +16588,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Giro Chintaro",
@@ -16134,7 +16622,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Giolla",
@@ -16167,7 +16656,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gion",
@@ -16200,7 +16690,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Giovanni",
@@ -16233,7 +16724,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gismonda",
@@ -16266,7 +16758,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gladius",
@@ -16299,7 +16792,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gloriosa",
@@ -16332,7 +16826,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Glove",
@@ -16365,7 +16860,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Glutbunny",
@@ -16398,7 +16894,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gode",
@@ -16431,7 +16928,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Going Merry",
@@ -16464,7 +16962,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Goki",
@@ -16497,7 +16996,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gol D. Roger",
@@ -16530,7 +17030,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Goldberg",
@@ -16563,7 +17064,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Goldfish Princess",
@@ -16596,7 +17098,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gomorrah",
@@ -16629,7 +17132,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gonbe",
@@ -16662,7 +17166,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Goo",
@@ -16695,7 +17200,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gorilla",
@@ -16728,7 +17234,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gorishiro",
@@ -16761,7 +17268,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Goro",
@@ -16794,7 +17302,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gorobe",
@@ -16827,7 +17336,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gotti",
@@ -16860,7 +17370,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Grabar",
@@ -16893,7 +17404,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gram",
@@ -16926,7 +17438,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Great Michael",
@@ -16959,7 +17472,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Guernika",
@@ -16992,7 +17506,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Guillotine",
@@ -17025,7 +17540,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gunko",
@@ -17058,7 +17574,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gurutaro",
@@ -17091,7 +17608,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gyaro",
@@ -17124,7 +17642,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gyogyo",
@@ -17157,7 +17676,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gyoro",
@@ -17173,7 +17693,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Gyoro,_Nin,_and_Bao",
-    "Enlace Foto": "images/Webp/Gyoro%2C_Nin%2C_and_Bao_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Gyoro_Nin_and_Bao.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -17190,7 +17710,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gyoru",
@@ -17223,7 +17744,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Gyro",
@@ -17256,7 +17778,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hack",
@@ -17289,7 +17812,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hack (Random)",
@@ -17305,7 +17829,7 @@ const personajes = [
     "Saga Episodeo Numero": "4",
     "Año de Aparición": "2005",
     "Enlace": "/wiki/Hack_(Archaeologist)",
-    "Enlace Foto": "images/Webp/Hack_%28Archaeologist%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Hack_Archaeologist_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -17322,7 +17846,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hajrudin",
@@ -17355,7 +17880,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hakowan",
@@ -17388,7 +17914,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hakugan",
@@ -17421,7 +17948,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ham Burger",
@@ -17454,7 +17982,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hamburg",
@@ -17487,7 +18016,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hamlet",
@@ -17520,7 +18050,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hammond",
@@ -17553,7 +18084,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Han",
@@ -17586,7 +18118,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hana",
@@ -17619,7 +18152,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hanafuda",
@@ -17652,7 +18186,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hangan",
@@ -17685,7 +18220,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hanger",
@@ -17718,7 +18254,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hanji (Shop)",
@@ -17751,7 +18288,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hanji",
@@ -17767,7 +18305,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Hanji_(Prisoner)",
-    "Enlace Foto": "images/Webp/Hanji_%28Prisoner%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Hanji_Prisoner_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -17784,7 +18322,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hannyabal",
@@ -17817,7 +18356,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hanzo",
@@ -17850,7 +18390,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Happa Yamao",
@@ -17883,7 +18424,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Happygun",
@@ -17916,7 +18458,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hara",
@@ -17949,7 +18492,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Harald",
@@ -17982,7 +18526,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Haredas",
@@ -18015,7 +18560,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hareji",
@@ -18048,7 +18594,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Haritsu Kendiyo",
@@ -18081,7 +18628,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Haruta",
@@ -18114,7 +18662,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hasami",
@@ -18147,7 +18696,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hatcha",
@@ -18180,7 +18730,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hatchan",
@@ -18213,7 +18764,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hatsume",
@@ -18246,7 +18798,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hattori",
@@ -18279,7 +18832,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hawkman",
@@ -18312,7 +18866,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Heat",
@@ -18345,7 +18900,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Helmeppo",
@@ -18378,7 +18934,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Heppoko",
@@ -18411,7 +18968,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hera (Colliseum)",
@@ -18427,7 +18985,7 @@ const personajes = [
     "Saga Episodeo Numero": "8",
     "Año de Aparición": "2013",
     "Enlace": "/wiki/Hera_(Gladiator)",
-    "Enlace Foto": "images/Webp/Hera_%28Gladiator%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Hera_Gladiator_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -18444,7 +19002,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hera",
@@ -18477,7 +19036,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Heracles",
@@ -18510,7 +19070,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Herb",
@@ -18543,7 +19104,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hewitt",
@@ -18576,7 +19138,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hibari",
@@ -18609,7 +19172,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hidayu",
@@ -18642,7 +19206,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Higuma",
@@ -18675,7 +19240,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hihimaru",
@@ -18708,7 +19274,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hikkomitsukumai",
@@ -18741,7 +19308,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hikoichi",
@@ -18774,7 +19342,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hildon",
@@ -18807,7 +19376,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hilmungardr",
@@ -18840,7 +19410,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Himuro",
@@ -18873,7 +19444,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hina",
@@ -18906,7 +19478,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hinokizu",
@@ -18939,7 +19512,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hip",
@@ -18972,7 +19546,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hippan Natte",
@@ -19005,7 +19580,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hippie",
@@ -19038,7 +19614,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hippo Gentleman",
@@ -19071,7 +19648,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hiramera",
@@ -19104,7 +19682,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hiriluk",
@@ -19137,7 +19716,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hiro Gomon",
@@ -19170,7 +19750,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hiroshi",
@@ -19203,7 +19784,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hitsugisukan",
@@ -19236,7 +19818,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ho",
@@ -19269,7 +19852,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hocha",
@@ -19302,7 +19886,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hocker",
@@ -19335,7 +19920,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hody Jones",
@@ -19368,7 +19954,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hoe",
@@ -19401,7 +19988,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hogback",
@@ -19434,7 +20022,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hoichael",
@@ -19467,7 +20056,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hoisassa",
@@ -19500,7 +20090,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Holed'em",
@@ -19516,7 +20107,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Holed%27em",
-    "Enlace Foto": "images/Webp/Holed%27em_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Holedem_Anime_Infobox.webp",
     "Nombre Fruta": "Lion SMILE",
     "Significado Fruta": "",
     "Tipo Fruta": "Artificial Zoan",
@@ -19533,7 +20124,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Holy (Dog)",
@@ -19566,7 +20158,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Home",
@@ -19599,7 +20192,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hongo",
@@ -19632,7 +20226,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Honner",
@@ -19665,7 +20260,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hop",
@@ -19698,7 +20294,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Horseman",
@@ -19731,7 +20328,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hotei",
@@ -19764,7 +20362,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hotori",
@@ -19797,7 +20396,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hototogisu",
@@ -19830,7 +20430,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hound",
@@ -19863,7 +20464,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "House",
@@ -19896,7 +20498,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hublot",
@@ -19929,7 +20532,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Humphrey",
@@ -19962,7 +20566,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hustle",
@@ -19995,7 +20600,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hyota",
@@ -20028,7 +20634,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hyougoro",
@@ -20061,7 +20668,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hyoutauros",
@@ -20094,7 +20702,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Hyouzou",
@@ -20127,7 +20736,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ibiributsu",
@@ -20160,7 +20770,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ibusu",
@@ -20193,7 +20804,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Iceburg",
@@ -20226,7 +20838,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ichika",
@@ -20259,7 +20872,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ideaman",
@@ -20292,7 +20906,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ideo",
@@ -20325,7 +20940,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Igaram",
@@ -20358,7 +20974,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikaros Much",
@@ -20391,7 +21008,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikkaku",
@@ -20424,7 +21042,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikkaku (moderator)",
@@ -20440,7 +21059,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Ikkaku_(Wano)",
-    "Enlace Foto": "images/Webp/Ikkaku_%28Wano%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ikkaku_Wano_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -20457,7 +21076,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Imu",
@@ -20490,7 +21110,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inazuma",
@@ -20523,7 +21144,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inbi",
@@ -20556,7 +21178,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Indigo",
@@ -20589,7 +21212,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inhel",
@@ -20622,7 +21246,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inoichibannosuke",
@@ -20655,7 +21280,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inuarashi",
@@ -20688,7 +21314,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inukai",
@@ -20721,7 +21348,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Inuppe",
@@ -20754,7 +21382,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ipponmatsu",
@@ -20787,7 +21416,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ipponume",
@@ -20820,7 +21450,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Isa",
@@ -20853,7 +21484,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Iscat",
@@ -20886,7 +21518,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ishigo Shitemanna",
@@ -20919,7 +21552,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ishilly",
@@ -20952,7 +21586,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Island Eater",
@@ -20985,7 +21620,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Islewan",
@@ -21018,7 +21654,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Issho",
@@ -21051,7 +21688,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Isuka",
@@ -21084,7 +21722,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Itomimizu",
@@ -21117,7 +21756,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ivan X",
@@ -21150,7 +21790,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Izou",
@@ -21183,7 +21824,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Iwatobi",
@@ -21216,7 +21858,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Iyan'eno Chinode",
@@ -21232,7 +21875,7 @@ const personajes = [
     "Saga Episodeo Numero": "11",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Iyan%27eno_Chinode",
-    "Enlace Foto": "images/Webp/Iyan%27eno_Chinode_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Iyaneno_Chinode_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -21249,7 +21892,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jabari",
@@ -21282,7 +21926,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jabra",
@@ -21315,7 +21960,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jack",
@@ -21348,7 +21994,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jack-in-the-Box",
@@ -21381,7 +22028,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jacksonbanner",
@@ -21414,7 +22062,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jaguar",
@@ -21447,7 +22096,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jaguar D. Saul",
@@ -21480,7 +22130,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jaki",
@@ -21513,7 +22164,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jalmack",
@@ -21546,7 +22198,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jango",
@@ -21579,7 +22232,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jarul",
@@ -21612,7 +22266,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jaygarcia Saturn",
@@ -21645,7 +22300,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jean Ango",
@@ -21678,7 +22334,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jean Bart",
@@ -21711,7 +22368,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jean Goen",
@@ -21744,7 +22402,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jean Noueilles",
@@ -21777,7 +22436,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jeep",
@@ -21810,7 +22470,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jeet",
@@ -21843,7 +22504,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jerry",
@@ -21876,7 +22538,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jero",
@@ -21909,7 +22572,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jesus Burgess",
@@ -21942,7 +22606,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jew Wall",
@@ -21975,7 +22640,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jewelry Bonney",
@@ -22008,7 +22674,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jibuemon",
@@ -22041,7 +22708,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jigoku Benten",
@@ -22074,7 +22742,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jigokukamabuta Megatenpanchiro",
@@ -22107,7 +22776,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jigoro",
@@ -22140,7 +22810,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jigra",
@@ -22173,7 +22844,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jinbe",
@@ -22206,7 +22878,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jiron",
@@ -22239,7 +22912,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jobo",
@@ -22272,7 +22946,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "John",
@@ -22305,7 +22980,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "John Giant",
@@ -22338,7 +23014,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Johnny",
@@ -22371,7 +23048,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jorge",
@@ -22404,7 +23082,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Joseph",
@@ -22437,7 +23116,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Joshu",
@@ -22470,7 +23150,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jorul",
@@ -22503,7 +23184,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Joy Boy",
@@ -22536,7 +23218,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jozu",
@@ -22569,7 +23252,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Judy",
@@ -22602,7 +23286,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jugemu Jugemuko",
@@ -22635,7 +23320,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jujiro",
@@ -22668,7 +23354,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Juki",
@@ -22701,7 +23388,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Julius",
@@ -22734,7 +23422,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Jumper",
@@ -22767,7 +23456,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Junan",
@@ -22800,7 +23490,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kabu",
@@ -22833,7 +23524,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kadar",
@@ -22866,7 +23558,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kagero",
@@ -22899,7 +23592,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kagikko",
@@ -22932,7 +23626,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaidou",
@@ -22965,7 +23660,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kairen",
@@ -22998,7 +23694,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kairiken",
@@ -23031,7 +23728,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kairo Kureyo",
@@ -23064,7 +23762,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaku",
@@ -23097,7 +23796,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaku (Samurai)",
@@ -23113,7 +23813,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Kaku_(Wano)",
-    "Enlace Foto": "images/Webp/Kaku_%28Wano%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Kaku_Wano_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -23130,7 +23830,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kakukaku",
@@ -23163,7 +23864,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kakunoshin",
@@ -23196,7 +23898,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kalgara",
@@ -23229,7 +23932,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kalifa",
@@ -23262,7 +23966,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kamakiri",
@@ -23295,7 +24000,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kamakirigirl",
@@ -23328,7 +24034,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kamekichi",
@@ -23361,7 +24068,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kamijiro",
@@ -23394,7 +24102,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaneshiro",
@@ -23427,7 +24136,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kanezenny",
@@ -23460,7 +24170,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kappa",
@@ -23493,7 +24204,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Karasu",
@@ -23526,7 +24238,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Karma",
@@ -23559,7 +24272,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Karoo",
@@ -23592,7 +24306,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kasa",
@@ -23625,7 +24340,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kasagoba",
@@ -23658,7 +24374,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kashii",
@@ -23691,7 +24408,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kashigami",
@@ -23724,7 +24442,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Katsuzo",
@@ -23757,7 +24476,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kawamatsu",
@@ -23790,7 +24510,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaya",
@@ -23823,7 +24544,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kazekage",
@@ -23856,7 +24578,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kazenbo",
@@ -23889,7 +24612,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kebi",
@@ -23922,7 +24646,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kechatch",
@@ -23955,7 +24680,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Keith",
@@ -23988,7 +24714,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kentauros",
@@ -24021,7 +24748,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kelly Funk",
@@ -24054,7 +24782,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kerville",
@@ -24087,7 +24816,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kibagaeru",
@@ -24120,7 +24850,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kibin",
@@ -24153,7 +24884,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kiev",
@@ -24186,7 +24918,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kikipatsu",
@@ -24219,7 +24952,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kiku",
@@ -24252,7 +24986,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kikunojo",
@@ -24285,7 +25020,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kikyo",
@@ -24318,7 +25054,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Killer",
@@ -24351,7 +25088,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kimel",
@@ -24384,7 +25122,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kin'emon",
@@ -24400,7 +25139,7 @@ const personajes = [
     "Saga Episodeo Numero": "8",
     "Año de Aparición": "2012",
     "Enlace": "/wiki/Kin%27emon",
-    "Enlace Foto": "images/Webp/Kin%27emon_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Kinemon_Anime_Infobox.webp",
     "Nombre Fruta": "Fuku Fuku no Mi",
     "Significado Fruta": "Clothing",
     "Tipo Fruta": "Paramecia",
@@ -24417,7 +25156,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kinbo",
@@ -24450,7 +25190,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kinderella",
@@ -24483,7 +25224,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "King",
@@ -24516,7 +25258,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kingbaum",
@@ -24549,7 +25292,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kinga",
@@ -24582,7 +25326,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kingdew",
@@ -24615,7 +25360,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kinoko",
@@ -24648,7 +25394,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kirinkodanuki",
@@ -24681,7 +25428,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kirintauros",
@@ -24714,7 +25462,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kisegawa",
@@ -24747,7 +25496,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kitton",
@@ -24780,7 +25530,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kiwi",
@@ -24813,7 +25564,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koala",
@@ -24846,7 +25598,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kobe",
@@ -24879,7 +25632,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koby",
@@ -24912,7 +25666,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koda",
@@ -24945,7 +25700,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koito",
@@ -24978,7 +25734,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koiwa",
@@ -25011,7 +25768,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kojuro",
@@ -25044,7 +25802,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kokoro",
@@ -25077,7 +25836,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Komachiyo",
@@ -25110,7 +25870,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Komakkov",
@@ -25143,7 +25904,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Komane",
@@ -25176,7 +25938,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Konbu",
@@ -25209,7 +25972,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kong",
@@ -25242,7 +26006,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kop",
@@ -25275,7 +26040,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koshi Falcon",
@@ -25308,7 +26074,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kotatsu",
@@ -25341,7 +26108,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kotetsu",
@@ -25374,7 +26142,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kotori",
@@ -25407,7 +26176,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kouzuki Hiyori",
@@ -25440,7 +26210,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kouzuki Momonosuke",
@@ -25473,7 +26244,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kouzuki Oden",
@@ -25506,7 +26278,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kouzuki Sukiyaki",
@@ -25539,7 +26312,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kouzuki Toki",
@@ -25572,7 +26346,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koyama",
@@ -25605,7 +26380,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koza",
@@ -25638,7 +26414,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Koze",
@@ -25671,7 +26448,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Krieg",
@@ -25704,7 +26482,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kujaku",
@@ -25737,7 +26516,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kukai",
@@ -25770,7 +26550,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kumadori",
@@ -25803,7 +26584,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kumadori Yamanbako",
@@ -25836,7 +26618,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kumae",
@@ -25869,7 +26652,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kumagoro",
@@ -25902,7 +26686,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kumaguchi Ichiro",
@@ -25935,7 +26720,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kumashi",
@@ -25968,7 +26754,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuni",
@@ -26001,7 +26788,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kunyun",
@@ -26034,7 +26822,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kureha",
@@ -26067,7 +26856,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuro",
@@ -26100,7 +26890,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurokoma",
@@ -26133,7 +26924,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuromarimo",
@@ -26166,7 +26958,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuroobi",
@@ -26199,7 +26992,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurosawa",
@@ -26232,7 +27026,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurotsuru",
@@ -26265,7 +27060,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurozumi Higurashi",
@@ -26298,7 +27094,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurozumi Kanjuro",
@@ -26331,7 +27128,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurozumi Orochi",
@@ -26364,7 +27162,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurozumi Semimaru",
@@ -26397,7 +27196,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kurozumi Tama",
@@ -26430,7 +27230,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuzan",
@@ -26463,7 +27264,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kyros",
@@ -26496,7 +27298,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kyuin",
@@ -26529,7 +27332,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kyuji",
@@ -26562,7 +27366,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Kyukyu",
@@ -26595,7 +27400,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Laboon",
@@ -26628,7 +27434,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lacroix",
@@ -26661,7 +27468,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lacuba",
@@ -26694,7 +27502,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lady Tree",
@@ -26727,7 +27536,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Laffitte",
@@ -26760,7 +27570,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lao G",
@@ -26793,7 +27604,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Laskey",
@@ -26826,7 +27638,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lassoo",
@@ -26859,7 +27672,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lemoncheese",
@@ -26892,7 +27706,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Leo",
@@ -26925,7 +27740,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Leonero",
@@ -26958,7 +27774,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lilith",
@@ -26991,7 +27808,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lily",
@@ -27024,7 +27842,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Limejuice",
@@ -27057,7 +27876,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Linaria",
@@ -27090,7 +27910,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lindbergh",
@@ -27123,7 +27944,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lines",
@@ -27156,7 +27978,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lionbuta",
@@ -27189,7 +28012,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lip Doughty",
@@ -27222,7 +28046,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Little Oars Jr.",
@@ -27255,7 +28080,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Loki",
@@ -27288,7 +28114,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lola (Zombie)",
@@ -27321,7 +28148,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lonz",
@@ -27354,7 +28182,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lord of the Coast",
@@ -27387,7 +28216,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Louis Arnote",
@@ -27420,7 +28250,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lucky Roux",
@@ -27453,7 +28284,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lu Feld",
@@ -27486,7 +28318,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Lulis",
@@ -27519,7 +28352,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Machvise",
@@ -27552,7 +28386,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Macro",
@@ -27585,7 +28420,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Macro (Moon)",
@@ -27601,7 +28437,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Macro_(Automaton)",
-    "Enlace Foto": "images/Webp/Macro_%28Automaton%29_Manga_Infobox.webp",
+    "Enlace Foto": "images/Webp/Macro_Automaton_Manga_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -27618,7 +28454,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Madilloman",
@@ -27651,7 +28488,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Magellan",
@@ -27684,7 +28522,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Magra",
@@ -27717,7 +28556,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Maha",
@@ -27750,7 +28590,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Maidy",
@@ -27783,7 +28624,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Maki",
@@ -27816,7 +28658,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Makino",
@@ -27849,7 +28692,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Makino's Child",
@@ -27865,7 +28709,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2011",
     "Enlace": "/wiki/Makino%27s_Child",
-    "Enlace Foto": "images/Webp/Makino%27s_Child_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Makino_Child_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -27882,7 +28726,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Makko",
@@ -27915,7 +28760,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Manboshi",
@@ -27948,7 +28794,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mani",
@@ -27981,7 +28828,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Manjaro",
@@ -28014,7 +28862,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mansherry",
@@ -28047,7 +28896,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marco",
@@ -28080,7 +28930,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marcus Mars",
@@ -28113,7 +28964,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Margarita",
@@ -28146,7 +28998,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marguerite",
@@ -28179,7 +29032,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mari (King)",
@@ -28212,7 +29066,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Maria Napole",
@@ -28245,7 +29100,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marianne",
@@ -28278,7 +29134,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marie",
@@ -28311,7 +29168,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marilyn",
@@ -28344,7 +29202,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marin",
@@ -28377,7 +29236,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mario",
@@ -28410,7 +29270,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marshall D. Teach",
@@ -28443,7 +29304,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Marumieta",
@@ -28476,7 +29338,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mash",
@@ -28509,7 +29372,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mashikaku (Navy)",
@@ -28542,7 +29406,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Masira",
@@ -28575,7 +29440,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Masked Deuce",
@@ -28608,7 +29474,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Massui",
@@ -28641,7 +29508,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Master",
@@ -28674,7 +29542,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Master of the Waters",
@@ -28707,7 +29576,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mato",
@@ -28740,7 +29610,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Matryosaka",
@@ -28773,7 +29644,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Matryoseka",
@@ -28806,7 +29678,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Matryosoka",
@@ -28839,7 +29712,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Matryosuka",
@@ -28872,7 +29746,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Matsuge",
@@ -28905,7 +29780,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Maujii",
@@ -28938,7 +29814,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Maynard",
@@ -28971,7 +29848,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "MAX Marx",
@@ -29004,7 +29882,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mayushika",
@@ -29037,7 +29916,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "McGuy",
@@ -29070,7 +29950,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "McKinley",
@@ -29103,7 +29984,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Meadows",
@@ -29136,7 +30018,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mecha-Shark",
@@ -29169,7 +30052,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Megalo",
@@ -29202,7 +30086,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mero",
@@ -29235,7 +30120,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Merry",
@@ -29268,7 +30154,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mezasuzowan Pisuo",
@@ -29301,7 +30188,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Michael",
@@ -29334,7 +30222,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mihar",
@@ -29367,7 +30256,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mikazuki",
@@ -29400,7 +30290,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mikio Itoo",
@@ -29433,7 +30324,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mikita",
@@ -29466,7 +30358,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miles",
@@ -29499,7 +30392,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Milky",
@@ -29532,7 +30426,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Millet Pine",
@@ -29565,7 +30460,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Milo",
@@ -29598,7 +30494,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minatomo",
@@ -29614,7 +30511,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "1999",
     "Enlace": "/wiki/Minatomo_(East_Blue)",
-    "Enlace Foto": "images/Webp/Minatomo_%28East_Blue%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Minatomo_East_Blue_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -29631,7 +30528,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minatomo (Wano)",
@@ -29647,7 +30545,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Minatomo_(Wano)",
-    "Enlace Foto": "images/Webp/Minatomo_%28Wano%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Minatomo_Wano_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -29664,7 +30562,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minister of the Left",
@@ -29697,7 +30596,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minister of the Right",
@@ -29730,7 +30630,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minochihuahua",
@@ -29763,7 +30664,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minokoala",
@@ -29796,7 +30698,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minorhinoceros",
@@ -29829,7 +30732,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minoruba",
@@ -29862,7 +30766,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minotaurus",
@@ -29895,7 +30800,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Minozebra",
@@ -29928,7 +30834,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Misery",
@@ -29961,7 +30868,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mishoin Cashible",
@@ -29994,7 +30902,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Catherina",
@@ -30027,7 +30936,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Father's Day",
@@ -30043,7 +30953,7 @@ const personajes = [
     "Saga Episodeo Numero": "2",
     "Año de Aparición": "2001",
     "Enlace": "/wiki/Miss_Father%27s_Day",
-    "Enlace Foto": "images/Webp/Miss_Father%27s_Day_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Miss_Father_Day_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -30060,7 +30970,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Friday",
@@ -30093,7 +31004,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Monday",
@@ -30126,7 +31038,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Mother's Day",
@@ -30159,7 +31072,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Saturday",
@@ -30192,7 +31106,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Thursday",
@@ -30225,7 +31140,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miss Tuesday",
@@ -30258,7 +31174,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Miyagi",
@@ -30291,7 +31208,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mizerka",
@@ -30324,7 +31242,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mizuira",
@@ -30357,7 +31276,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mizuta Madaisuki",
@@ -30390,7 +31310,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mizuta Mawaritosuki",
@@ -30423,7 +31344,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Moai",
@@ -30456,7 +31378,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "MocDonald",
@@ -30489,7 +31412,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mocha",
@@ -30522,7 +31446,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mochi",
@@ -30555,7 +31480,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Moda",
@@ -30588,7 +31514,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mohji",
@@ -30621,7 +31548,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Momonga",
@@ -30654,7 +31582,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Momoo",
@@ -30687,7 +31616,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monda",
@@ -30720,7 +31650,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monet",
@@ -30753,7 +31684,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monjii",
@@ -30786,7 +31718,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monjiro",
@@ -30819,7 +31752,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monkey D. Dragon",
@@ -30852,7 +31786,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monkey D. Garp",
@@ -30885,7 +31820,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monkey D. Luffy",
@@ -30918,7 +31854,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Monster",
@@ -30951,7 +31888,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mont Blanc Cricket",
@@ -30984,7 +31922,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mont Blanc Noland",
@@ -31017,7 +31956,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Moodie",
@@ -31050,7 +31990,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Moon Isaac Jr.",
@@ -31083,7 +32024,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Moqueca",
@@ -31116,7 +32058,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Morgan",
@@ -31149,7 +32092,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Morgans",
@@ -31182,7 +32126,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Morley",
@@ -31215,7 +32160,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mornin",
@@ -31248,7 +32194,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mororon",
@@ -31281,7 +32228,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mosa",
@@ -31314,7 +32262,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mosh",
@@ -31347,7 +32296,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Motobaro",
@@ -31380,7 +32330,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Motzel",
@@ -31413,7 +32364,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mounblutain",
@@ -31446,7 +32398,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mountain God",
@@ -31479,7 +32432,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mountain Ricky",
@@ -31512,7 +32466,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mouseman",
@@ -31545,7 +32500,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mousse",
@@ -31578,7 +32534,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mouthto Mouthyan",
@@ -31611,7 +32568,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Moyle",
@@ -31644,7 +32602,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mozambia",
@@ -31677,7 +32636,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mozu",
@@ -31710,7 +32670,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 6",
@@ -31743,7 +32704,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 7",
@@ -31776,7 +32738,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 9",
@@ -31809,7 +32772,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 10",
@@ -31842,7 +32806,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 11",
@@ -31875,7 +32840,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 12",
@@ -31908,7 +32874,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 13",
@@ -31941,7 +32908,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Beans",
@@ -31974,7 +32942,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Love",
@@ -32007,7 +32976,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Mellow",
@@ -32040,7 +33010,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Momora",
@@ -32073,7 +33044,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Sacrifice",
@@ -32106,7 +33078,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Shimizu",
@@ -32139,7 +33112,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Muchana",
@@ -32172,7 +33146,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Muginn",
@@ -32205,7 +33180,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mugren",
@@ -32238,7 +33214,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mukkashimi Tower",
@@ -32271,7 +33248,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mummy",
@@ -32304,7 +33282,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Mummy Mee",
@@ -32337,7 +33316,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Muret",
@@ -32370,7 +33350,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Muti",
@@ -32403,7 +33384,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nakaiwa",
@@ -32436,7 +33418,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nako",
@@ -32469,7 +33452,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nami",
@@ -32502,7 +33486,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Namur",
@@ -32535,7 +33520,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nanday",
@@ -32568,7 +33554,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nangi",
@@ -32601,7 +33588,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Napoleon",
@@ -32634,7 +33622,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nashi",
@@ -32667,7 +33656,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Natto",
@@ -32700,7 +33690,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nazu Ketagari",
@@ -32733,7 +33724,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Needle God",
@@ -32766,7 +33758,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nefertari Cobra",
@@ -32799,7 +33792,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nefertari D. Lili",
@@ -32832,7 +33826,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nefertari Titi",
@@ -32865,7 +33860,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nefertari Vivi",
@@ -32898,7 +33894,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Neggy",
@@ -32931,7 +33928,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Negikuma Maria",
@@ -32964,7 +33962,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nekomamushi",
@@ -32997,7 +33996,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nekozaemon",
@@ -33030,7 +34030,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Neoki",
@@ -33063,7 +34064,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Neptune",
@@ -33096,7 +34098,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nerine",
@@ -33129,7 +34132,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nero",
@@ -33162,7 +34166,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nerona Imu",
@@ -33195,7 +34200,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nezumi",
@@ -33228,7 +34234,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nico Olvia",
@@ -33261,7 +34268,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nico Robin",
@@ -33294,7 +34302,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nigeratta",
@@ -33327,7 +34336,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nightcrab Girl",
@@ -33360,7 +34370,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nika (Gyojin)",
@@ -33393,7 +34404,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nika",
@@ -33426,7 +34438,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nin",
@@ -33442,7 +34455,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Gyoro,_Nin,_and_Bao",
-    "Enlace Foto": "images/Webp/Gyoro%2C_Nin%2C_and_Bao_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Gyoro_Nin_and_Bao.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -33459,7 +34472,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ninjin",
@@ -33492,7 +34506,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ninth",
@@ -33525,7 +34540,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nitro",
@@ -33558,7 +34574,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nnke-kun",
@@ -33591,7 +34608,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Noble Croc",
@@ -33624,7 +34642,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nodoi Wakan",
@@ -33657,7 +34676,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nokokuwa Police",
@@ -33690,7 +34710,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nokotti",
@@ -33723,7 +34744,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nojiko",
@@ -33756,7 +34778,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nola",
@@ -33789,7 +34812,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nora Gitsune",
@@ -33822,7 +34846,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Noriko",
@@ -33855,7 +34880,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Norinosuke",
@@ -33888,7 +34914,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nosgarl",
@@ -33921,7 +34948,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nubon",
@@ -33954,7 +34982,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nugire Yainu",
@@ -33987,7 +35016,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nure-Onna",
@@ -34020,7 +35050,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nyasha",
@@ -34053,7 +35084,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Nyornyo Nyarmani",
@@ -34086,7 +35118,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oars",
@@ -34119,7 +35152,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Octopako",
@@ -34152,7 +35186,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ochoku",
@@ -34185,7 +35220,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ohm",
@@ -34218,7 +35254,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oide",
@@ -34251,7 +35288,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oimo",
@@ -34284,7 +35322,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oiwa",
@@ -34317,7 +35356,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Okame",
@@ -34350,7 +35390,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Okome",
@@ -34383,7 +35424,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oli",
@@ -34416,7 +35458,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oliva",
@@ -34449,7 +35492,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Omasa",
@@ -34482,7 +35526,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Onigumo",
@@ -34515,7 +35560,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Onimaru",
@@ -34548,7 +35594,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Oran",
@@ -34581,7 +35628,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Orlumbus",
@@ -34614,7 +35662,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ossamondo",
@@ -34647,7 +35696,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Otohime",
@@ -34680,7 +35730,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ottoland",
@@ -34713,7 +35764,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Outlook III",
@@ -34746,7 +35798,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Packy",
@@ -34779,7 +35832,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pagaya",
@@ -34812,7 +35866,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Page One",
@@ -34845,7 +35900,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Palms",
@@ -34878,7 +35934,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pandaman",
@@ -34911,7 +35968,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pandawomanmi",
@@ -34944,7 +36002,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pandora",
@@ -34977,7 +36036,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pankuta Dakeyan",
@@ -35010,7 +36070,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pansy",
@@ -35043,7 +36104,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Papaneel",
@@ -35076,7 +36138,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Papas",
@@ -35109,7 +36172,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pappag",
@@ -35142,7 +36206,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Part",
@@ -35175,7 +36240,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pascia",
@@ -35208,7 +36274,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Patty",
@@ -35241,7 +36308,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Paulie",
@@ -35274,7 +36342,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pavlik",
@@ -35307,7 +36376,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Peachbeard",
@@ -35340,7 +36410,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pearl",
@@ -35373,7 +36444,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Peepley Lulu",
@@ -35406,7 +36478,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pedro",
@@ -35439,7 +36512,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pekkori",
@@ -35472,7 +36546,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pekoms",
@@ -35505,7 +36580,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pell",
@@ -35538,7 +36614,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pellini",
@@ -35571,7 +36648,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Penguin",
@@ -35604,7 +36682,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Peppoko",
@@ -35637,7 +36716,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Perona",
@@ -35670,7 +36750,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Peterman",
@@ -35703,7 +36784,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Petermoo",
@@ -35736,7 +36818,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pica",
@@ -35769,7 +36852,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pickles",
@@ -35802,7 +36886,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pierre",
@@ -35835,7 +36920,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Piiman",
@@ -35868,7 +36954,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pike",
@@ -35901,7 +36988,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pinky",
@@ -35934,7 +37022,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Piper",
@@ -35967,7 +37056,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pisaro",
@@ -36000,7 +37090,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pluming",
@@ -36033,7 +37124,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Poker",
@@ -36066,7 +37158,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pomp",
@@ -36099,7 +37192,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pomsky",
@@ -36132,7 +37226,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Poppoko",
@@ -36165,7 +37260,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Poppy",
@@ -36198,7 +37294,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Porche",
@@ -36231,7 +37328,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Porchemy",
@@ -36264,7 +37362,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Poro",
@@ -36297,7 +37396,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Portgas D. Ace",
@@ -36330,7 +37430,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Portgas D. Rouge",
@@ -36363,7 +37464,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Potato",
@@ -36396,7 +37498,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Potaufeu",
@@ -36429,7 +37532,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Potsun",
@@ -36462,7 +37566,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pound",
@@ -36495,7 +37600,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Prince Grus",
@@ -36528,7 +37634,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Prometheus",
@@ -36561,7 +37668,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pudding Pudding",
@@ -36594,7 +37702,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pudos",
@@ -36627,7 +37736,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Puppu",
@@ -36660,7 +37770,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pururu",
@@ -36693,7 +37804,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "PX-1",
@@ -36726,7 +37838,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "PX-4",
@@ -36759,7 +37872,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "PX-5",
@@ -36792,7 +37906,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "PX-7",
@@ -36825,7 +37940,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Pythagoras",
@@ -36858,7 +37974,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Queen",
@@ -36891,7 +38008,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Queen Mama Chanter",
@@ -36924,7 +38042,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Quincy",
@@ -36957,7 +38076,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rabbitman",
@@ -36990,7 +38110,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rabiyan",
@@ -37023,7 +38144,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Raccoon",
@@ -37056,7 +38178,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Raideen",
@@ -37089,7 +38212,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Raijin",
@@ -37122,7 +38246,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Raizo",
@@ -37155,7 +38280,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Raki",
@@ -37188,7 +38314,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rakuda",
@@ -37221,7 +38348,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rakushitemo Terusubehainaika",
@@ -37254,7 +38382,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rakuyo",
@@ -37287,7 +38416,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ramba",
@@ -37320,7 +38450,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ramen",
@@ -37353,7 +38484,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rampo",
@@ -37386,7 +38518,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ran",
@@ -37419,7 +38552,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Randolph",
@@ -37452,7 +38586,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rangram",
@@ -37485,7 +38620,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ratel",
@@ -37518,7 +38654,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rebecca",
@@ -37551,7 +38688,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Reck",
@@ -37584,7 +38722,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Recycle-Wan",
@@ -37617,7 +38756,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Red King",
@@ -37650,7 +38790,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Redwolf",
@@ -37683,7 +38824,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Reforte",
@@ -37716,7 +38858,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Renona Topakka",
@@ -37749,7 +38892,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Reuder",
@@ -37782,7 +38926,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Richie",
@@ -37815,7 +38960,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rika",
@@ -37848,7 +38994,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Riku Doldo III",
@@ -37881,7 +39028,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rindo",
@@ -37914,7 +39062,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rint",
@@ -37947,7 +39096,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ripley",
@@ -37980,7 +39130,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ripper",
@@ -38013,7 +39164,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ririka",
@@ -38046,7 +39198,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Risky Brothers",
@@ -38062,7 +39215,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Risky_Brothers_(Zombies)",
-    "Enlace Foto": "images/Webp/Risky_Brothers_%28Zombies%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Risky_Brothers_Zombies_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -38079,7 +39232,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Risky Brothers (Zombie)",
@@ -38112,7 +39266,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rivers",
@@ -38145,7 +39300,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Road",
@@ -38178,7 +39334,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rob Lucci",
@@ -38211,7 +39368,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Robson",
@@ -38244,7 +39402,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roche",
@@ -38277,7 +39436,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roche Tomson",
@@ -38310,7 +39470,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rock",
@@ -38343,7 +39504,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rocks D. Xebec",
@@ -38376,7 +39538,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rockstar",
@@ -38409,7 +39572,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roddy",
@@ -38442,7 +39606,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roji",
@@ -38475,7 +39640,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rokkaku",
@@ -38508,7 +39674,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rokki",
@@ -38541,7 +39708,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rolling Logan",
@@ -38574,7 +39742,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roronoa Arashi",
@@ -38607,7 +39776,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roronoa Pinzoro",
@@ -38640,7 +39810,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roronoa Zoro",
@@ -38673,7 +39844,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roshio",
@@ -38706,7 +39878,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ross",
@@ -38739,7 +39912,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rosward",
@@ -38772,7 +39946,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rowing",
@@ -38805,7 +39980,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Roxanne",
@@ -38838,7 +40014,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rug Bear",
@@ -38871,7 +40048,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Run",
@@ -38904,7 +40082,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Rush",
@@ -38937,7 +40116,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Russian",
@@ -38970,7 +40150,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ryuboshi",
@@ -39003,7 +40184,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ryuma",
@@ -39019,7 +40201,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Ryuma_(Zombie)",
-    "Enlace Foto": "images/Webp/Ryuma_%28Zombie%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ryuma_Zombie_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -39036,7 +40218,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ryunosuke",
@@ -39069,7 +40252,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "S-Bear",
@@ -39102,7 +40286,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "S-Hawk",
@@ -39135,7 +40320,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "S-Shark",
@@ -39168,7 +40354,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "S-Snake",
@@ -39201,7 +40388,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Saber",
@@ -39234,7 +40422,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sabo",
@@ -39267,7 +40456,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sadi",
@@ -39300,7 +40490,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sai",
@@ -39333,7 +40524,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Saikoro",
@@ -39366,7 +40558,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Saitank",
@@ -39399,7 +40592,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sakazuki",
@@ -39432,7 +40626,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Saki",
@@ -39465,7 +40660,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Saldeath",
@@ -39498,7 +40694,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Salome",
@@ -39531,7 +40728,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sam",
@@ -39564,7 +40762,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Samosa",
@@ -39597,7 +40796,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Samurai Batts",
@@ -39630,7 +40830,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sancrin",
@@ -39663,7 +40864,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sandayu",
@@ -39696,7 +40898,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sanji",
@@ -39729,7 +40932,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sanjuan Wolf",
@@ -39762,7 +40966,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sanka",
@@ -39795,7 +41000,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sapi",
@@ -39828,7 +41034,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarahebi",
@@ -39861,7 +41068,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarai",
@@ -39894,7 +41102,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarfunkel",
@@ -39927,7 +41136,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarie Nantokanette",
@@ -39960,7 +41170,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarquiss",
@@ -39993,7 +41204,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Saru",
@@ -40026,7 +41238,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarutobi",
@@ -40059,7 +41272,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sasaki",
@@ -40092,7 +41306,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Satori",
@@ -40125,7 +41340,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sauce",
@@ -40158,7 +41374,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scarlett",
@@ -40191,7 +41408,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Schollzo",
@@ -40224,7 +41442,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scimitarta",
@@ -40257,7 +41476,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scopper Gaban",
@@ -40290,7 +41510,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scorpionlady",
@@ -40323,7 +41544,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scotch",
@@ -40356,7 +41578,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scotch (machine)",
@@ -40389,7 +41612,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Scratchmen Apoo",
@@ -40422,7 +41646,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sea Boar",
@@ -40455,7 +41680,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Seagull Guns Nozdon",
@@ -40488,7 +41714,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Seamars",
@@ -40521,7 +41748,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Seira",
@@ -40554,7 +41782,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Seki",
@@ -40587,7 +41816,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sengoku",
@@ -40620,7 +41850,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sennorikyuru",
@@ -40653,7 +41884,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Senor Pink",
@@ -40686,7 +41918,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sentomaru",
@@ -40719,7 +41952,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Serizawa",
@@ -40752,7 +41986,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Seto",
@@ -40785,7 +42020,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shachi",
@@ -40818,7 +42054,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shaka",
@@ -40851,7 +42088,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shakuyaku",
@@ -40884,7 +42122,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shalria",
@@ -40917,7 +42156,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sham",
@@ -40950,7 +42190,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shanba",
@@ -40983,7 +42224,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shandia Chief",
@@ -41016,7 +42258,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shanks",
@@ -41049,7 +42292,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sharinguru",
@@ -41082,7 +42326,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sheepshead",
@@ -41115,7 +42360,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shelly",
@@ -41148,7 +42394,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shepherd Ju Peter",
@@ -41181,7 +42428,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shiki",
@@ -41214,7 +42462,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shikon Kettai",
@@ -41247,7 +42496,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Furiko",
@@ -41280,7 +42530,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Koushirou",
@@ -41313,7 +42564,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Kouzaburou",
@@ -41346,7 +42598,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Kuina",
@@ -41379,7 +42632,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Ryuma",
@@ -41412,7 +42666,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Ushimaru",
@@ -41445,7 +42700,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimotsuki Yasuie",
@@ -41478,7 +42734,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shin Detamaruka",
@@ -41511,7 +42768,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shin Jaiya",
@@ -41544,7 +42802,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shine",
@@ -41577,7 +42836,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shinobu",
@@ -41610,7 +42870,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shinosuke",
@@ -41643,7 +42904,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shion",
@@ -41676,7 +42938,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shioyaki",
@@ -41709,7 +42972,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shirahoshi",
@@ -41742,7 +43006,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shiryu",
@@ -41775,7 +43040,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shishilian",
@@ -41808,7 +43074,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shoujou",
@@ -41841,7 +43108,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shu",
@@ -41874,7 +43142,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shura",
@@ -41907,7 +43176,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Shyarly",
@@ -41940,7 +43210,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sicily",
@@ -41973,7 +43244,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sig",
@@ -41989,7 +43261,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2024",
     "Enlace": "/wiki/Sig",
-    "Enlace Foto": "images/Webp/Giant_Warrior_Pirates%27_Jolly_Roger.webp",
+    "Enlace Foto": "images/Webp/Giant_Warrior_Pirates_Jolly_Roger.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -42006,7 +43278,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Silver Axe",
@@ -42039,7 +43312,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Silvers Rayleigh",
@@ -42072,7 +43346,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sind",
@@ -42105,7 +43380,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Skull",
@@ -42138,7 +43414,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sleepy",
@@ -42171,7 +43448,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Smiley",
@@ -42204,7 +43482,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Smoker",
@@ -42237,7 +43516,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Smooge",
@@ -42270,7 +43550,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Snakeman",
@@ -42286,7 +43567,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Snakeman_(Gifter)",
-    "Enlace Foto": "images/Webp/Snakeman_%28Gifter%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Snakeman_Gifter_Anime_Infobox.webp",
     "Nombre Fruta": "Snake SMILE",
     "Significado Fruta": "",
     "Tipo Fruta": "Artificial Zoan",
@@ -42303,7 +43584,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sodom",
@@ -42336,7 +43618,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Solitaire",
@@ -42369,7 +43652,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Some",
@@ -42402,7 +43686,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sonieh",
@@ -42435,7 +43720,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sora (mermaid)",
@@ -42468,7 +43754,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sora",
@@ -42484,7 +43771,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Sora_(fictional)",
-    "Enlace Foto": "images/Webp/Sora_%28fictional%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Sora_fictional_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -42501,7 +43788,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Soro",
@@ -42534,7 +43822,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spacey",
@@ -42567,7 +43856,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spandam",
@@ -42600,7 +43890,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spandine",
@@ -42633,7 +43924,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spartan",
@@ -42666,7 +43958,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spector",
@@ -42699,7 +43992,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Speed",
@@ -42732,7 +44026,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Speed Jiru",
@@ -42765,7 +44060,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spencer",
@@ -42798,7 +44094,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sphinx",
@@ -42831,7 +44128,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Splash",
@@ -42864,7 +44162,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Splatter",
@@ -42897,7 +44196,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Spoil",
@@ -42930,7 +44230,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Squard",
@@ -42963,7 +44264,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stainless",
@@ -42996,7 +44298,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stalker",
@@ -43029,7 +44332,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stansen",
@@ -43062,7 +44366,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stealth Black",
@@ -43095,7 +44400,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stefan",
@@ -43128,7 +44434,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sterry",
@@ -43161,7 +44468,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stevie",
@@ -43194,7 +44502,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stomp",
@@ -43227,7 +44536,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Strawberry",
@@ -43260,7 +44570,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Streusen",
@@ -43293,7 +44604,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stroganoff",
@@ -43326,7 +44638,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stronger",
@@ -43359,7 +44672,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Stussy",
@@ -43392,7 +44706,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Su",
@@ -43425,7 +44740,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sugamichi",
@@ -43458,7 +44774,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sugar",
@@ -43491,7 +44808,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sukare Karehosui",
@@ -43524,7 +44842,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sukare Tainen",
@@ -43557,7 +44876,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Suke",
@@ -43590,7 +44910,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sukoshiba Kanishitoru",
@@ -43623,7 +44944,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Suleiman",
@@ -43656,7 +44978,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sunbell",
@@ -43689,7 +45012,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Surume",
@@ -43722,7 +45046,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Suzume",
@@ -43755,7 +45080,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Sweet Pea",
@@ -43788,7 +45114,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "T Bone",
@@ -43821,7 +45148,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Taka",
@@ -43854,7 +45182,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tamikebao",
@@ -43887,7 +45216,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tabuhachiro",
@@ -43920,7 +45250,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tacos",
@@ -43953,7 +45284,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Takao",
@@ -43986,7 +45318,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Take",
@@ -44019,7 +45352,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tama",
@@ -44035,7 +45369,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Tama_(Sphinx)",
-    "Enlace Foto": "images/Webp/Tama_%28Sphinx%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Tama_Sphinx_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -44052,7 +45386,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tamachibi",
@@ -44085,7 +45420,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tamago",
@@ -44118,7 +45454,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tamagon",
@@ -44151,7 +45488,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tamanegi",
@@ -44184,7 +45522,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tank Lepanto",
@@ -44217,7 +45556,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tansui",
@@ -44250,7 +45590,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tarara",
@@ -44283,7 +45624,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tararan",
@@ -44316,7 +45658,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Taro",
@@ -44349,7 +45692,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Taroimo",
@@ -44382,7 +45726,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tashigi",
@@ -44415,7 +45760,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tate",
@@ -44448,7 +45794,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tea IV",
@@ -44481,7 +45828,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tegata Ringana",
@@ -44514,7 +45862,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tenjo-Sagari",
@@ -44547,7 +45896,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tensei",
@@ -44580,7 +45930,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Terracotta",
@@ -44613,7 +45964,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Terry",
@@ -44646,7 +45998,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Terry Gilteo",
@@ -44679,7 +46032,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tera",
@@ -44712,7 +46066,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Teru",
@@ -44745,7 +46100,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Thalassa Lucas",
@@ -44778,7 +46134,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Thatch",
@@ -44811,7 +46168,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tibany",
@@ -44844,7 +46202,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tilestone",
@@ -44877,7 +46236,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Togare",
@@ -44910,7 +46270,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tokijiro",
@@ -44943,7 +46304,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tokikake",
@@ -44976,7 +46338,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Toko",
@@ -45009,7 +46372,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tom",
@@ -45042,7 +46406,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tomatito",
@@ -45075,7 +46440,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tomato Gang",
@@ -45108,7 +46474,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tomozo",
@@ -45141,7 +46508,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tonjil",
@@ -45174,7 +46542,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tonjit",
@@ -45207,7 +46576,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tonsfer",
@@ -45240,7 +46610,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tony Tony Chopper",
@@ -45273,7 +46644,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Topman Warcury",
@@ -45306,7 +46678,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Torasaburo",
@@ -45339,7 +46712,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tori",
@@ -45372,7 +46746,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tosa",
@@ -45405,7 +46780,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Toto",
@@ -45438,7 +46814,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Totts",
@@ -45471,7 +46848,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Toyama Tsujigiro",
@@ -45504,7 +46882,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Trafalgar D. Water Law",
@@ -45537,7 +46916,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Trafalgar Lami",
@@ -45570,7 +46950,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Trebol",
@@ -45603,7 +46984,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tristan",
@@ -45636,7 +47018,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tritobu",
@@ -45669,7 +47052,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tritoma",
@@ -45702,7 +47086,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsugaru Umi",
@@ -45735,7 +47120,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsukimi",
@@ -45768,7 +47154,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsumonsieur Kamaya",
@@ -45801,7 +47188,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsunagoro",
@@ -45834,7 +47222,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsunokkov",
@@ -45867,7 +47256,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsuru",
@@ -45900,7 +47290,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsurube",
@@ -45933,7 +47324,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsurue Monnosuke",
@@ -45966,7 +47358,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsurujo",
@@ -45999,7 +47392,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Turco",
@@ -46032,7 +47426,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Tyrannosaurus",
@@ -46065,7 +47460,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ubau",
@@ -46098,7 +47494,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ucy",
@@ -46131,7 +47528,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uhho",
@@ -46164,7 +47562,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uholisia",
@@ -46197,7 +47596,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "UK",
@@ -46230,7 +47630,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ukkari",
@@ -46263,7 +47664,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ukon",
@@ -46296,7 +47698,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ulti",
@@ -46329,7 +47732,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ultraking",
@@ -46362,7 +47766,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Umit",
@@ -46395,7 +47800,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Unforgivable Mask",
@@ -46428,7 +47834,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uni",
@@ -46461,7 +47868,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Unigaro",
@@ -46494,7 +47902,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Urashima",
@@ -46527,7 +47936,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uraya Mashikatta",
@@ -46560,7 +47970,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Urban",
@@ -46593,7 +48004,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Urbain",
@@ -46626,7 +48038,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Urouge",
@@ -46659,7 +48072,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Usagihebi",
@@ -46692,7 +48106,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Usaguchi Hideo",
@@ -46725,7 +48140,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Usakkov",
@@ -46758,7 +48174,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Ushiano",
@@ -46791,7 +48208,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Usunoro",
@@ -46824,7 +48242,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Usopp",
@@ -46857,7 +48276,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uta",
@@ -46890,7 +48310,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uwattsura",
@@ -46923,7 +48344,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uzu",
@@ -46956,7 +48378,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uzuki Namida",
@@ -46989,7 +48412,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Uzuki Tempura",
@@ -47022,7 +48446,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Van Augur",
@@ -47055,7 +48480,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vander Decken",
@@ -47088,7 +48514,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vander Decken IX",
@@ -47121,7 +48548,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vasco Shot",
@@ -47154,7 +48582,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vegapunk",
@@ -47187,7 +48616,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vergo",
@@ -47220,7 +48650,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Very Good",
@@ -47253,7 +48684,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Victoria Cindry",
@@ -47286,7 +48718,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Victoria Shiruton Doruyanaika",
@@ -47319,7 +48752,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vincent",
@@ -47352,7 +48786,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vinsmoke Ichiji",
@@ -47385,7 +48820,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vinsmoke Judge",
@@ -47418,7 +48854,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vinsmoke Niji",
@@ -47451,7 +48888,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vinsmoke Reiju",
@@ -47484,7 +48922,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vinsmoke Sora",
@@ -47517,7 +48956,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vinsmoke Yonji",
@@ -47550,7 +48990,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Viola",
@@ -47583,7 +49024,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vista",
@@ -47616,7 +49058,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vitan",
@@ -47649,7 +49092,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Vito",
@@ -47682,7 +49126,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wadatsumi",
@@ -47715,7 +49160,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wakasa",
@@ -47748,7 +49194,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wall Zombie",
@@ -47764,7 +49211,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Zombie#Wall_Zombie",
-    "Enlace Foto": "images/Webp/Wall_Zombie.webp",
+    "Enlace Foto": "images/Webp/Wall_Zombiex.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -47781,7 +49228,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wallace",
@@ -47814,7 +49262,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wallem",
@@ -47847,7 +49296,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wanda",
@@ -47880,7 +49330,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wany",
@@ -47913,7 +49364,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wanyudo",
@@ -47946,7 +49398,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wanze",
@@ -47979,7 +49432,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wapol",
@@ -48012,7 +49466,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Warashi",
@@ -48045,7 +49500,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Warazane",
@@ -48078,7 +49534,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Waruno Furishiro",
@@ -48111,7 +49568,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wellington",
@@ -48144,7 +49602,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wheel",
@@ -48177,7 +49636,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Whitey Bay",
@@ -48210,7 +49670,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Who's-Who",
@@ -48226,7 +49687,7 @@ const personajes = [
     "Saga Episodeo Numero": "10",
     "Año de Aparición": "2020",
     "Enlace": "/wiki/Who%27s-Who",
-    "Enlace Foto": "images/Webp/Who%27s-Who_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Whos-Who_Anime_Infobox.webp",
     "Nombre Fruta": "Neko Neko no Mi, Model: Saber Tiger",
     "Significado Fruta": "Cat",
     "Tipo Fruta": "Ancient Zoan",
@@ -48243,7 +49704,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wicca",
@@ -48276,7 +49738,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Willie Gallon",
@@ -48309,7 +49772,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wire",
@@ -48342,7 +49806,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Woop Slap",
@@ -48375,7 +49840,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Wyper",
@@ -48408,7 +49874,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "X Drake",
@@ -48441,7 +49908,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yama",
@@ -48474,7 +49942,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamakaji",
@@ -48507,7 +49976,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamanba",
@@ -48540,7 +50010,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamato",
@@ -48573,7 +50044,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "1",
     "Rei": "1",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yame",
@@ -48606,7 +50078,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamenahare",
@@ -48639,7 +50112,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamon",
@@ -48672,7 +50146,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yarisugi",
@@ -48705,7 +50180,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yasopp",
@@ -48738,7 +50214,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "1",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yatappe",
@@ -48771,7 +50248,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yazaemon",
@@ -48804,7 +50282,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yokan",
@@ -48837,7 +50316,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yokozuna",
@@ -48870,7 +50350,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yomo",
@@ -48903,7 +50384,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yonka",
@@ -48936,7 +50418,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yonka Two",
@@ -48969,7 +50452,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "York",
@@ -49002,7 +50486,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yorki",
@@ -49035,7 +50520,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yosaku",
@@ -49068,7 +50554,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yoshimoto",
@@ -49101,7 +50588,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yotsubane",
@@ -49134,7 +50622,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yu",
@@ -49167,7 +50656,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yui",
@@ -49200,7 +50690,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yuki",
@@ -49233,7 +50724,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Yurikah",
@@ -49266,7 +50758,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zabo",
@@ -49299,7 +50792,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zadie",
@@ -49332,7 +50826,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zala",
@@ -49365,7 +50860,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zambai",
@@ -49398,7 +50894,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zangirimaru",
@@ -49431,7 +50928,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zanki",
@@ -49464,7 +50962,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zeff",
@@ -49497,7 +50996,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zeo",
@@ -49530,7 +51030,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zepo",
@@ -49563,7 +51064,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zeus",
@@ -49596,7 +51098,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zodia",
@@ -49629,7 +51132,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zotto",
@@ -49662,7 +51166,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zucca",
@@ -49695,7 +51200,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zunesha",
@@ -49728,7 +51234,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "Zururin",
@@ -49761,7 +51268,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "1"
+    "Canon": "1",
+    "": ""
   },
   {
     "Nombre Pirata": "150",
@@ -49794,7 +51302,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "A A A",
@@ -49827,7 +51336,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Abby",
@@ -49860,7 +51370,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Abi",
@@ -49893,7 +51404,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Accino",
@@ -49926,7 +51438,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Adelle Bascùd",
@@ -49942,7 +51455,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Adelle_Basc%C3%B9d",
-    "Enlace Foto": "images/Webp/Adelle_Basc%C3%B9d_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Adelle_Basc.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -49959,7 +51472,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Adio Suerte",
@@ -49992,7 +51506,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Agray",
@@ -50025,7 +51540,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ain",
@@ -50058,7 +51574,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Akibi",
@@ -50091,7 +51608,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Akihiro",
@@ -50124,7 +51642,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Akisu",
@@ -50157,7 +51676,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Alan",
@@ -50190,7 +51710,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Albert",
@@ -50223,7 +51744,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "All-Hunt Grount",
@@ -50256,7 +51778,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Alpacacino",
@@ -50289,7 +51812,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Alto",
@@ -50322,7 +51846,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Amanda",
@@ -50355,7 +51880,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Amity",
@@ -50388,7 +51914,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Anikin",
@@ -50421,7 +51948,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ann",
@@ -50437,7 +51965,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "1996",
     "Enlace": "/wiki/Ann_(Romance_Dawn)",
-    "Enlace Foto": "images/Webp/Ann_%28Romance_Dawn%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ann_Romance_Dawn_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -50454,7 +51982,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ann (presenter)",
@@ -50487,7 +52016,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Anna",
@@ -50520,7 +52050,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ant De Bonham",
@@ -50553,7 +52084,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ante",
@@ -50586,7 +52118,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Antonio Niño",
@@ -50602,7 +52135,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2015",
     "Enlace": "/wiki/Antonio_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Antonio_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Antonio_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -50619,7 +52152,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Any",
@@ -50652,7 +52186,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Aobire",
@@ -50685,7 +52220,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Apis",
@@ -50718,7 +52254,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Arba",
@@ -50751,7 +52288,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Arbell",
@@ -50784,7 +52322,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ardel",
@@ -50817,7 +52356,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Arista",
@@ -50850,7 +52390,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Arsel",
@@ -50883,7 +52424,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Artur Bacca",
@@ -50916,7 +52458,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Atoli",
@@ -50949,7 +52492,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Atori",
@@ -50982,7 +52526,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Aunt",
@@ -51015,7 +52560,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Aveyron",
@@ -51048,7 +52594,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ayako",
@@ -51081,7 +52628,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Baccarat",
@@ -51114,7 +52662,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bad One Gracie",
@@ -51147,7 +52696,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bald Parrot",
@@ -51180,7 +52730,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Balloon",
@@ -51213,7 +52764,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Balzac",
@@ -51246,7 +52798,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Banban",
@@ -51279,7 +52832,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bandsman",
@@ -51312,7 +52866,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Banzai",
@@ -51345,7 +52900,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Barbados",
@@ -51378,7 +52934,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Barbarossa",
@@ -51411,7 +52968,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Baron",
@@ -51444,7 +53002,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Barricade",
@@ -51477,7 +53036,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bartholomew Just a Kuma",
@@ -51510,7 +53070,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Basil",
@@ -51543,7 +53104,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Battler",
@@ -51576,7 +53138,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bayan",
@@ -51609,7 +53172,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bear King",
@@ -51642,7 +53206,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bearman",
@@ -51675,7 +53240,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Benevolent King of the Waves",
@@ -51708,7 +53274,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bens",
@@ -51741,7 +53308,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bentag",
@@ -51774,7 +53342,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Beryl",
@@ -51807,7 +53376,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Biera",
@@ -51840,7 +53410,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Biezom",
@@ -51873,7 +53444,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bigalo",
@@ -51906,7 +53478,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bildy",
@@ -51939,7 +53512,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bilibilero",
@@ -51972,7 +53546,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bilić",
@@ -51988,7 +53563,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2012",
     "Enlace": "/wiki/Bili%C4%87",
-    "Enlace Foto": "images/Webp/Bili%C4%87_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Bili_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -52005,7 +53580,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bill",
@@ -52038,7 +53614,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Billy (Bird)",
@@ -52071,7 +53648,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Billy (Bandit)",
@@ -52087,7 +53665,7 @@ const personajes = [
     "Saga Episodeo Numero": "2",
     "Año de Aparición": "2002",
     "Enlace": "/wiki/Billy_(Bandit)",
-    "Enlace Foto": "images/Webp/Billy_%28Bandit%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Billy_Bandit_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -52104,7 +53682,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Billy (Cook)",
@@ -52120,7 +53699,7 @@ const personajes = [
     "Saga Episodeo Numero": "3",
     "Año de Aparición": "2004",
     "Enlace": "/wiki/Billy_(Cook)",
-    "Enlace Foto": "images/Webp/Billy_%28Cook%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Billy_Cook_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -52137,7 +53716,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Binz",
@@ -52170,7 +53750,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bismarck",
@@ -52203,7 +53784,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bit",
@@ -52236,7 +53818,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Black",
@@ -52252,7 +53835,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Black_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Black_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Black_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -52269,7 +53852,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Blago",
@@ -52302,7 +53886,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Blion",
@@ -52335,7 +53920,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Blow",
@@ -52368,7 +53954,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Blyue",
@@ -52401,7 +53988,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bobby",
@@ -52417,7 +54005,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Bobby_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Bobby_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Bobby_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -52434,7 +54022,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bobrad",
@@ -52467,7 +54056,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bokebokepon",
@@ -52500,7 +54090,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bokebonboko",
@@ -52533,7 +54124,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bokehontas",
@@ -52566,7 +54158,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bokuden",
@@ -52599,7 +54192,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bolam",
@@ -52632,7 +54226,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bolster",
@@ -52665,7 +54260,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bolt",
@@ -52698,7 +54294,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bon Borbon",
@@ -52731,7 +54328,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bonbon",
@@ -52764,7 +54362,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bonbori",
@@ -52797,7 +54396,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bonney (Non-Canon)",
@@ -52813,7 +54413,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Bonney_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Bonney_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Bonney_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -52830,7 +54430,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Boo Jack",
@@ -52863,7 +54464,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Boo Kong",
@@ -52896,7 +54498,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Boost",
@@ -52929,7 +54532,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Borodo",
@@ -52962,7 +54566,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Boronoa Boro",
@@ -52995,7 +54600,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bosao",
@@ -53028,7 +54634,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Boss",
@@ -53061,7 +54668,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bounty",
@@ -53077,7 +54685,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Bounty_(Pirate)",
-    "Enlace Foto": "images/Webp/Bounty_%28Pirate%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Bounty_Pirate_Infobox.webp",
     "Nombre Fruta": "Bana Bana no Mi",
     "Significado Fruta": "Burner",
     "Tipo Fruta": "Paramecia",
@@ -53094,7 +54702,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bran",
@@ -53127,7 +54736,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bravo",
@@ -53160,7 +54770,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Breed",
@@ -53193,7 +54804,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Brief",
@@ -53226,7 +54838,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Brigga",
@@ -53259,7 +54872,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Brindo",
@@ -53292,7 +54906,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Buena Festa",
@@ -53325,7 +54940,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bufflo",
@@ -53358,7 +54974,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bulaniki",
@@ -53391,7 +55008,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bulmatte",
@@ -53424,7 +55042,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bulototo",
@@ -53457,7 +55076,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Buzz",
@@ -53490,7 +55110,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Byojack",
@@ -53523,7 +55144,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Byrnndi World",
@@ -53556,7 +55178,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Bürst",
@@ -53572,7 +55195,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2015",
     "Enlace": "/wiki/B%C3%BCrst",
-    "Enlace Foto": "images/Webp/B%C3%BCrst_Infobox.webp",
+    "Enlace Foto": "images/Webp/BBCrst_Infobox.webp",
     "Nombre Fruta": "Nito Nito no Mi",
     "Significado Fruta": "Nitro",
     "Tipo Fruta": "Paramecia",
@@ -53589,7 +55212,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cal",
@@ -53622,7 +55246,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Camael",
@@ -53655,7 +55280,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Campacino",
@@ -53688,7 +55314,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Camus",
@@ -53721,7 +55348,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Captain Kuso",
@@ -53754,7 +55382,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Captain Seven",
@@ -53787,7 +55416,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Caramel",
@@ -53820,7 +55450,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Caramel Man #10",
@@ -53853,7 +55484,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Caramel Man #11",
@@ -53886,7 +55518,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Carina",
@@ -53919,7 +55552,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Carmen",
@@ -53952,7 +55586,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Carol",
@@ -53985,7 +55620,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Caroline",
@@ -54018,7 +55654,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Carpennya",
@@ -54051,7 +55688,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Carragan",
@@ -54084,7 +55722,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cassandra",
@@ -54117,7 +55756,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cello",
@@ -54150,7 +55790,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cerriot",
@@ -54183,7 +55824,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chameleone",
@@ -54216,7 +55858,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Charles",
@@ -54249,7 +55892,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Carta",
@@ -54265,7 +55909,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Carta_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Carta_%28Non-Canon%29_Manga_Infobox.webp",
+    "Enlace Foto": "images/Webp/Carta_Non-Canon_Manga_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -54282,7 +55926,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chavez",
@@ -54315,7 +55960,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chibinoa Mini",
@@ -54348,7 +55994,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chico",
@@ -54381,7 +56028,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chico (Pirate)",
@@ -54397,7 +56045,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "1998",
     "Enlace": "/wiki/Chico_(Pirate)",
-    "Enlace Foto": "images/Webp/Chico_%28Pirate%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Chico_Pirate_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -54414,7 +56062,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chico Chip",
@@ -54447,7 +56096,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chinco Sennin",
@@ -54480,7 +56130,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chinpy",
@@ -54513,7 +56164,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chip",
@@ -54546,7 +56198,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chip (Game)",
@@ -54579,7 +56232,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chiqicheetah",
@@ -54612,7 +56266,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chiyobbaba",
@@ -54645,7 +56300,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Choronoa Choro",
@@ -54678,7 +56334,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Choshi",
@@ -54711,7 +56368,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chujo",
@@ -54744,7 +56402,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Chusuke",
@@ -54777,7 +56436,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cibalero",
@@ -54810,7 +56470,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cidre",
@@ -54843,7 +56504,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Clapper",
@@ -54876,7 +56538,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Coe",
@@ -54909,7 +56572,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Comb",
@@ -54942,7 +56606,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Corto",
@@ -54975,7 +56640,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Courtney",
@@ -55008,7 +56674,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Count Times",
@@ -55041,7 +56708,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Craven",
@@ -55074,7 +56742,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Creese",
@@ -55107,7 +56776,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Croquis",
@@ -55140,7 +56810,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Crown",
@@ -55173,7 +56844,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Cuore",
@@ -55206,7 +56878,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Curve",
@@ -55239,7 +56912,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dacson",
@@ -55272,7 +56946,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Daddy Masterson",
@@ -55305,7 +56980,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dahlia (Novel)",
@@ -55338,7 +57014,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dahlia",
@@ -55371,7 +57048,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Daisy (Children)",
@@ -55387,7 +57065,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2005",
     "Enlace": "/wiki/Daisy_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Daisy_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Daisy_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -55404,7 +57082,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Damian",
@@ -55437,7 +57116,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dandelion",
@@ -55470,7 +57150,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dandy",
@@ -55503,7 +57184,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Danny",
@@ -55536,7 +57218,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dareda",
@@ -55569,7 +57252,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dareyorimo Tsuyoi",
@@ -55602,7 +57286,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Deacon",
@@ -55635,7 +57320,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dejide",
@@ -55668,7 +57354,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Demon of Doom",
@@ -55701,7 +57388,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Denny",
@@ -55734,7 +57422,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Desan",
@@ -55767,7 +57456,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Desire",
@@ -55800,7 +57490,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Devilgirl",
@@ -55833,7 +57524,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dias",
@@ -55866,7 +57558,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dice",
@@ -55899,7 +57592,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dick",
@@ -55932,7 +57626,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Diego",
@@ -55965,7 +57660,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Din",
@@ -55998,7 +57694,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Diomis",
@@ -56031,7 +57728,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dip",
@@ -56064,7 +57762,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "DJ Gappa",
@@ -56097,7 +57796,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "DJ Parrot",
@@ -56130,7 +57830,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "DJ Satan",
@@ -56163,7 +57864,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dojaku",
@@ -56196,7 +57898,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dolce",
@@ -56229,7 +57932,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Don Axe",
@@ -56262,7 +57966,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Donai",
@@ -56295,7 +58000,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Donald Moderate",
@@ -56328,7 +58034,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Doni",
@@ -56361,7 +58068,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Donny",
@@ -56394,7 +58102,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dontacos",
@@ -56427,7 +58136,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Doom Guardian",
@@ -56460,7 +58170,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dopp",
@@ -56493,7 +58204,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Doran",
@@ -56509,7 +58221,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2008",
     "Enlace": "/wiki/Doran_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Doran_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Doran_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -56526,7 +58238,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dorothy",
@@ -56559,7 +58272,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Double Down",
@@ -56592,7 +58306,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Douglas Bullet",
@@ -56625,7 +58340,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Douglas Gray",
@@ -56658,7 +58374,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Drake",
@@ -56674,7 +58391,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Drake_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Drake_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Drake_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -56691,7 +58408,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Drayke",
@@ -56724,7 +58442,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Drim",
@@ -56757,7 +58476,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Duncan",
@@ -56790,7 +58510,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Dwanger",
@@ -56823,7 +58544,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eboshi",
@@ -56856,7 +58578,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eccoli",
@@ -56889,7 +58612,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ed (Actor)",
@@ -56905,7 +58629,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Ed_(Actor)",
-    "Enlace Foto": "images/Webp/Ed_%28Actor%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ed_Actor_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -56922,7 +58646,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ed (Loguetown)",
@@ -56938,7 +58663,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2000",
     "Enlace": "/wiki/Ed_(Loguetown)",
-    "Enlace Foto": "images/Webp/Ed_%28Loguetown%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ed_Loguetown_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -56955,7 +58680,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Edomae",
@@ -56988,7 +58714,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eisha",
@@ -57021,7 +58748,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ekie",
@@ -57054,7 +58782,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eldoraggo",
@@ -57087,7 +58816,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eliza (Game Old)",
@@ -57103,7 +58833,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Eliza_(World_Seeker)",
-    "Enlace Foto": "images/Webp/Eliza_%28World_Seeker%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Eliza_World_Seeker_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -57120,7 +58850,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eliza (Game New)",
@@ -57136,7 +58867,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Eliza_(Odyssey)",
-    "Enlace Foto": "images/Webp/Eliza_%28Odyssey%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Eliza_Odyssey_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -57153,7 +58884,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eliza",
@@ -57186,7 +58918,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Elizabeth",
@@ -57219,7 +58952,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ellio",
@@ -57252,7 +58986,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Emeraude",
@@ -57285,7 +59020,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Emily",
@@ -57318,7 +59054,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Emma (game)",
@@ -57334,7 +59071,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Emma_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Emma_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Emma_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -57351,7 +59088,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Emmy",
@@ -57384,7 +59122,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eric",
@@ -57417,7 +59156,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eric (Child)",
@@ -57433,7 +59173,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Eric_(Child)",
-    "Enlace Foto": "images/Webp/Eric_%28Child%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Eric_Child_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -57450,7 +59190,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eric (Tongari Island)",
@@ -57466,7 +59207,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Eric_(Tongari_Island)",
-    "Enlace Foto": "images/Webp/Eric_%28Tongari_Island%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Eric_Tongari_Island_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -57483,7 +59224,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eric Dow",
@@ -57516,7 +59258,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Eunkov",
@@ -57549,7 +59292,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ever",
@@ -57582,7 +59326,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Evil Guardian",
@@ -57615,7 +59360,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Evil Master Beast",
@@ -57648,7 +59394,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fabre",
@@ -57681,7 +59428,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fang",
@@ -57714,7 +59462,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fanto",
@@ -57747,7 +59496,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fasti",
@@ -57780,7 +59530,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fata",
@@ -57813,7 +59564,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fazaza",
@@ -57846,7 +59598,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fist",
@@ -57879,7 +59632,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Flip",
@@ -57912,7 +59666,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Flora",
@@ -57945,7 +59700,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fog Suerte",
@@ -57978,7 +59734,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Foxaw",
@@ -58011,7 +59768,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Francois (Live)",
@@ -58027,7 +59785,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2015",
     "Enlace": "/wiki/Francois_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Francois_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Francois_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -58044,7 +59802,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fred",
@@ -58077,7 +59836,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Fune",
@@ -58110,7 +59870,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Funkorogasun",
@@ -58143,7 +59904,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ga Kusha",
@@ -58176,7 +59938,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gaburi",
@@ -58209,7 +59972,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gacha Gacha Husband",
@@ -58242,7 +60006,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gad",
@@ -58275,7 +60040,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gage",
@@ -58308,7 +60074,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gairam",
@@ -58341,7 +60108,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gammon",
@@ -58374,7 +60142,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gannot",
@@ -58407,7 +60176,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gantetsu",
@@ -58440,7 +60210,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ganzack",
@@ -58473,7 +60244,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ganzo",
@@ -58506,7 +60278,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garays",
@@ -58539,7 +60312,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garcia",
@@ -58572,7 +60346,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gardar",
@@ -58605,7 +60380,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gardoa",
@@ -58638,7 +60414,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gari",
@@ -58671,7 +60448,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garill",
@@ -58704,7 +60482,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garon",
@@ -58737,7 +60516,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garride",
@@ -58770,7 +60550,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garth",
@@ -58803,7 +60584,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Garz",
@@ -58836,7 +60618,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gasparde",
@@ -58869,7 +60652,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gator",
@@ -58902,7 +60686,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gavivel Papelchinoir",
@@ -58935,7 +60720,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Geronimo",
@@ -58968,7 +60754,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gido",
@@ -59001,7 +60788,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gild Tesoro",
@@ -59034,7 +60822,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gill Bastar",
@@ -59067,7 +60856,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gillian",
@@ -59100,7 +60890,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ginger",
@@ -59133,7 +60924,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ginger (Game)",
@@ -59149,7 +60941,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Ginger_(Scientist)",
-    "Enlace Foto": "images/Webp/Ginger_%28Scientist%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Ginger_Scientist_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -59166,7 +60958,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Girarin",
@@ -59199,7 +60992,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Girash",
@@ -59232,7 +61026,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Glass",
@@ -59265,7 +61060,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "God",
@@ -59298,7 +61094,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Golass",
@@ -59331,7 +61128,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gonzo",
@@ -59364,7 +61162,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gordon (Game)",
@@ -59380,7 +61179,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Gordon_(Jail_Island)",
-    "Enlace Foto": "images/Webp/Gordon_%28Jail_Island%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Gordon_Jail_Island_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -59397,7 +61196,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gordon",
@@ -59430,7 +61230,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gotan",
@@ -59463,7 +61264,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Governor",
@@ -59496,7 +61298,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gowns Brothers",
@@ -59529,7 +61332,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gramoo",
@@ -59562,7 +61366,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Graydle",
@@ -59595,7 +61400,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Grin",
@@ -59628,7 +61434,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Grizzly",
@@ -59661,7 +61468,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Great Ground",
@@ -59694,7 +61502,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Great King of Angolmois",
@@ -59727,7 +61536,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Great Tree",
@@ -59760,7 +61570,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gross",
@@ -59793,7 +61604,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Guarana",
@@ -59826,7 +61638,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Guard",
@@ -59859,7 +61672,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Guardian Deity",
@@ -59892,7 +61706,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Guko",
@@ -59925,7 +61740,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gulf",
@@ -59958,7 +61774,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Gum",
@@ -59991,7 +61808,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Guyle",
@@ -60024,7 +61842,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hachigoro",
@@ -60057,7 +61876,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hakamori",
@@ -60090,7 +61910,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hakuto",
@@ -60123,7 +61944,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Halsey",
@@ -60156,7 +61978,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hamu",
@@ -60189,7 +62012,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hanagasa",
@@ -60222,7 +62046,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hannah",
@@ -60255,7 +62080,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hans",
@@ -60288,7 +62114,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Haraguroya's Owner",
@@ -60304,7 +62131,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2022",
     "Enlace": "/wiki/Haraguroya%27s_Owner",
-    "Enlace Foto": "images/Webp/Haraguroya%27s_Owner_Manga_Infobox.webp",
+    "Enlace Foto": "images/Webp/Haraguroyas_Owner_Manga_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -60321,7 +62148,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Harasho",
@@ -60354,7 +62182,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hardy",
@@ -60387,7 +62216,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Harry (Fish-Man)",
@@ -60403,7 +62233,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2001",
     "Enlace": "/wiki/Harry_(Fish-Man)",
-    "Enlace Foto": "images/Webp/Harry_%28Fish-Man%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Harry_Fish-Man_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -60420,7 +62250,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Harry",
@@ -60453,7 +62284,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hator",
@@ -60486,7 +62318,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hatsu",
@@ -60519,7 +62352,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Heaby",
@@ -60552,7 +62386,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hei",
@@ -60585,7 +62420,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Helsing",
@@ -60618,7 +62454,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Henna Oyag",
@@ -60651,7 +62488,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Henry",
@@ -60684,7 +62522,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Henzo",
@@ -60717,7 +62556,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hercules",
@@ -60750,7 +62590,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Herring",
@@ -60783,7 +62624,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Herz",
@@ -60816,7 +62658,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hien",
@@ -60849,7 +62692,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hilt",
@@ -60882,7 +62726,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Himari",
@@ -60915,7 +62760,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hiroki",
@@ -60948,7 +62794,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hitaki",
@@ -60981,7 +62828,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hitokui",
@@ -61014,7 +62862,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hiwa",
@@ -61047,7 +62896,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hockera",
@@ -61080,7 +62930,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hoisha",
@@ -61113,7 +62964,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hokehontas",
@@ -61146,7 +62998,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Holy",
@@ -61162,7 +63015,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Holy_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Holy_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Holy_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -61179,7 +63032,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Homey",
@@ -61195,7 +63049,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2012",
     "Enlace": "/wiki/Homey_(Film_Z)",
-    "Enlace Foto": "images/Webp/Homey_%28Film_Z%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Homey_Film_Z_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -61212,7 +63066,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Homey (Show)",
@@ -61228,7 +63083,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2013",
     "Enlace": "/wiki/Homey_(Premier_Show)",
-    "Enlace Foto": "images/Webp/Homey_%28Premier_Show%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Homey_Premier_Show_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -61245,7 +63100,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Homming",
@@ -61278,7 +63134,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hompton",
@@ -61311,7 +63168,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Honey Queen",
@@ -61344,7 +63202,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Honki",
@@ -61377,7 +63236,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Honma",
@@ -61410,7 +63270,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Honnete",
@@ -61443,7 +63304,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Horo",
@@ -61476,7 +63338,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Hotdog",
@@ -61509,7 +63372,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ian",
@@ -61542,7 +63406,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Idor",
@@ -61575,7 +63440,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Igaram Jr.",
@@ -61608,7 +63474,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikemenes",
@@ -61641,7 +63508,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikidaore Joe",
@@ -61674,7 +63542,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikidaore Jonathan",
@@ -61707,7 +63576,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikidaore Joou",
@@ -61740,7 +63610,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikidaore Joseph",
@@ -61773,7 +63644,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ikidaore Josh",
@@ -61806,7 +63678,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Il",
@@ -61839,7 +63712,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Immortal",
@@ -61872,7 +63746,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Inchikin",
@@ -61905,7 +63780,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ingrigrimori",
@@ -61938,7 +63814,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ingrimongri III",
@@ -61971,7 +63848,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Insk",
@@ -62004,7 +63882,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Isaac",
@@ -62037,7 +63916,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Iscardunk",
@@ -62070,7 +63950,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Isoka",
@@ -62103,7 +63984,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Izaya",
@@ -62136,7 +64018,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jackie",
@@ -62169,7 +64052,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jeanne",
@@ -62202,7 +64086,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jessica",
@@ -62235,7 +64120,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jige",
@@ -62268,7 +64154,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jill",
@@ -62301,7 +64188,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jim",
@@ -62334,7 +64222,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jimmy Myers",
@@ -62367,7 +64256,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jiro",
@@ -62400,7 +64290,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jodie",
@@ -62433,7 +64324,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "John (Game)",
@@ -62449,7 +64341,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/John_(Non-Canon)",
-    "Enlace Foto": "images/Webp/John_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/John_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -62466,7 +64358,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Joke",
@@ -62499,7 +64392,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jonathan",
@@ -62532,7 +64426,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jose",
@@ -62565,7 +64460,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Josephine",
@@ -62598,7 +64494,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jotto",
@@ -62631,7 +64528,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jube",
@@ -62664,7 +64562,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Jude",
@@ -62697,7 +64596,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Judge",
@@ -62713,7 +64613,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2001",
     "Enlace": "/wiki/Judge_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Judge_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Judge_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -62730,7 +64630,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Julian Hatt XIII",
@@ -62763,7 +64664,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Julie",
@@ -62796,7 +64698,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Julie (Game)",
@@ -62829,7 +64732,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Justy",
@@ -62862,7 +64766,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaabo",
@@ -62895,7 +64800,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kabagorilla",
@@ -62928,7 +64834,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kadoyan",
@@ -62961,7 +64868,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kagero (Game)",
@@ -62977,7 +64885,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Kagero_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Kagero_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Kagero_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -62994,7 +64902,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaginote",
@@ -63027,7 +64936,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kaiman",
@@ -63060,7 +64970,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kalik Meidara",
@@ -63093,7 +65004,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kamonegi",
@@ -63126,7 +65038,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kamonohitsuji",
@@ -63159,7 +65072,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kansho",
@@ -63192,7 +65106,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Karasu (Game)",
@@ -63208,7 +65123,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2002",
     "Enlace": "/wiki/Karasu_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Karasu_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Karasu_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -63225,7 +65140,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Karasuke",
@@ -63258,7 +65174,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kardia",
@@ -63291,7 +65208,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Katabuti",
@@ -63324,7 +65242,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kau Ra Kau",
@@ -63357,7 +65276,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kazeno Minoru",
@@ -63390,7 +65310,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kei",
@@ -63423,7 +65344,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kent Beef Jr.",
@@ -63456,7 +65378,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kerodeek",
@@ -63489,7 +65412,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kerojii",
@@ -63522,7 +65446,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Keroko",
@@ -63555,7 +65480,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Keroshot",
@@ -63588,7 +65514,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kevin",
@@ -63621,7 +65548,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kikuhime",
@@ -63654,7 +65582,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Killer Giant",
@@ -63687,7 +65616,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kilmie Back",
@@ -63720,7 +65650,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kilomane",
@@ -63753,7 +65684,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "King (Game)",
@@ -63769,7 +65701,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2017",
     "Enlace": "/wiki/King_(Giant_Squid)",
-    "Enlace Foto": "images/Webp/King_%28Giant_Squid%29_Manga_Infobox.webp",
+    "Enlace Foto": "images/Webp/King_Giant_Squid_Manga_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -63786,7 +65718,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kimmel",
@@ -63819,7 +65752,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kinno",
@@ -63852,7 +65786,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kinoconda",
@@ -63885,7 +65820,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kirin Lion",
@@ -63918,7 +65854,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kiruko",
@@ -63951,7 +65888,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kisasa",
@@ -63984,7 +65922,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kitajima",
@@ -64017,7 +65956,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kizuna",
@@ -64050,7 +65990,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Koba K",
@@ -64083,7 +66024,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kobato",
@@ -64116,7 +66058,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kochi",
@@ -64149,7 +66092,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kodama",
@@ -64182,7 +66126,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kogani",
@@ -64215,7 +66160,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Komei",
@@ -64248,7 +66194,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Koni Boakeno",
@@ -64281,7 +66228,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kotetsu (Game)",
@@ -64297,7 +66245,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2005",
     "Enlace": "/wiki/Kotetsu_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Kotetsu_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Kotetsu_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -64314,7 +66262,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Koshin",
@@ -64347,7 +66296,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Krin",
@@ -64380,7 +66330,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuroba",
@@ -64413,7 +66364,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kuronyan",
@@ -64446,7 +66398,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kusopp",
@@ -64479,7 +66432,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Kusunoa-kun",
@@ -64512,7 +66466,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lacos",
@@ -64545,7 +66500,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ladoga",
@@ -64578,7 +66534,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lago",
@@ -64611,7 +66568,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lake",
@@ -64644,7 +66602,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lambor Bukini",
@@ -64677,7 +66636,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lance",
@@ -64710,7 +66670,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Largo",
@@ -64743,7 +66704,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lark",
@@ -64776,7 +66738,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Laslo",
@@ -64809,7 +66772,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lazarus",
@@ -64842,7 +66806,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lebno Listchaque",
@@ -64875,7 +66840,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lego",
@@ -64908,7 +66874,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "LeMay",
@@ -64941,7 +66908,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lemonade Kozaru",
@@ -64974,7 +66942,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Leo (Children)",
@@ -64990,7 +66959,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2000",
     "Enlace": "/wiki/Leo_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Leo_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Leo_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -65007,7 +66976,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lettuce Dish",
@@ -65040,7 +67010,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Liberta",
@@ -65073,7 +67044,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lief",
@@ -65106,7 +67078,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lil",
@@ -65139,7 +67112,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lily Carnation",
@@ -65172,7 +67146,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lily Enstomach",
@@ -65205,7 +67180,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lim",
@@ -65238,7 +67214,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lina",
@@ -65271,7 +67248,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lip Shark",
@@ -65304,7 +67282,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Livia",
@@ -65337,7 +67316,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Llamaman",
@@ -65370,7 +67350,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lola",
@@ -65386,7 +67367,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Lola_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Lola_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Lola_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -65403,7 +67384,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Long Long",
@@ -65436,7 +67418,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lopez",
@@ -65469,7 +67452,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lord of the Coast of Wano Country",
@@ -65502,7 +67486,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Loudness",
@@ -65535,7 +67520,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Louis",
@@ -65551,7 +67537,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2014",
     "Enlace": "/wiki/Louis_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Louis_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Louis_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -65568,7 +67554,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Luca",
@@ -65601,7 +67588,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lucie",
@@ -65634,7 +67622,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Luigia",
@@ -65667,7 +67656,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lylat",
@@ -65700,7 +67690,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Lytton",
@@ -65733,7 +67724,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "M. Danbo",
@@ -65766,7 +67758,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maasu",
@@ -65799,7 +67792,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maccus",
@@ -65832,7 +67826,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Machi",
@@ -65865,7 +67860,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mad",
@@ -65898,7 +67894,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mad Treasure",
@@ -65931,7 +67928,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mahomick",
@@ -65964,7 +67962,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mahy",
@@ -65997,7 +67996,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maitei",
@@ -66030,7 +68030,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maji",
@@ -66063,7 +68064,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Makkuro",
@@ -66096,7 +68098,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mao",
@@ -66129,7 +68132,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Marc",
@@ -66162,7 +68166,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Margin",
@@ -66195,7 +68200,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mari",
@@ -66228,7 +68234,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maria",
@@ -66261,7 +68268,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Marin (Old Girl)",
@@ -66277,7 +68285,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2012",
     "Enlace": "/wiki/Marin_(Film_Z)",
-    "Enlace Foto": "images/Webp/Marin_%28Film_Z%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Marin_Film_Z_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -66294,7 +68302,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Marin (Game)",
@@ -66310,7 +68319,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Marin_(Odyssey)",
-    "Enlace Foto": "images/Webp/Marin_%28Odyssey%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Marin_Odyssey_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -66327,7 +68336,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Marine X",
@@ -66360,7 +68370,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Marley Brothers",
@@ -66393,7 +68404,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Marron",
@@ -66426,7 +68438,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Martha",
@@ -66459,7 +68472,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Martha(Game)",
@@ -66492,7 +68506,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mashikaku",
@@ -66508,7 +68523,7 @@ const personajes = [
     "Saga Episodeo Numero": "4",
     "Año de Aparición": "2004",
     "Enlace": "/wiki/Mashikaku_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Mashikaku_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Mashikaku_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -66525,7 +68540,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Matsuba Nazawa",
@@ -66558,7 +68574,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maya (Game)",
@@ -66574,7 +68591,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2001",
     "Enlace": "/wiki/Maya_(Video_Game)",
-    "Enlace Foto": "images/Webp/Maya_%28Video_Game%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Maya_Video_Game_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -66591,7 +68608,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Maya",
@@ -66624,7 +68642,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mechayowa Yoro",
@@ -66657,7 +68676,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Medaka",
@@ -66690,7 +68710,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Meganetti",
@@ -66723,7 +68744,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Meista",
@@ -66756,7 +68778,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mekao",
@@ -66789,7 +68812,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mendo",
@@ -66822,7 +68846,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Merlin",
@@ -66855,7 +68880,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Meroie",
@@ -66888,7 +68914,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Meryl",
@@ -66921,7 +68948,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Meshi",
@@ -66937,7 +68965,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Meshi_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Meshi_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Meshi_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -66954,7 +68982,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Meverly",
@@ -66987,7 +69016,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mi",
@@ -67020,7 +69050,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Miho",
@@ -67053,7 +69084,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Miki",
@@ -67086,7 +69118,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Milena",
@@ -67119,7 +69152,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Milia",
@@ -67152,7 +69186,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Minchey",
@@ -67185,7 +69220,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mini",
@@ -67218,7 +69254,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mint Kotori",
@@ -67251,7 +69288,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mirage",
@@ -67284,7 +69322,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Miranda",
@@ -67317,7 +69356,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Misutta",
@@ -67350,7 +69390,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mitsuboshi",
@@ -67383,7 +69424,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mitt (Game old)",
@@ -67416,7 +69458,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mitt",
@@ -67449,7 +69492,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Miucha",
@@ -67482,7 +69526,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mobambi",
@@ -67515,7 +69560,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mobston",
@@ -67548,7 +69594,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mobu Head",
@@ -67581,7 +69628,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mofu",
@@ -67614,7 +69662,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mona",
@@ -67647,7 +69696,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Monday",
@@ -67663,7 +69713,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2012",
     "Enlace": "/wiki/Monday_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Monday_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Monday_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -67680,7 +69730,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mooji",
@@ -67713,7 +69764,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Moore",
@@ -67746,7 +69798,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mooo...rgan",
@@ -67779,7 +69832,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Morkin",
@@ -67812,7 +69866,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Moyas",
@@ -67845,7 +69900,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Moyashi",
@@ -67878,7 +69934,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. Kuromaku",
@@ -67911,7 +69968,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mr. 108",
@@ -67944,7 +70002,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Muchigoro",
@@ -67977,7 +70036,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mucho",
@@ -68010,7 +70070,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mugon",
@@ -68043,7 +70104,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Munekyun",
@@ -68076,7 +70138,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Musashi",
@@ -68109,7 +70172,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Musatobi",
@@ -68142,7 +70206,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Mussel",
@@ -68175,7 +70240,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Musshuru",
@@ -68208,7 +70274,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Myskina Acier",
@@ -68241,7 +70308,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Myskina Olga",
@@ -68274,7 +70342,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nafk",
@@ -68307,7 +70376,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nagels",
@@ -68340,7 +70410,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Naguri",
@@ -68373,7 +70444,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nanagi",
@@ -68406,7 +70478,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nanya",
@@ -68439,7 +70512,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Naomi Drunk",
@@ -68472,7 +70546,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Narcy",
@@ -68505,7 +70580,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Narcy (show)",
@@ -68521,7 +70597,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2022",
     "Enlace": "/wiki/Narcy_(Premier_Show)",
-    "Enlace Foto": "images/Webp/Narcy_%28Premier_Show%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Narcy_Premier_Show_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -68538,7 +70614,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Needless",
@@ -68571,7 +70648,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nego",
@@ -68604,7 +70682,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Neiro",
@@ -68637,7 +70716,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nelson Royale",
@@ -68670,7 +70750,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nemenememitas",
@@ -68703,7 +70784,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nepenta",
@@ -68736,7 +70818,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nerine (Game)",
@@ -68752,7 +70835,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Nerine_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Nerine_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Nerine_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -68769,7 +70852,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nick",
@@ -68802,7 +70886,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nightin",
@@ -68835,7 +70920,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Niina",
@@ -68868,7 +70954,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Niphtal",
@@ -68901,7 +70988,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Niseluffy",
@@ -68934,7 +71022,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Niseusopp",
@@ -68967,7 +71056,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nisezoro",
@@ -69000,7 +71090,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Noir",
@@ -69033,7 +71124,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Noko",
@@ -69066,7 +71158,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Noriko (Newkama)",
@@ -69082,7 +71175,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2015",
     "Enlace": "/wiki/Noriko_(Newkama)",
-    "Enlace Foto": "images/Webp/Noriko_%28Newkama%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Noriko_Newkama_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -69099,7 +71192,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nukky",
@@ -69132,7 +71226,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nuru",
@@ -69165,7 +71260,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nyanta",
@@ -69198,7 +71294,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Nypers",
@@ -69231,7 +71328,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ochanoma Papa",
@@ -69264,7 +71362,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ochinko Poro",
@@ -69297,7 +71396,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Odacchi",
@@ -69330,7 +71430,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Odama",
@@ -69363,7 +71464,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Olive",
@@ -69396,7 +71498,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Omatsuri",
@@ -69429,7 +71532,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Omusubi",
@@ -69445,7 +71549,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Omusubi_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Omusubi_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Omusubi_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -69462,7 +71566,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "One-Man",
@@ -69495,7 +71600,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Onigiri",
@@ -69511,7 +71617,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2021",
     "Enlace": "/wiki/Onigiri_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Onigiri_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Onigiri_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -69528,7 +71634,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Opera",
@@ -69544,7 +71651,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Opera_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Opera_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Opera_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -69561,7 +71668,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Otogin",
@@ -69594,7 +71702,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Otsu",
@@ -69627,7 +71736,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ox",
@@ -69660,7 +71770,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pachinoa Rozo",
@@ -69693,7 +71804,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Palin",
@@ -69726,7 +71838,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Panz Fry",
@@ -69759,7 +71872,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pasta",
@@ -69792,7 +71906,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pato",
@@ -69825,7 +71940,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Patrick Redfield",
@@ -69858,7 +71974,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Peanutsmonkey",
@@ -69891,7 +72008,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pesca",
@@ -69924,7 +72042,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Peseta",
@@ -69957,7 +72076,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pete",
@@ -69990,7 +72110,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Piista",
@@ -70023,7 +72144,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pijama",
@@ -70056,7 +72178,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pin Joker",
@@ -70089,7 +72212,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pink Koinu",
@@ -70122,7 +72246,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pirate Bear",
@@ -70155,7 +72280,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pirate Penguin",
@@ -70188,7 +72314,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Plesiosaur",
@@ -70221,7 +72348,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pochi",
@@ -70254,7 +72382,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pocochin Das Ehss",
@@ -70287,7 +72416,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pogo",
@@ -70320,7 +72450,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pokeportes",
@@ -70353,7 +72484,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pokke",
@@ -70386,7 +72518,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pokori",
@@ -70419,7 +72552,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pomme",
@@ -70452,7 +72586,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pon",
@@ -70485,7 +72620,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pontanitaire",
@@ -70518,7 +72654,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Popo",
@@ -70551,7 +72688,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Popora",
@@ -70584,7 +72722,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Poppy (Game)",
@@ -70600,7 +72739,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Poppy_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Poppy_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Poppy_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -70617,7 +72756,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pork",
@@ -70650,7 +72790,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pororoka",
@@ -70683,7 +72824,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Portnoy",
@@ -70716,7 +72858,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pre",
@@ -70749,7 +72892,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Prize",
@@ -70782,7 +72926,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Prodi",
@@ -70815,7 +72960,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Psycho P",
@@ -70848,7 +72994,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Puggy",
@@ -70881,7 +73028,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Pukau",
@@ -70914,7 +73062,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Punch",
@@ -70947,7 +73096,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Purin",
@@ -70980,7 +73130,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Puzzle",
@@ -71013,7 +73164,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Race",
@@ -71029,7 +73181,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Race_(Character)",
-    "Enlace Foto": "images/Webp/Race_%28Character%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Race_Character_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -71046,7 +73198,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rainbow King",
@@ -71079,7 +73232,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rainbow Moray Eel Brothers",
@@ -71112,7 +73266,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Raise Max",
@@ -71145,7 +73300,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Raccoon (Non-Canon)",
@@ -71161,7 +73317,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Raccoon_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Raccoon_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Raccoon_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -71178,7 +73334,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Randolph (Non-Canon)",
@@ -71194,7 +73351,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Randolph_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Randolph_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Randolph_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -71211,7 +73368,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Raniya",
@@ -71244,7 +73402,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Raoul",
@@ -71277,7 +73436,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rapanui Pasqua",
@@ -71310,7 +73470,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rasa",
@@ -71343,7 +73504,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ratchet",
@@ -71376,7 +73538,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Raymon",
@@ -71409,7 +73572,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Regen",
@@ -71442,7 +73606,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Regis",
@@ -71475,7 +73640,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Reika",
@@ -71508,7 +73674,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Reiko",
@@ -71541,7 +73708,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Reira",
@@ -71574,7 +73742,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Renny",
@@ -71607,7 +73776,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Reple",
@@ -71640,7 +73810,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Revina",
@@ -71673,7 +73844,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ricca",
@@ -71706,7 +73878,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rice Rice",
@@ -71739,7 +73912,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rick",
@@ -71772,7 +73946,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rikaon",
@@ -71805,7 +73980,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Riley Brothers",
@@ -71838,7 +74014,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rio",
@@ -71871,7 +74048,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rita Suerte",
@@ -71904,7 +74082,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rittonto",
@@ -71937,7 +74116,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Roba",
@@ -71970,7 +74150,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Roche (Game)",
@@ -71986,7 +74167,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2023",
     "Enlace": "/wiki/Roche_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Roche_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Roche_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -72003,7 +74184,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rocky Hattari",
@@ -72036,7 +74218,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rodom Andres Bell",
@@ -72069,7 +74252,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Roger",
@@ -72085,7 +74269,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Roger_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Roger_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Roger_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -72102,7 +74286,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rokai",
@@ -72135,7 +74320,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rokuroshi",
@@ -72168,7 +74354,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Romy",
@@ -72201,7 +74388,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rongo",
@@ -72234,7 +74422,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rorobao Sow",
@@ -72267,7 +74456,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rosario (Movie Old)",
@@ -72300,7 +74490,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rosario",
@@ -72333,7 +74524,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rose (Game Old)",
@@ -72366,7 +74558,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rose",
@@ -72382,7 +74575,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Rose_(World_Seeker)",
-    "Enlace Foto": "images/Webp/Rose_%28World_Seeker%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Rose_World_Seeker_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -72399,7 +74592,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Roule",
@@ -72432,7 +74626,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Roza",
@@ -72465,7 +74660,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rubis",
@@ -72498,7 +74694,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Rudd",
@@ -72531,7 +74728,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ruibe",
@@ -72564,7 +74762,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ryu",
@@ -72597,7 +74796,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ryudo",
@@ -72630,7 +74830,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ryuji",
@@ -72663,7 +74864,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sada",
@@ -72696,7 +74898,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Saga",
@@ -72729,7 +74932,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Saien",
@@ -72762,7 +74966,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Saikangaroo",
@@ -72795,7 +75000,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Saki (Old Game)",
@@ -72811,7 +75017,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2002",
     "Enlace": "/wiki/Saki_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Saki_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Saki_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -72828,7 +75034,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Salchow",
@@ -72861,7 +75068,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Salma",
@@ -72894,7 +75102,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Saori",
@@ -72927,7 +75136,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Saphir",
@@ -72960,7 +75170,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarbay",
@@ -72993,7 +75204,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sardan",
@@ -73026,7 +75238,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sargus",
@@ -73059,7 +75272,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sarutobi (Live)",
@@ -73075,7 +75289,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2021",
     "Enlace": "/wiki/Sarutobi_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Sarutobi_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Sarutobi_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -73092,7 +75306,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sasoz",
@@ -73125,7 +75340,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Satchin",
@@ -73158,7 +75374,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Savarin",
@@ -73191,7 +75408,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sayo",
@@ -73224,7 +75442,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sayori",
@@ -73257,7 +75476,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Scarlet",
@@ -73290,7 +75510,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Schneider",
@@ -73323,7 +75544,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Scorpion",
@@ -73356,7 +75578,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sealed",
@@ -73389,7 +75612,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sebastian",
@@ -73422,7 +75646,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Segem",
@@ -73455,7 +75680,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sekken De Tearai",
@@ -73488,7 +75714,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sekken De Tearai Jr.",
@@ -73521,7 +75748,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sentimental",
@@ -73554,7 +75782,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sheldon",
@@ -73587,7 +75816,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shepherd",
@@ -73620,7 +75850,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shichiseiken",
@@ -73653,7 +75884,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimizu (Newkama)",
@@ -73669,7 +75901,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2015",
     "Enlace": "/wiki/Shimizu_(Newkama)",
-    "Enlace Foto": "images/Webp/Shimizu_%28Newkama%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Shimizu_Newkama_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -73686,7 +75918,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shimoi Zappa",
@@ -73719,7 +75952,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shinpachi",
@@ -73752,7 +75986,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shiro",
@@ -73785,7 +76020,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shironyan",
@@ -73818,7 +76054,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shirotsu",
@@ -73851,7 +76088,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sho",
@@ -73884,7 +76122,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shopan",
@@ -73917,7 +76156,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shushibaruba",
@@ -73950,7 +76190,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shuraiya Bascùd",
@@ -73966,7 +76207,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2003",
     "Enlace": "/wiki/Shuraiya_Basc%C3%B9d",
-    "Enlace Foto": "images/Webp/Shuraiya_Basc%C3%B9d_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Shuraiya_Bascd_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -73983,7 +76224,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shutai",
@@ -74016,7 +76258,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shuzo",
@@ -74049,7 +76292,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sigurd",
@@ -74082,7 +76326,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Silk",
@@ -74115,7 +76360,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Silver-Silver",
@@ -74148,7 +76394,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Simon",
@@ -74181,7 +76428,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Simurgh",
@@ -74214,7 +76462,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sino Phoenix",
@@ -74247,7 +76496,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Skid",
@@ -74280,7 +76530,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Skullface",
@@ -74313,7 +76564,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Skunk One",
@@ -74346,7 +76598,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Slim (Live)",
@@ -74379,7 +76632,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Slim",
@@ -74395,7 +76649,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2022",
     "Enlace": "/wiki/Slim_(Panda)",
-    "Enlace Foto": "images/Webp/Slim_%28Panda%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Slim_Panda_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -74412,7 +76666,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Smash",
@@ -74445,7 +76700,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sogekiller",
@@ -74478,7 +76734,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sole",
@@ -74511,7 +76768,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Soran",
@@ -74544,7 +76802,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Shupeal",
@@ -74577,7 +76836,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Stansen (Non-Canon)",
@@ -74593,7 +76853,7 @@ const personajes = [
     "Saga Episodeo Numero": "5",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Stansen_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Stansen_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Stansen_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -74610,7 +76870,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Stella",
@@ -74626,7 +76887,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2016",
     "Enlace": "/wiki/Stella_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Stella_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Stella_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -74643,7 +76904,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Stonely",
@@ -74676,7 +76938,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Straight",
@@ -74709,7 +76972,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Su (Newkama)",
@@ -74725,7 +76989,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2015",
     "Enlace": "/wiki/Su_(Newkama)",
-    "Enlace Foto": "images/Webp/Su_%28Newkama%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Su_Newkama_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -74742,7 +77006,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Suita",
@@ -74775,7 +77040,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Susaburo",
@@ -74808,7 +77074,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Sutton",
@@ -74841,7 +77108,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Super White Bear",
@@ -74874,7 +77142,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Suzuki Ichiro",
@@ -74907,7 +77176,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tabi",
@@ -74940,7 +77210,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tacobo",
@@ -74973,7 +77244,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tagosaku",
@@ -75006,7 +77278,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tajiko",
@@ -75039,7 +77312,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tajio",
@@ -75072,7 +77346,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Taketo Nazawa",
@@ -75105,7 +77380,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tamaka",
@@ -75138,7 +77414,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tarako",
@@ -75171,7 +77448,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tam",
@@ -75204,7 +77482,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tama (Game)",
@@ -75220,7 +77499,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Tama_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Tama_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Tama_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -75237,7 +77516,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tambu",
@@ -75270,7 +77550,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tanaka",
@@ -75303,7 +77584,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tatsu",
@@ -75336,7 +77618,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Taylor",
@@ -75369,7 +77652,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tea",
@@ -75402,7 +77686,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tei",
@@ -75435,7 +77720,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tempo",
@@ -75468,7 +77754,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tequila",
@@ -75501,7 +77788,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Terrance",
@@ -75534,7 +77822,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tesak",
@@ -75567,7 +77856,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Theo",
@@ -75600,7 +77890,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tigerman",
@@ -75633,7 +77924,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tobo",
@@ -75666,7 +77958,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Toby",
@@ -75699,7 +77992,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tobio",
@@ -75732,7 +78026,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tohenbok",
@@ -75765,7 +78060,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tokkuri",
@@ -75798,7 +78094,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tom (Chef)",
@@ -75814,7 +78111,7 @@ const personajes = [
     "Saga Episodeo Numero": "3",
     "Año de Aparición": "2004",
     "Enlace": "/wiki/Tom_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Tom_%28Non-Canon%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Tom_Non-Canon_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -75831,7 +78128,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Toma",
@@ -75864,7 +78162,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tomac",
@@ -75897,7 +78196,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tongari Den Den Mushi",
@@ -75930,7 +78230,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Toratsugu",
@@ -75963,7 +78264,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Torta",
@@ -75996,7 +78298,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Torva",
@@ -76029,7 +78332,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Toshi",
@@ -76062,7 +78366,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tot Musica",
@@ -76095,7 +78400,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Trade",
@@ -76128,7 +78434,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Trap",
@@ -76161,7 +78468,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Trip",
@@ -76194,7 +78502,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Troff",
@@ -76227,7 +78536,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsubaki",
@@ -76260,7 +78570,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Tsubaki (Novel)",
@@ -76276,7 +78587,7 @@ const personajes = [
     "Saga Episodeo Numero": "1",
     "Año de Aparición": "2024",
     "Enlace": "/wiki/Tsubaki_(Novel)",
-    "Enlace Foto": "images/Webp/Tsubaki_%28Novel%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Tsubaki_Novel_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -76293,7 +78604,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Two Base",
@@ -76326,7 +78638,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Umeno Nazawa",
@@ -76359,7 +78672,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Usanksai",
@@ -76392,7 +78706,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Usodabird",
@@ -76425,7 +78740,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Vaun",
@@ -76458,7 +78774,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Ven Vendler",
@@ -76491,7 +78808,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Vigaro",
@@ -76524,7 +78842,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Vigo",
@@ -76557,7 +78876,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Volg",
@@ -76590,7 +78910,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wadataira",
@@ -76623,7 +78944,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wadatsumi (Old Game)",
@@ -76639,7 +78961,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2002",
     "Enlace": "/wiki/Wadatsumi_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Wadatsumi_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Wadatsumi_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -76656,7 +78978,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Week",
@@ -76689,7 +79012,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wetton",
@@ -76722,7 +79046,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Whitejack",
@@ -76755,7 +79080,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wier",
@@ -76788,7 +79114,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wild Joe",
@@ -76821,7 +79148,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wilder",
@@ -76854,7 +79182,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Will",
@@ -76887,7 +79216,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Willy (Fish-Man)",
@@ -76920,7 +79250,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Win",
@@ -76953,7 +79284,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wind Rumor Taro",
@@ -76986,7 +79318,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wolf (Elbaph)",
@@ -77002,7 +79335,7 @@ const personajes = [
     "Saga Episodeo Numero": "",
     "Año de Aparición": "2019",
     "Enlace": "/wiki/Wolf_(Non-Canon)",
-    "Enlace Foto": "images/Webp/Wolf_%28Non-Canon%29_Infobox.webp",
+    "Enlace Foto": "images/Webp/Wolf_Non-Canon_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -77019,7 +79352,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wolf (Whole Cake)",
@@ -77035,7 +79369,7 @@ const personajes = [
     "Saga Episodeo Numero": "9",
     "Año de Aparición": "2018",
     "Enlace": "/wiki/Wolf_(Assassin)",
-    "Enlace Foto": "images/Webp/Wolf_%28Assassin%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Wolf_Assassin_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -77052,7 +79386,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wolf",
@@ -77085,7 +79420,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Wombat",
@@ -77118,7 +79454,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Woonan",
@@ -77151,7 +79488,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Xiao",
@@ -77184,7 +79522,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yadoya",
@@ -77217,7 +79556,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yakedoro",
@@ -77250,7 +79590,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamada Shinichi",
@@ -77283,7 +79624,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yamaguma",
@@ -77316,7 +79658,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yasmine",
@@ -77349,7 +79692,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yehudi",
@@ -77382,7 +79726,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yoko (Navy)",
@@ -77415,7 +79760,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yoko",
@@ -77431,7 +79777,7 @@ const personajes = [
     "Saga Episodeo Numero": "4",
     "Año de Aparición": "2007",
     "Enlace": "/wiki/Yoko_(Water_7)",
-    "Enlace Foto": "images/Webp/Yoko_%28Water_7%29_Anime_Infobox.webp",
+    "Enlace Foto": "images/Webp/Yoko_Water_7_Anime_Infobox.webp",
     "Nombre Fruta": "",
     "Significado Fruta": "",
     "Tipo Fruta": "",
@@ -77448,7 +79794,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yorueka",
@@ -77481,7 +79828,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yoshi",
@@ -77514,7 +79862,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yoshio",
@@ -77547,7 +79896,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yukimura",
@@ -77580,7 +79930,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yuka",
@@ -77613,7 +79964,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yuri",
@@ -77646,7 +79998,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yuta",
@@ -77679,7 +80032,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Yuya",
@@ -77712,7 +80066,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Z",
@@ -77745,7 +80100,8 @@ const personajes = [
     "Armadura": "1",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zaba",
@@ -77778,7 +80134,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zabal",
@@ -77811,7 +80168,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zap",
@@ -77844,7 +80202,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zaraza",
@@ -77877,7 +80236,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zau Ra Zau",
@@ -77910,7 +80270,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zenny",
@@ -77943,7 +80304,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zenran",
@@ -77976,7 +80338,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zomino",
@@ -78009,7 +80372,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zona Anes",
@@ -78042,7 +80406,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zona Dart",
@@ -78075,7 +80440,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zona Lil",
@@ -78108,7 +80474,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zona Mam",
@@ -78141,7 +80508,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zona Middel",
@@ -78174,7 +80542,8 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   },
   {
     "Nombre Pirata": "Zoryu",
@@ -78207,6 +80576,7 @@ const personajes = [
     "Armadura": "",
     "Observación": "",
     "Rei": "",
-    "Canon": "0"
+    "Canon": "0",
+    "": ""
   }
 ];
