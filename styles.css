@@ -186,6 +186,9 @@ body {
 .wrong-cell   { 
   background: radial-gradient(circle, rgb(255,82,82) 15%, rgb(150,36,36) 100%);
 }
+.partial-cell {
+  background: radial-gradient(circle, rgb(255,190,82) 15%, rgb(150,102,36) 100%);
+}
 
 /* Transición de aparición */
 .invisible-cell {
