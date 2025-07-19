@@ -269,13 +269,6 @@ function updateHighlighted(items) {
    PROCESAMIENTO DE INTENTOS
 --------------------------- */
 function procesarIntento(p) {
-  /*TEST */
-  target = {
-    "Armadura": "1",
-    "Observación": "1",
-    "Rei": "0"
-  };
-
     const camposFormateados = ["Altura", "Recompensa"];
 
     // Si es el primer intento, genera cabecera y muestra tabla
