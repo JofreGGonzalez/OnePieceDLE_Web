@@ -395,7 +395,7 @@ h1 {
   transition: -webkit-mask-position-x 1s ease-in-out, mask-position-x 1s ease-in-out, --mask-opacity 1s ease-in-out;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 660px) {
   body{
     background-size: cover !important;
   }
