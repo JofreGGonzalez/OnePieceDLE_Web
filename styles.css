@@ -406,14 +406,21 @@ h1 {
 
   /* Ajustes para el título */
   h1 {
-    font-size: 1.8em;
+    font-size: 2.2em;
+    padding-right: 30%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin-top: 1%;
   }
 
   /* Buscador más compacto */
   .search-group,
   #search {
-    max-width: 90%;
-    font-size: 14px;
+    max-width: 95%;
+    font-size: 1.2em;
+  }
+  .search-group{
+    margin-bottom: 5%;
   }
 
   /* Sugerencias más legibles */
@@ -428,20 +435,20 @@ h1 {
     margin-right: 6px;
   }
 
-  /* Contenedor de pistas */
-  .pistas-container {
-    width: 95%;
-    margin: 0 auto 40px;
-    padding: 10px;
+  .pistas-botones{
+    gap: 0.5em;
   }
 
-  .pista-btn img {
-    width: 28px;
-    height: 28px;
+  /* Contenedor de pistas */
+  .pistas-container {
+    width: 80%;
+    /*margin: 0 auto 40px;*/
+    padding: 4%;
+    margin-bottom: 5%;
   }
 
   .pista-texto {
-    font-size: 16px;
+    font-size: 1.2em;
   }
 
   /* Selector canon/idioma más pequeño */
