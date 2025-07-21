@@ -64,7 +64,7 @@ body {
 
   background-color: rgb(242, 231, 204);
 
-  border-bottom: 1px solid rgb(72 50 10 / 82%);
+  border: 1px solid rgb(72 50 10 / 90%);
 }
 
 #suggestions {
@@ -448,7 +448,7 @@ h1 {
   /* Buscador más compacto */
   .search-group,
   #search {
-    max-width: 95%;
+    max-width: 92%;
     font-size: 1em;
   }
   .search-group{
@@ -473,8 +473,8 @@ h1 {
 
   #suggestions{
     max-height: 230px;
-    margin-left: 2.4%;
-    width: 94.8%;
+    /*margin-left: 2.4%;
+    width: 94.8%;*/
   }
 
   .pistas-botones{
