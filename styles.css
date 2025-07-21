@@ -371,8 +371,10 @@ h1 {
 /* Degradado izquierda */
 .table-wrapper {
   overflow-x: scroll;
-  --webkit-overflow-scrolling: touch; 
-  touch-action: pan-x;
+  --webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  overscroll-behavior-y: auto;
+  touch-action: pan-y pan-x;
   scrollbar-width: none;
   --ms-overflow-style: none;
 
