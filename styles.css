@@ -48,6 +48,9 @@ body {
   align-items: center;
   gap: 8px;
   position: relative;
+
+  background-color: rgb(242, 231, 204);
+  border: 1px solid rgb(72 50 10 / 90%);
 }
 
 #search {
@@ -65,21 +68,30 @@ body {
   background-color: rgb(242, 231, 204);
 
   border: 1px solid rgb(72 50 10 / 90%);
+
+  margin-top: 2%;
+  margin-left: 2%;
+  margin-bottom: 2%;
 }
 
 #suggestions {
   position: absolute;
-  top: 100%;
-  left: 0;
+  /*top: 100%;*/
+  top: calc(100% - 15%);
+  left: 2%;
   right: 0;
-  border: 1px solid #ccc;
-  background: #fff;
+  border: 1px solid rgb(72 50 10 / 82%);
+  /*background: #fff;*/
   max-height: 200px;
   overflow-y: hidden;
   z-index: 10;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   overflow-y: auto;
-  width: 93%;
+  width: 90%;
+}
+
+#suggestions:empty {
+  border: none;
 }
 
 .suggestion {
@@ -95,6 +107,10 @@ body {
   background-color: #cfa466;
 }
 
+.arrow-search:active {
+  transform: scale(0.8);
+}
+
 .arrow-search {
     width: 5%;
     height: auto;
@@ -102,6 +118,10 @@ body {
     cursor: pointer;
     fill: #333;
     flex-shrink: 0;
+
+    margin-right: 2%;
+
+    transition: transform 0.2s ease;
 }
 
 .mini-foto {
