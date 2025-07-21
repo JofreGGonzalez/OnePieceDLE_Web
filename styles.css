@@ -56,6 +56,10 @@ body {
   outline: none;
   border-radius: 2px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  background-color: rgb(250, 249, 243);
+
+  border-bottom: 1px solid rgb(72 50 10 / 82%);
 }
 
 #suggestions {
@@ -77,6 +81,8 @@ body {
   align-items: center;
   padding: 8px;
   cursor: pointer;
+  border-bottom: 1px solid rgb(72 50 10 / 82%);
+  background-color: rgb(250, 249, 243);
 }
 
 .suggestion:hover {
@@ -452,6 +458,8 @@ h1 {
 
   #suggestions{
     max-height: 230px;
+    margin-left: 2.4%;
+    width: 94.8%;
   }
 
   .pistas-botones{
