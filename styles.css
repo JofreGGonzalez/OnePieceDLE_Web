@@ -43,6 +43,11 @@ body {
   max-width: 500px;
   margin: 0 auto;
   margin-bottom: 60px;
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  position: relative;
 }
 
 #search {
@@ -74,6 +79,7 @@ body {
   z-index: 10;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   overflow-y: auto;
+  width: 93%;
 }
 
 .suggestion {
@@ -86,7 +92,16 @@ body {
 }
 
 .suggestion:hover {
-  background: #eee;
+  background-color: #cfa466;
+}
+
+.arrow-search {
+    width: 5%;
+    height: auto;
+
+    cursor: pointer;
+    fill: #333;
+    flex-shrink: 0;
 }
 
 .mini-foto {

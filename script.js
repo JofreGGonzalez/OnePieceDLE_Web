@@ -265,6 +265,15 @@ function updateHighlighted(items) {
   if (current) current.scrollIntoView({ block: "nearest" });
 }
 
+document.querySelector(".arrow-search").addEventListener("click", () => {
+  const items = suggestions.querySelectorAll(".suggestion");
+  if (highlightedIndex >= 0 && items[highlightedIndex]) {
+    items[highlightedIndex].click();
+  } else if (items.length > 0) {
+    items[0].click(); // selecciona el primero si no hay highlight
+  }
+});
+
 /* ---------------------------
    PROCESAMIENTO DE INTENTOS
 --------------------------- */
