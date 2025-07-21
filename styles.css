@@ -370,9 +370,12 @@ h1 {
 /*Contenedor tabla y degradado*/
 /* Degradado izquierda */
 .table-wrapper {
-  overflow-x: hidden;
-  -webkit-overflow-scrolling: touch;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch; 
   touch-action: pan-x;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+
   position: relative;
 
   -webkit-mask-image: linear-gradient(to right,
@@ -395,6 +398,10 @@ h1 {
   -webkit-mask-composite: destination-in;
   mask-composite: intersect;
   transition: -webkit-mask-position-x 1s ease-in-out, mask-position-x 1s ease-in-out, --mask-opacity 1s ease-in-out;
+}
+
+.table-wrapper::-webkit-scrollbar {
+  display: none;
 }
 
 @media (max-width: 768px){
