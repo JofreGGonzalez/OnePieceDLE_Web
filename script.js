@@ -95,7 +95,7 @@ const traducciones = {
     "Altura": "Altura",
     "Recompensa": "Recompensa",
     "Canon": "¿Canon?",
-    "Haki": "Haki 🧠"
+    "Haki": "Haki"
   },
   en: {
     "Nombre Pirata": "Name",
@@ -109,7 +109,7 @@ const traducciones = {
     "Altura": "Height",
     "Recompensa": "Bounty",
     "Canon": "Canon?",
-    "Haki": "Haki 🧠"
+    "Haki": "Haki"
   },
   fr: {
     "Nombre Pirata": "Nom",
@@ -123,7 +123,7 @@ const traducciones = {
     "Altura": "Taille",
     "Recompensa": "Prime",
     "Canon": "Canon ?",
-    "Haki": "Haki 🧠"
+    "Haki": "Haki"
   },
   jp: {
     "Nombre Pirata": "名前",
