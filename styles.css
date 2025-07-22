@@ -52,6 +52,8 @@ body {
   background-color: rgb(242, 231, 204);
   border: 4px solid rgb(72 50 10 / 90%);
   border-radius: 11px;
+
+  box-shadow: rgb(72 50 10 / 90%) 0px 0px 3px 0px inset;
 }
 
 #search {
@@ -180,13 +182,12 @@ body {
 
 #result-table th {
   font-size: 17px;
-  color: white;
+  /*color: white;*/
   /* Texto con contorno negro grueso */
-  text-shadow:
+  /*text-shadow:
     -1px -1px 0 black, 0 -1px 0 black, 1px -1px 0 black,
     -1px 0 0 black,               1px 0 0 black,
     -1px 1px 0 black, 0 1px 0 black, 1px 1px 0 black,
-    /* Repetir capas para grosor adicional */
     -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black,
     -2px 0 0 black,               2px 0 0 black,
     -2px 2px 0 black, 0 2px 0 black, 2px 2px 0 black,
@@ -200,11 +201,21 @@ body {
     -5px 0 0 black,               5px 0 0 black,
     -5px 5px 0 black, 0 5px 0 black, 5px 5px 0 black;
 
-    text-decoration: underline overline;
-    text-underline-offset: 6px;
+  text-decoration: underline overline;
+  text-underline-offset: 6px;*/
 
-    background: linear-gradient(311deg, rgba(0, 0, 0, 0.2) 33%, rgba(255, 255, 255, 0.68) 53%, rgba(0, 0, 0, 0.2) 76%);
-}
+  /*background: linear-gradient(311deg, rgba(0, 0, 0, 0.2) 33%, rgba(255, 255, 255, 0.68) 53%, rgba(0, 0, 0, 0.2) 76%);*/
+
+  background-color: rgb(209 173 107);
+  box-shadow: rgb(72 50 10 / 90%) 0px 0px 6px 1px inset;
+
+  /*text-shadow: -2px -2px 0px rgb(72 50 10 / 90%), 2px 2px 0px rgb(72 50 10 / 90%), 2px 8px 6px rgba(0, 0, 0, 0.2), 0px -8px 30px rgba(255, 255, 255, -1.7);
+  */
+  font-weight: bold;
+  color: rgb(72 50 10);
+  text-shadow: 5px 5px 0px rgba(0, 0, 0, 0.15);
+
+  }
 
 #result-table td,
 .pista-texto {
@@ -215,6 +226,14 @@ body {
      1px -1px 0 black,
     -1px  1px 0 black,
      1px  1px 0 black;
+}
+
+#result-table td{
+  background-color: rgb(209 173 107);
+}
+
+table tbody td:first-child {
+  box-shadow: rgb(72 50 10 / 90%) 0px 0px 12px 1px inset, rgb(62 51 22 / 99%) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 8px 0px !important;
 }
 
 .suggestion.highlighted {
@@ -302,14 +321,18 @@ td img {
   width: 550px;
   margin: 0 auto 70px;
   padding: 10px 0;
-  /*background: url('images/wallpaper/Wall02.jpg') top/cover no-repeat;*/
-  border: 3px solid #28251d;
+  /*background: url('images/wallpaper/Wall02.jpg') top/cover no-repeat;
+  border: 3px solid #28251d;*/
   border-radius: 8px;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  backdrop-filter: blur(5px);
+  /*backdrop-filter: blur(5px);*/
+  background-color: rgb(242, 231, 204);
+  border: 4px solid rgb(72 50 10 / 90%);
+
+  box-shadow: rgb(72 50 10 / 90%) 0px 0px 13px 0px inset, rgb(72 50 10 / 30%) 0px 0px 35px -13px inset;
 }
 
 /* Contenedor de botones */
@@ -321,6 +344,13 @@ td img {
   text-align: center;
   font-size: 18px;
   color: white;
+
+  
+}
+
+#pistas:has(#pista-texto:not(.hidden)) .pistas-botones {
+  border-bottom: 3px solid rgb(72 50 10 / 90%);
+  padding-bottom: 5%;
 }
 
 /* Botones de pista */
@@ -339,6 +369,8 @@ td img {
 
   opacity: 0.5;
   transition: opacity 0.2s;
+
+  box-shadow: rgb(72 50 10 / 90%) 0px 0px 17px;
 }
 
 .pista-btn:enabled {
@@ -352,8 +384,11 @@ td img {
 /* Texto de pista */
 .pista-texto {
   text-align: center;
-  font-size: 18px;
+  font-size: 20px;
   margin-top: 10px;
+  font-weight: bold;
+  color: rgb(72 50 10);
+  text-shadow: 5px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
 /* Ocultar elementos */
